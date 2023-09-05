@@ -218,6 +218,39 @@ Ciclo:
 - 3.3. Impact Mapping.
 - 3.4. Product Backlog.
 
+| #Orden | User Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
+|-----------|-----------|-----------|-----------|-----------|
+| 1 | US23 | Botón call to action | Como usuario deseo que el landing page posea un botón call-to-action para poder acceder directamente hacia la aplicación. | 1
+| 2 | US27 | Visualizar la sección home del landing page | Como usuario quiero ver la sección “home” para ver la información principal.| 2
+| 3 | US28 | Visualizar la sección "about us" en landing page | Como usuario quiero ver la sección “about us” para saber porque TastyPoint es innovadora en el área de comida a domicilio.| 1
+| 4 | US29 | Visualizar la sección "segments" en landing page. | Como usuario quiero ver la sección “segments” para conocer a quienes está dirigida la aplicación y sus beneficios. | 1
+| 5 | US24 | Visualización de planes de suscripción.|Como usuario deseo poder visualizar los planes de suscripción en el landing page para poder informarme cuanto son las cantidades por pagar por el servicio.|2
+| 6 | US25|Visualización de redes sociales.|Como usuario deseo poder acceder a las redes sociales del startup por medio del landing page para conocer más acerca de este.|1
+| 7 | US13|Publicación de platos sobrantes|Como cliente deseo poder publicar los platos que me sobraron en el día para poder vender lo máximo posible|5
+| 8 | US14|Publicación de insumos sobrantes|Como cliente quiero publicar los insumos sobrantes del día para reducir al mínimo los desperdicios de estos|5
+|9|US20|Editar las características de un plato o insumo|Como cliente quiero ser capaz de editar las características que coloqué sobre algún plato o insumo para corregir errores o actualizar la información.|3
+|10|US21|Contar con un CTA (Call To Action) potencialmente atractivo|Como cliente es de mi interés que las ventas aumenten, por lo tanto, es de suma importancia que dentro de la App exista algún botón o enlace que los direccione a la carta disponible en mi restaurante y asegurar su compra.|5
+|11|US18|Ver el catálogo de platos e insumos|Como cliente quiero ver el catálogo actual de platos e insumos ofrecidos por mi establecimiento para corroborar que los datos de la app coincidan con mi inventario.| 3
+|12|US12|Pago de suscripción|Como cliente deseo poder pagar la suscripción desde la aplicación para facilitar un control de pagos|5
+|13|US07|Visualizar productos y sus datos|Como consumidor quiero ver la lista de los productos publicados por los restaurantes registrados en la aplicación para poder comprarlos.|3
+|14|US17|Ver pedidos|Como cliente quiero ver la lista de pedidos solicitados en mi restaurante, para conocer la demanda a través de la App web.|3
+|15|US08|Filtrar restaurante|Como consumidor quiero filtrar la lista de restaurantes registrados en la aplicación para poder encontrar rápidamente los productos de mi restaurante de preferencia.|3
+|16|US10|Filtrar productos|Como consumidor quiero filtrar la lista de productos registrados en la aplicación para poder encontrar rápidamente el producto que deseo.|3
+|17|US06|Fijar favoritos|Como consumidor quiero clasificar de manera favorita mis productos para lograr visualizar la disponibilidad en la sección “Mis favoritos”|3
+|18|US04|Pagar el envío de productos|Como consumidor quiero pagar mi envío para recibirlo plácidamente en mi casa|5
+|19|US09|Compartir comentario|Como consumidor quiero redactar un comentario sobre algo en específico para poder compartir mi experiencia con los demás.|2
+| 20|US22|Poder leer los comentarios de los usuarios|Como cliente quiero leer el feedback de los comensales para mejorar.|3
+|21|US16|Ver opciones disponibles|Como cliente quiero ver las opciones que ofrece Tasty Point para conocer el funcionamiento de la app y elegir alguna de sus opciones disponibles.|2
+|22|US19|Abrir vista de consumidor|Como cliente quiero contar con la vista de consumidor para asegurar que mis productos se vean atractivos para los consumidores.|3
+|23|US15|Medios de contacto|Como cliente quiero enlazar todos los medios de comunicación que poseo para permitir a los clientes contactarse directamente con nosotros.|2
+|24|US05|Visualizar todas las notificaciones|Como consumidor, quiero visualizar las principales notificaciones para estar informado sobre las ofertas y promociones que ofrezca la aplicación|2
+|25|US11|Registro de cliente|Como cliente deseo poder registrarme en la aplicación para acceder a todos sus beneficios|3
+|26|US01|Registro de Consumidor|Como consumidor quiero crear una cuenta para poder realizar compras de platos de comida a un bajo precio.|3
+|27|US02|Monitorear el perfil|Como consumidor quiero ver el perfil de mi cuenta para corroborar que mis datos sean correctos.|3
+|28|US03|Cerrar sesión de consumidor|Como consumidor deseo poder cerrar sesión para no dejar expuesta mi cuenta en mi ordenador|2
+|29|US28|Web responsive|Como usuario deseo que la aplicación web sea totalmente responsive para poder usarlo desde distintos dispositivos.|2
+
+
 ## Capítulo IV: Solution Software Design 
 - 4.1. Strategic-Level Attribute-Driven Design. 
 	- 4.1.1. Design Purpose. 
