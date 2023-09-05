@@ -216,6 +216,13 @@ Ciclo:
 | US29 |Visualizar la sección "segments" en landing page | Como usuario quiero ver la sección “segments” para conocer a quienes está dirigida la aplicación y sus beneficios.|Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de “segments”, entonces visualiza el público objetivo de TastyPoint y las características de la aplicación en cada uno.|Usuario se dirige a la sección “segments” de la landing page|
 
 - 3.3. Impact Mapping.
+
+Segmento Cliente:
+![Impact Map 1](https://media.discordapp.net/attachments/912089666939916348/1148756492040802304/Flowchart.jpg?width=1397&height=669)
+
+Segmento usuario:
+![Impact Map 2](https://media.discordapp.net/attachments/912089666939916348/1148762107676987412/Flowchart_1.jpg?width=1047&height=669)
+
 - 3.4. Product Backlog.
 
 | #Orden | User Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
