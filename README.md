@@ -144,9 +144,9 @@ Ciclo:
 
 Entrevista 1: Alejandro Rojas
 ![entrevista](https://media.discordapp.net/attachments/912089666939916348/1148765168013152398/image.png?width=1392&height=669)
-Duracion: 06:46
-Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010196_upc_edu_pe/ETDhQlAQWthGipanM-mMBa4BXFzPBPXX0srJm7TCC5EydQ?e=6KtsbI
-Resumen: Alejandro es un chico joven de 19  años que estudia la carrera de ciencias de la computacion, nos ha mencionado como es que nunca se habia percatado de la problematica que estamos tratando, siendo que la gente deja la comida desperdiciada, a su vez nos menciona que en la semana hasta entre 200 y 300 soles en comida y que le encantaria la idea de nuestra aplicacion. 
+- Duracion: 06:46
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010196_upc_edu_pe/ETDhQlAQWthGipanM-mMBa4BXFzPBPXX0srJm7TCC5EydQ?e=6KtsbI
+- Resumen: Alejandro es un chico joven de 19  años que estudia la carrera de ciencias de la computacion, nos ha mencionado como es que nunca se habia percatado de la problematica que estamos tratando, siendo que la gente deja la comida desperdiciada, a su vez nos menciona que en la semana hasta entre 200 y 300 soles en comida y que le encantaria la idea de nuestra aplicacion. 
 
 - 2.2.3. Análisis de entrevistas.
 
