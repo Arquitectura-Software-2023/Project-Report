@@ -114,7 +114,7 @@ Ciclo:
 
 | Nombre| Descripción| 
 |-----------|-----------|
-|Andres Christian Reynoso  | |
+|Andres Christian Reynoso  | Mi nombre es Andres Christian Reynoso, tengo 20 años y estudio en la carrera de Ingenieria de Software, estoy dispuesto a apoyar a mis compañeros en los momentos que sean necesarios.|
 ||  |
 ||  |
 ||  |
