@@ -225,6 +225,8 @@ Segmento usuario:
 
 - 3.4. Product Backlog.
 
+Enlace de Product Backlog: https://trello.com/invite/b/LpgUino5/ATTIabb6fba6cad2a50dff8c6b0d7324a004FD6845A2/tastypoint
+
 | #Orden | User Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
 |-----------|-----------|-----------|-----------|-----------|
 | 1 | US23 | Botón call to action | Como usuario deseo que el landing page posea un botón call-to-action para poder acceder directamente hacia la aplicación. | 1
