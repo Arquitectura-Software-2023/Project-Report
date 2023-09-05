@@ -142,6 +142,12 @@ Ciclo:
 					
 - 2.2.2. Registro de entrevistas.
 
+Entrevista 1: Alejandro Rojas
+![entrevista](https://media.discordapp.net/attachments/912089666939916348/1148765168013152398/image.png?width=1392&height=669)
+Duracion: 06:46
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010196_upc_edu_pe/ETDhQlAQWthGipanM-mMBa4BXFzPBPXX0srJm7TCC5EydQ?e=6KtsbI
+Resumen: Alejandro es un chico joven de 19  años que estudia la carrera de ciencias de la computacion, nos ha mencionado como es que nunca se habia percatado de la problematica que estamos tratando, siendo que la gente deja la comida desperdiciada, a su vez nos menciona que en la semana hasta entre 200 y 300 soles en comida y que le encantaria la idea de nuestra aplicacion. 
+
 - 2.2.3. Análisis de entrevistas.
 
 ### 2.3. Needfinding.
@@ -225,8 +231,6 @@ Segmento usuario:
 
 - 3.4. Product Backlog.
 
-Enlace de Product Backlog: https://trello.com/invite/b/LpgUino5/ATTIabb6fba6cad2a50dff8c6b0d7324a004FD6845A2/tastypoint
-
 | #Orden | User Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
 |-----------|-----------|-----------|-----------|-----------|
 | 1 | US23 | Botón call to action | Como usuario deseo que el landing page posea un botón call-to-action para poder acceder directamente hacia la aplicación. | 1
@@ -258,7 +262,6 @@ Enlace de Product Backlog: https://trello.com/invite/b/LpgUino5/ATTIabb6fba6cad2
 |27|US02|Monitorear el perfil|Como consumidor quiero ver el perfil de mi cuenta para corroborar que mis datos sean correctos.|3
 |28|US03|Cerrar sesión de consumidor|Como consumidor deseo poder cerrar sesión para no dejar expuesta mi cuenta en mi ordenador|2
 |29|US28|Web responsive|Como usuario deseo que la aplicación web sea totalmente responsive para poder usarlo desde distintos dispositivos.|2
-
 
 ## Capítulo IV: Solution Software Design 
 - 4.1. Strategic-Level Attribute-Driven Design. 
