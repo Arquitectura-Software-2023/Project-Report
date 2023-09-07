@@ -271,21 +271,111 @@ Al fusionar estas 2 ideas, conseguimos Tasty point (algo como los Recycling Poin
 Nuestro punto es... hay buena comida aquí. ¡Ven a conseguirla! 
 El color principal de la marca es el Naranja: Este representa la vitalidad y confiabilidad que queremos representar para nuestros clientes.
 
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/7673e8bf-b2a2-43ab-8e92-9f9f236b1f05)
+
+Colors: 
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/42dfb1d8-7f9b-4329-9e7f-cdf836121c03)
+Nuestra aplicación web usará el Patrón en Z:
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a242fb41-8bc5-4113-a49a-2de56cae7ffd)
+
 	- 4.1.2. Attribute-Driven Design Inputs. 
 		- 4.1.2.1. Primary Functionality (Primary User Stories). 
+  Criterios considerados en el diseño de Tasty Point:
+Web Usability:
+- Facilita la interacción gracias el uso de fuentes distinguibles y del tamaño adecuado.
+- Estructura el contenido: navegación en forma Z 
+- Simplifica y sintetiza: Textos directos sin perder la amabilidad que queremos proyectar como marca.
+
+Inclusive design:
+Los servicios brindados por la página deben ser accesibles a todo nuestro público objetivo, en este caso, ya que nuestro público objetivo abarca personas entre 20 y 40 años, las pautas consideradas son:
+•	Colores contrastantes y fuentes distinguibles para los usuarios con problemas de visión.
+•	Descripción de las imágenes empleadas para lectores de pantalla.
+•	Consistencia externa: Cumplir con los patrones de diseño comunes 
+•	Formato de imágenes png para conservar la calidad. 
+Internationalization and Accessibility:
+El idioma por defecto empleado en los productos para la solución de este proyecto es el inglés.
+
+Responsive Web Design: Tanto el Landing page como la app web responden al dispositivo en el que el usuario ingresa. Ya que cuentan con una versión en vista web y mobile.
+
 		- 4.1.2.2. Quality attribute Scenarios. 
+  Landing page:
+En el landing page se organizará el contenido de forma jerárquica. Mostrando primero una breve descripción de Tasty Point y luego ramificando las entradas para los 2 públicos objetivos a los que queremos llegar. 
+App web:
+En la aplicación web, se mostrarán los platos ordenados por tópicos, desde el más popular, hasta el menos popular.
+La aplicación también contará con opciones para cambiar el orden en que se presentan los productos. Por ejemplo: Ordenado por fechas: del más reciente al más antiguo, ordenado por fechas: del más antiguo al más reciente, ordenado en orden alfabético: a – z, ordenado en orden alfabético: z – a, etc.
+
 		- 4.1.2.3. Constraints. 
+  Landing page:
+En el encabezado del landing page se emplean las etiquetas de “Home”, “About us”, “Features”, “Pricing” y el botón “Sign up”; que direccionan al usuario a la sección elegida de la página web.
+También se emplearon los botones: “Customers” y “Business”. 
+Que direccionan a los usuarios a la sección de la página destinada para ellos.
+App web:
+En la aplicación web se mostrarán las secciones en una barra lateral a la izquierda de la pantalla. Estas direccionarán a la sección que busque el usuario.
+Landing page:
+Título: Tasty Point: The best way to help reduce food waste in Peru.
+Description: With Tasty Point, you can help fight food waste. We have different environments according to the segment to which it belongs.
+Keywords: “comida”, “medio ambiente”, “comida económica”, “ofertas de comida”, “aplicación web”, “desperdicio de comida”, “bajo presupuesto”, “ahorro”, “comida rápida”, “rico y económico”. 
+Author: Outsiders 
+App web:
+Título: Tasty Point
+Description: Tasty Point’s app web. Buy tasty food and help reduce food waste.
+Keywords: “App web”, “comida”, “medio ambiente”, “comida económica”, “ofertas de comida”, “aplicación web”, “desperdicio de comida”, “bajo presupuesto”, “ahorro”, “comida rápida”, “rico y económico”. 
+
+La aplicación web de Tasty point contará con filtros al presentar los platos del día. Filtros como:
+•	Tipo de comida.
+•	Nombre del Restaurante/Local de comida.
+•	Precios.
+Además, los platos se presentarán por defecto en orden de popularidad. Sin embargo, los usuarios también podrán elegir su orden de presentación preferido, como: Ordenado por fechas: del más reciente al más antiguo, ordenado por fechas: del más antiguo al más reciente, ordenado en orden alfabético: a – z, ordenado en orden alfabético: z – a, etc.
+Como adicional, las opciones de platos disponibles tendrán un color distinguible a los ojos del usuario.
+
+Landing page:
+Se usa un menú de navegación fija. De manera que, aunque el usuario haya elegido una opción a seguir, el menú siempre permanecerá a su disposición.
+También incluye un pie de página para enlazar secciones pertinentes del Landing page.
+App Web:
+Se incluye una barra lateral para mostrar las opciones que el usuario puede elegir, opciones como: "Inicio", "Agregar", "Catálogo", "Reservaciones actuales", "Más información", etc.
+
 	- 4.1.3. Architectural Drivers Backlog. 6/40 V1.0 
+ 
 	- 4.1.4. Architectural Design Decisions. 
 	- 4.1.5. Quality Attribute Scenario Refinements. 
 - 4.2. Strategic-Level Domain-Driven Design. 
 	- 4.2.1. EventStorming. 
 	- 4.2.2. Candidate Context Discovery. 
-	- 4.2.3. Domain Message Flows Modeling. 
-	- 4.2.4. Bounded Context Canvases. 
-	- 4.2.5. Context Mapping. 
+	- 4.2.3. Domain Message Flows Modeling.
+ - En esta sección se presentarán los wireflows relacionados a los wireframes de la aplicación web y las historias de usuario.
+1.	Como consumidor quiero ver el perfil de mi cuenta para corroborar que mis datos sean correctos.
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/e099dfc9-bfc0-46a6-8e9a-48bf5ebe1c34)
+2.	 Como consumidor, quiero visualizar las principales notificaciones para estar informado sobre las ofertas y promociones que ofrezca la aplicación
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a3f0d55b-077f-4e22-9c5a-be5a7734666e)
+3.	Como consumidor quiero clasificar de manera favorita mis productos para lograr visualizar la disponibilidad en la sección “Mis favoritos”
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/2ec0b0d7-ed4a-4898-baca-3944ffbaf13a)
+4.	Como consumidor quiero ver el catálogo de los productos alimenticios de primera necesidad para comprarlos.
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/b686310b-5d9d-4c43-846f-87c720db180e)
+5.	Como consumidor quiero ver el catálogo de los productos alimenticios de primera necesidad para comprarlos
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/5678a282-2c58-4486-a021-44597f813a2c)
+
+
+
+ - En esta sección se presentarán los diseños realizados para la implementación del Landing page, tanto en Wireframe como Mockup.
+ - A continuación, se mostrará el diseño en un modelo de tipo Wireframe para el Landing Page de la aplicación Tasty Point. Para mayor detalle, visualizar el enlace de Figma.
+Link a Figma: https://www.figma.com/file/VroQCK2bhcvc3SDwavm84T/Landing-Page-Wireframe-Tasty-Point?node-id=0%3A1
+
+	- 4.2.4. Bounded Context Canvases.
+ - ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a8a1ebb7-1377-4dea-931c-01b87c9395dc)
+
+	- 4.2.5. Context Mapping.
+ - 
 - 4.3. Software Architecture. 
 	- 4.3.1. Software Architecture System Landscape Diagram. 
-	- 4.3.2. Software Architecture Context Level Diagrams. 
-	- 4.3.3. Software Architecture Container Level Diagrams. 
+	- 4.3.2. Software Architecture Context Level Diagrams.
+ -  Mediante el Context Diagram pretendemos mostrar el panorama general de la interacción entre el segmento objetivo: Tanto clientes como consumidores. Ahí podemos mostrar la interacción con la aplicación y los segmentos.
+ -  ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/e3853df0-2c32-4de6-830c-08fe530515fb)
+
+	- 4.3.3. Software Architecture Container Level Diagrams.
+ - En este diagrama se puede apreciar el funcionamiento que tienen los Bounded Context en relación con la aplicación.	.
+ - ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/4fb481b0-a809-4386-bb8f-af0cdad64769)
+
 	- 4.3.4. Software Architecture Deployment Diagrams.
+En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus controllers, services y repositorios, a su vez su base datos donde está almacenado.
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/f5d47080-b63d-48d8-bc43-7202c6c287a2)
