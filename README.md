@@ -347,9 +347,37 @@ Se incluye una barra lateral para mostrar las opciones que el usuario puede eleg
 
 	- 4.1.3. Architectural Drivers Backlog. 6/40 V1.0 
  
+ ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/7bb3ad47-c42f-41b7-9933-43a4a61d5e52)
+
 	- 4.1.4. Architectural Design Decisions. 
  
+ ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/413e7009-15f8-4788-aaf4-457d2673aa80)
+
 	- 4.1.5. Quality Attribute Scenario Refinements. 
+ 1. Rendimiento (Performance):
+
+Escenario Refinado: Durante las horas pico del almuerzo (12:00 p.m. a 1:00 p.m.), se espera que Tasty Point reciba un promedio de 500 pedidos por minuto en la ciudad capital de Lima, Perú.
+Estímulo: Múltiples usuarios realizan pedidos simultáneos en la plataforma durante el almuerzo.
+Respuesta Refinada: El sistema debe procesar cada pedido en menos de 5 segundos y mantener un tiempo de respuesta promedio de 2 segundos para garantizar una experiencia de usuario fluida.
+Medición: Tiempo promedio de procesamiento de pedidos durante las horas pico y carga de procesamiento en el servidor.
+2. Seguridad (Security):
+
+Escenario Refinado: Un usuario inicia sesión y realiza un pedido, ingresando información de tarjeta de crédito para el pago.
+Estímulo: Usuario proporciona información de inicio de sesión y detalles de pago.
+Respuesta Refinada: Todos los datos de usuario y detalles de pago se cifran utilizando un estándar de cifrado AES-256 antes de almacenarse en la base de datos. Además, se implementa una autenticación de dos factores (2FA) para las transacciones financieras.
+Medición: La auditoría de seguridad registra y monitorea cualquier intento de acceso no autorizado o actividades sospechosas.
+3. Disponibilidad (Availability):
+
+Escenario Refinado: El sistema de Tasty Point debe estar disponible el 99.9% del tiempo mensualmente, excluyendo el tiempo de mantenimiento programado.
+Estímulo: Usuarios acceden a la plataforma en cualquier momento.
+Respuesta Refinada: El sistema se implementa en múltiples servidores distribuidos geográficamente, y se realiza un mantenimiento planificado fuera de las horas pico para garantizar la disponibilidad.
+Medición: Tiempo de inactividad planificado y no planificado registrado y comparado con el objetivo de disponibilidad.
+4. Usabilidad (Usability):
+
+Escenario Refinado: Un usuario nuevo descarga la aplicación móvil de Tasty Point y realiza su primer pedido.
+Estímulo: Usuario interactúa con la aplicación móvil por primera vez.
+Respuesta Refinada: La aplicación guía al usuario a través del proceso de registro, búsqueda de restaurantes, selección de platos y pago de una manera intuitiva y sin complicaciones.
+Medición: Se recopilan comentarios de los usuarios nuevos y se realizan encuestas para evaluar la facilidad de uso y la satisfacción del usuario.
 - 4.2. Strategic-Level Domain-Driven Design. 
 	- 4.2.1. EventStorming.
  - Contexto Inicial:
@@ -406,6 +434,7 @@ Seguimiento y medición de la satisfacción del cliente.
 Posibles expansiones a otros mercados en el futuro.
 
 	- 4.2.2. Candidate Context Discovery.
+ 
  - El proceso de "Candidate Context Discovery" para la startup "Tasty Point" implica la identificación y evaluación de candidatos que encajen adecuadamente con la misión, visión y valores de la empresa, así como con las demandas específicas de la industria alimentaria y la cultura peruana. A continuación, se describe cómo se llevaría a cabo este proceso:
 
 **Paso 1: Análisis de Requisitos del Puesto**
@@ -478,55 +507,8 @@ Link a Figma: https://www.figma.com/file/VroQCK2bhcvc3SDwavm84T/Landing-Page-Wir
  - ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a8a1ebb7-1377-4dea-931c-01b87c9395dc)
 
 	- 4.2.5. Context Mapping.
- - +----------------------------------+
-|  Problemática: Desperdicio de  |
-|  comida en cadenas de           |
-|  restaurantes                   |
-+----------------------------------+
-           |
-           |
-           v
-+----------------------------------+
-|      StartUp: Tasty Point       |
-|                                  |
-| +--------------------------+     |
-| |                          |     |
-| |  Consumidores            |     |
-| |  (Población Juvenil)     |     |
-| |                          |     |
-| +--------------------------+     |
-| |                          |     |
-| |                          |     |
-| |                          |     |
-| +--------------------------+     |
-| |                          |     |
-| |                          |     |
-| |                          |     |
-| +--------------------------+     |
-|                                  |
-| +--------------------------+     |
-| |                          |     |
-| |  Restaurantes            |     |
-| |                          |     |
-| +--------------------------+     |
-| |                          |     |
-| |                          |     |
-| |                          |     |
-| +--------------------------+     |
-|                                  |
-| +--------------------------+     |
-| |                          |     |
-| |  Proveedores de Alimentos|     |
-| |                          |     |
-| +--------------------------+     |
-|                                  |
-| +--------------------------+     |
-| |                          |     |
-| |  Reguladores y            |     |
-| |  Autoridades             |     |
-| |                          |     |
-| +--------------------------+     |
-+----------------------------------+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/df97086d-13c3-434b-9a45-fbacd428ea4e)
+
 
 En este diagrama:
 
@@ -544,39 +526,8 @@ Reguladores y Autoridades: Representa a las autoridades gubernamentales y regula
 
 - 4.3. Software Architecture. 
 	- 4.3.1. Software Architecture System Landscape Diagram.
- - +---------------------------------------------------------+
-|                      Problemática                         |
-|              (Desperdicio de comida en cadenas            |
-|                 de restaurantes en el mundo)              |
-+---------------------------------------------------------+
-                         |
-                         |
-                         v
-+---------------------------------------------------------+
-|                   Tasty Point (Startup)                   |
-|                      (Aplicación Web)                     |
-|                                                           |
-| +---------------------+        +-----------------------+  |
-| |                     |        |                       |  |
-| |  Plataforma Web     | <----> |  Restaurantes        |  |
-| |  (Frontend)         |        |                       |  |
-| |                     |        |                       |  |
-| +---------------------+        +-----------------------+  |
-|                                                           |
-| +---------------------+        +-----------------------+  |
-| |                     |        |                       |  |
-| |  Aplicación Móvil   |        |  Proveedores de      |  |
-| |  (Frontend)         |        |  Alimentos            |  |
-| |                     |        |                       |  |
-| +---------------------+        +-----------------------+  |
-|                                                           |
-| +---------------------+        +-----------------------+  |
-| |                     |        |                       |  |
-| |  Backend            |        |  Reguladores y        |  |
-| |  (Gestión de Datos) |        |  Autoridades          |  |
-| |                     |        |                       |  |
-| +---------------------+        +-----------------------+  |
-+---------------------------------------------------------+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/93a8f4ed-a859-4fce-a0dd-21cb169c8172)
+
 
 Problemática: Representa la situación global de desperdicio de comida en cadenas de restaurantes en todo el mundo.
 
