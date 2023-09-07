@@ -507,6 +507,7 @@ Link a Figma: https://www.figma.com/file/VroQCK2bhcvc3SDwavm84T/Landing-Page-Wir
  - ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a8a1ebb7-1377-4dea-931c-01b87c9395dc)
 
 	- 4.2.5. Context Mapping.
+ - 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/df97086d-13c3-434b-9a45-fbacd428ea4e)
 
 
@@ -526,6 +527,8 @@ Reguladores y Autoridades: Representa a las autoridades gubernamentales y regula
 
 - 4.3. Software Architecture. 
 	- 4.3.1. Software Architecture System Landscape Diagram.
+
+   
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/93a8f4ed-a859-4fce-a0dd-21cb169c8172)
 
 
