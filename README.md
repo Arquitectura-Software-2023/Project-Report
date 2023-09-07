@@ -274,17 +274,28 @@ El color principal de la marca es el Naranja: Este representa la vitalidad y con
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/7673e8bf-b2a2-43ab-8e92-9f9f236b1f05)
 
 Colors: 
+
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/42dfb1d8-7f9b-4329-9e7f-cdf836121c03)
+
 Nuestra aplicación web usará el Patrón en Z:
+
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a242fb41-8bc5-4113-a49a-2de56cae7ffd)
 
 	- 4.1.2. Attribute-Driven Design Inputs. 
 		- 4.1.2.1. Primary Functionality (Primary User Stories). 
+  
   Criterios considerados en el diseño de Tasty Point:
 Web Usability:
 - Facilita la interacción gracias el uso de fuentes distinguibles y del tamaño adecuado.
 - Estructura el contenido: navegación en forma Z 
 - Simplifica y sintetiza: Textos directos sin perder la amabilidad que queremos proyectar como marca.
+
+**User Stories Consumer**
+| Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | 
+|-----------|-----------|-----------|-----------|-----------| 
+| US01 | Registro de Consumidor | Como consumidor quiero crear una cuenta para acceder a la aplicación. | CA1: Dado que el consumidor se encuentra en la ventana de registro y completa todos los campos. Cuando presiona el botón registrarse. Entonces podrá acceder a la aplicación. CA2: Dado que el consumidor se encuentra en la ventana de registro y no completa todos los campos obligatorios. Cuando presiona el botón registrarse. Entonces esos campos se marcan de rojo Y se muestra el mensaje: “Complete los campos obligatorios”. CA3: Dado que el consumidor se encuentra en la ventana de registro y completa erróneamente los campos. Cuando presiona el botón registrarse. Entonces se muestra el siguiente mensaje: “Complete los campos correctamente”. | E1: El consumidor quiere registrarse en la aplicación. E2: El consumidor no completa los campos obligatorios. E3: El consumidor intenta registrarse, pero no completa con datos correctos los campos obligatorios. | 
+| US02 | Monitorear el perfil | Como consumidor quiero ver el perfil de mi cuenta para corroborar que mis datos sean correctos. | Dado que el consumidor quiere ver su perfil. Cuando presiona el icono de perfil ubicado en la sección de menú. Entonces la aplicación muestra la información del perfil del consumidor. | El consumidor quiere ver su perfil. | 
+| US03 | Cerrar sesión de consumidor | Como consumidor quiero cerrar sesión para salir de mi cuenta.| CA1: Dado que el consumidor se encuentra en la aplicación. Cuando presiona el icono de perfil ubicado en la sección de menú. Entonces se le mostrará un mensaje: ¿Está seguro de cerrar sesión? Y el consumidor selecciona la opción sí para cerrar la sesión. CA2: Dado que el consumidor se encuentra en la aplicación. Cuando presiona el botón de cerrar sesión. Entonces se le mostrará un mensaje: ¿Está seguro de cerrar sesión? Y el consumidor selecciona la opción no para mantener iniciada la sesión. | E1:  El consumidor quiere cerrar sesión en el sistema. E2: El consumidor presiona por error el botón de “Cerrar sesión “.| 
 
 Inclusive design:
 Los servicios brindados por la página deben ser accesibles a todo nuestro público objetivo, en este caso, ya que nuestro público objetivo abarca personas entre 20 y 40 años, las pautas consideradas son:
@@ -337,22 +348,123 @@ Se incluye una barra lateral para mostrar las opciones que el usuario puede eleg
 	- 4.1.3. Architectural Drivers Backlog. 6/40 V1.0 
  
 	- 4.1.4. Architectural Design Decisions. 
+ 
 	- 4.1.5. Quality Attribute Scenario Refinements. 
 - 4.2. Strategic-Level Domain-Driven Design. 
-	- 4.2.1. EventStorming. 
-	- 4.2.2. Candidate Context Discovery. 
+	- 4.2.1. EventStorming.
+ - Contexto Inicial:
+
+En el mundo, el 33% de la comida producida por cadenas de restaurantes se desperdicia.
+Algunas empresas están promoviendo la reutilización y la venta de porciones de comida a precios reducidos, especialmente dirigidas a la población joven.
+Este modelo de negocio ha tenido éxito en Europa, pero aún no está disponible en Perú.
+Eventos de Negocio:
+
+Creación de Tasty Point (Inicio de la Startup)
+
+Trigger: Identificación de la necesidad en el mercado peruano.
+Acción: Creación de Tasty Point para abordar la necesidad de reutilización de alimentos en Perú.
+Desarrollo de la Plataforma de Tasty Point
+
+Trigger: Creación de la empresa.
+Acción: Desarrollo de la plataforma web y la aplicación móvil para conectarse con los consumidores.
+Introducción en el Mercado Peruano
+
+Trigger: Listo para lanzar Tasty Point.
+Acción: Lanzamiento oficial en el mercado peruano, promoción y marketing.
+Oferta de Menú Variado
+
+Trigger: Disponibilidad en la plataforma.
+Acción: Ofrecer una variedad de platos basados en productos de la costa, sierra y selva.
+Promoción de la Sana Alimentación
+
+Trigger: Valores y misión de Tasty Point.
+Acción: Promover la cultura de la sana alimentación y el consumo responsable.
+Compra Segura y Amigable
+
+Trigger: Interacción de usuarios con la plataforma.
+Acción: Garantizar seguridad en los métodos de pago y la facilidad de uso de la aplicación web.
+Conexión Directa entre Consumidor y Menú
+
+Trigger: Interés del consumidor.
+Acción: Establecer una relación directa entre el consumidor y las opciones de menú.
+Éxito en el Mercado Peruano
+
+Trigger: Aceptación positiva en el mercado peruano.
+Acción: Consolidación y expansión de Tasty Point en Perú.
+Reducción del Desperdicio de Alimentos
+
+Trigger: Uso continuo de Tasty Point.
+Acción: Contribuir a la reducción del desperdicio de alimentos en Perú.
+Agregados a considerar:
+
+Roles y responsabilidades en la empresa.
+Tecnologías utilizadas para la plataforma.
+Estrategias de marketing y promoción.
+Colaboración con restaurantes locales.
+Gestión de la calidad de los alimentos ofrecidos.
+Seguimiento y medición de la satisfacción del cliente.
+Posibles expansiones a otros mercados en el futuro.
+
+	- 4.2.2. Candidate Context Discovery.
+ - El proceso de "Candidate Context Discovery" para la startup "Tasty Point" implica la identificación y evaluación de candidatos que encajen adecuadamente con la misión, visión y valores de la empresa, así como con las demandas específicas de la industria alimentaria y la cultura peruana. A continuación, se describe cómo se llevaría a cabo este proceso:
+
+**Paso 1: Análisis de Requisitos del Puesto**
+- Definir claramente los requisitos y habilidades necesarios para los puestos disponibles en Tasty Point, como chefs, personal de servicio al cliente, desarrolladores de aplicaciones, entre otros.
+
+**Paso 2: Reclutamiento y Difusión**
+- Iniciar un proceso de reclutamiento que incluya la publicación de las vacantes en plataformas de empleo, redes sociales y otros canales relevantes.
+- Fomentar la participación de la comunidad local y la industria de alimentos y restaurantes en la búsqueda de talento.
+
+**Paso 3: Evaluación de Currículum Vitae**
+- Revisar los currículums de los candidatos para identificar habilidades, experiencias y educación relevante para los puestos.
+- Buscar candidatos que tengan experiencia en la industria alimentaria y/o en startups relacionadas con la alimentación.
+
+**Paso 4: Entrevistas Iniciales**
+- Realizar entrevistas iniciales con los candidatos para conocer su historial laboral, motivaciones y alineación con la cultura y valores de Tasty Point.
+- Evaluar la capacidad de los candidatos para trabajar en un entorno de inicio y su interés en reducir el desperdicio de alimentos.
+
+**Paso 5: Evaluación de Habilidades Técnicas**
+- Para puestos técnicos, como desarrolladores de aplicaciones, realizar pruebas técnicas o ejercicios prácticos para evaluar las habilidades necesarias.
+
+**Paso 6: Evaluación de Ajuste Cultural**
+- Evaluar la compatibilidad cultural de los candidatos mediante preguntas y discusiones específicas relacionadas con la cultura de la empresa y la industria alimentaria.
+
+**Paso 7: Entrevistas Finales**
+- Realizar entrevistas finales con los candidatos destacados para profundizar en sus habilidades, experiencias y su pasión por la misión de Tasty Point.
+- Evaluar su capacidad para trabajar en equipo y adaptarse a un entorno dinámico.
+
+**Paso 8: Verificación de Referencias**
+- Contactar a las referencias proporcionadas por los candidatos para obtener información adicional sobre su desempeño y antecedentes laborales.
+
+**Paso 9: Selección y Oferta de Empleo**
+- Seleccionar a los candidatos más adecuados para cada puesto y hacerles una oferta de empleo.
+- Proporcionar detalles sobre la cultura y las expectativas de la empresa.
+
+**Paso 10: Integración y Desarrollo Continuo**
+- Una vez contratados, proporcionar a los nuevos empleados un proceso de integración sólido.
+- Continuar desarrollando y capacitando a los empleados para que estén alineados con los objetivos y valores de Tasty Point.
+
+El proceso de "Candidate Context Discovery" para Tasty Point se centra en encontrar candidatos que no solo tengan las habilidades técnicas necesarias, sino que también compartan la pasión por reducir el desperdicio de alimentos y promover la sana alimentación, contribuyendo así al éxito de la startup.
 	- 4.2.3. Domain Message Flows Modeling.
  - En esta sección se presentarán los wireflows relacionados a los wireframes de la aplicación web y las historias de usuario.
 1.	Como consumidor quiero ver el perfil de mi cuenta para corroborar que mis datos sean correctos.
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/e099dfc9-bfc0-46a6-8e9a-48bf5ebe1c34)
+
 2.	 Como consumidor, quiero visualizar las principales notificaciones para estar informado sobre las ofertas y promociones que ofrezca la aplicación
+	 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a3f0d55b-077f-4e22-9c5a-be5a7734666e)
+
 3.	Como consumidor quiero clasificar de manera favorita mis productos para lograr visualizar la disponibilidad en la sección “Mis favoritos”
+	
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/2ec0b0d7-ed4a-4898-baca-3944ffbaf13a)
+
 4.	Como consumidor quiero ver el catálogo de los productos alimenticios de primera necesidad para comprarlos.
+    
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/b686310b-5d9d-4c43-846f-87c720db180e)
+
 5.	Como consumidor quiero ver el catálogo de los productos alimenticios de primera necesidad para comprarlos
+
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/5678a282-2c58-4486-a021-44597f813a2c)
 
 
@@ -362,20 +474,137 @@ Se incluye una barra lateral para mostrar las opciones que el usuario puede eleg
 Link a Figma: https://www.figma.com/file/VroQCK2bhcvc3SDwavm84T/Landing-Page-Wireframe-Tasty-Point?node-id=0%3A1
 
 	- 4.2.4. Bounded Context Canvases.
+
  - ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a8a1ebb7-1377-4dea-931c-01b87c9395dc)
 
 	- 4.2.5. Context Mapping.
- - 
+ - +----------------------------------+
+|  Problemática: Desperdicio de  |
+|  comida en cadenas de           |
+|  restaurantes                   |
++----------------------------------+
+           |
+           |
+           v
++----------------------------------+
+|      StartUp: Tasty Point       |
+|                                  |
+| +--------------------------+     |
+| |                          |     |
+| |  Consumidores            |     |
+| |  (Población Juvenil)     |     |
+| |                          |     |
+| +--------------------------+     |
+| |                          |     |
+| |                          |     |
+| |                          |     |
+| +--------------------------+     |
+| |                          |     |
+| |                          |     |
+| |                          |     |
+| +--------------------------+     |
+|                                  |
+| +--------------------------+     |
+| |                          |     |
+| |  Restaurantes            |     |
+| |                          |     |
+| +--------------------------+     |
+| |                          |     |
+| |                          |     |
+| |                          |     |
+| +--------------------------+     |
+|                                  |
+| +--------------------------+     |
+| |                          |     |
+| |  Proveedores de Alimentos|     |
+| |                          |     |
+| +--------------------------+     |
+|                                  |
+| +--------------------------+     |
+| |                          |     |
+| |  Reguladores y            |     |
+| |  Autoridades             |     |
+| |                          |     |
+| +--------------------------+     |
++----------------------------------+
+
+En este diagrama:
+
+Problemática: Representa la situación global de desperdicio de comida en cadenas de restaurantes en todo el mundo.
+
+StartUp: Tasty Point: Es el centro de atención y solución para esta problemática.
+
+Consumidores (Población Juvenil): Representa el grupo demográfico al que Tasty Point se dirige principalmente.
+
+Restaurantes: Son los socios o colaboradores potenciales de Tasty Point que pueden proporcionar alimentos para su plataforma.
+
+Proveedores de Alimentos: Son los proveedores de alimentos que suministran a los restaurantes y, por lo tanto, pueden influir en la oferta de Tasty Point.
+
+Reguladores y Autoridades: Representa a las autoridades gubernamentales y reguladores que pueden tener un papel en la regulación de la industria alimentaria y el desperdicio de alimentos.
+
 - 4.3. Software Architecture. 
-	- 4.3.1. Software Architecture System Landscape Diagram. 
+	- 4.3.1. Software Architecture System Landscape Diagram.
+ - +---------------------------------------------------------+
+|                      Problemática                         |
+|              (Desperdicio de comida en cadenas            |
+|                 de restaurantes en el mundo)              |
++---------------------------------------------------------+
+                         |
+                         |
+                         v
++---------------------------------------------------------+
+|                   Tasty Point (Startup)                   |
+|                      (Aplicación Web)                     |
+|                                                           |
+| +---------------------+        +-----------------------+  |
+| |                     |        |                       |  |
+| |  Plataforma Web     | <----> |  Restaurantes        |  |
+| |  (Frontend)         |        |                       |  |
+| |                     |        |                       |  |
+| +---------------------+        +-----------------------+  |
+|                                                           |
+| +---------------------+        +-----------------------+  |
+| |                     |        |                       |  |
+| |  Aplicación Móvil   |        |  Proveedores de      |  |
+| |  (Frontend)         |        |  Alimentos            |  |
+| |                     |        |                       |  |
+| +---------------------+        +-----------------------+  |
+|                                                           |
+| +---------------------+        +-----------------------+  |
+| |                     |        |                       |  |
+| |  Backend            |        |  Reguladores y        |  |
+| |  (Gestión de Datos) |        |  Autoridades          |  |
+| |                     |        |                       |  |
+| +---------------------+        +-----------------------+  |
++---------------------------------------------------------+
+
+Problemática: Representa la situación global de desperdicio de comida en cadenas de restaurantes en todo el mundo.
+
+Tasty Point (Startup): Es el sistema central que aborda esta problemática a través de su plataforma web y aplicación móvil.
+
+Plataforma Web (Frontend): La interfaz de usuario web que permite a los consumidores pedir comida, explorar menús y realizar pagos.
+
+Aplicación Móvil (Frontend): La aplicación móvil que ofrece a los consumidores una experiencia similar a la web, pero en dispositivos móviles.
+
+Backend (Gestión de Datos): El sistema de backend que gestiona datos, pedidos, transacciones y la lógica empresarial de Tasty Point.
+
+Restaurantes: Representa la integración de Tasty Point con los restaurantes que proporcionan comida a la plataforma.
+
+Proveedores de Alimentos: Los proveedores de alimentos que suministran los ingredientes a los restaurantes asociados.
+
+Reguladores y Autoridades: Los organismos gubernamentales y reguladores que pueden interactuar con Tasty Point en relación con la regulación de la industria alimentaria.
+
 	- 4.3.2. Software Architecture Context Level Diagrams.
  -  Mediante el Context Diagram pretendemos mostrar el panorama general de la interacción entre el segmento objetivo: Tanto clientes como consumidores. Ahí podemos mostrar la interacción con la aplicación y los segmentos.
+
  -  ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/e3853df0-2c32-4de6-830c-08fe530515fb)
 
 	- 4.3.3. Software Architecture Container Level Diagrams.
  - En este diagrama se puede apreciar el funcionamiento que tienen los Bounded Context en relación con la aplicación.	.
+
  - ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/4fb481b0-a809-4386-bb8f-af0cdad64769)
 
 	- 4.3.4. Software Architecture Deployment Diagrams.
 En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus controllers, services y repositorios, a su vez su base datos donde está almacenado.
+
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/f5d47080-b63d-48d8-bc43-7202c6c287a2)
