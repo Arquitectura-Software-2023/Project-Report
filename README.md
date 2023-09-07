@@ -265,7 +265,12 @@ Segmento usuario:
 
 ## Capítulo IV: Solution Software Design 
 - 4.1. Strategic-Level Attribute-Driven Design. 
-	- 4.1.1. Design Purpose. 
+	- 4.1.1. Design Purpose.
+ - Primero, es necesario recalcar nuestras 2 intenciones al crear la marca: Evitar el desperdicio de comida, y distribuir comida buena y barata.
+Al fusionar estas 2 ideas, conseguimos Tasty point (algo como los Recycling Points/puntos de reciclaje). Un punto al que cualquiera puede acceder, donde puedes obtener buena comida y además ayudar al medio ambiente combatiendo el desperdicio de alimentos.
+Nuestro punto es... hay buena comida aquí. ¡Ven a conseguirla! 
+El color principal de la marca es el Naranja: Este representa la vitalidad y confiabilidad que queremos representar para nuestros clientes.
+
 	- 4.1.2. Attribute-Driven Design Inputs. 
 		- 4.1.2.1. Primary Functionality (Primary User Stories). 
 		- 4.1.2.2. Quality attribute Scenarios. 
