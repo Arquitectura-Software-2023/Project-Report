@@ -174,7 +174,21 @@ Entrevista 1: Alejandro Rojas
 
 - 2.3.4. As-is Scenario Mapping.
 
+**Consumidor:** los usuarios que van a comprar los alimentos.
 
+| Steps | Buscar opciones en el entorno | Revisar las opciones por internet | Realizar pedido | Recibir pedido | 
+| -------------- | -------------- | -------------- | -------------- | -------------- | 
+| Doing | Buscar comida dentro de la casa | - Buscar opciones de comida a domicilio por internet. - Seleccionar cualquier aplicación | Seleccionar una opción económica dentro de la aplicación | Recibir el pedido solicitado por delivery | 
+| Thinking | No hay comida disponible, debo de buscar opciones por internet | Existen muchas aplicaciones de comida a domicilio | Me hubiera gustado una mejor oferta | Espero que el pedido sea de mi agrado | 
+| Feeling | Desilusionado | Abrumado | Frustrado | Decepcionado | 
+
+**Cliente:** cadena de restaurantes y comidas.
+
+| Steps | Seleccion de Platos a Ofertar | Oferta los Platos | Venta de los Platos| Analisis de Ingreso | 
+| -------------- | -------------- | -------------- | -------------- | -------------- | 
+| Doing | - Revisar el stock del restaurante. - Separar los Platos que estan por caducar | - Buscar la mejor oferta de ofertarlos. - Colocar la oferta en la carta del restaurante. | - Pagar por marketing. - Vender los platos. | Realizar el presupuesto maestro | 
+| Thinking | En cuanto tengo que reducir el precio del plato para atraer consumidores? | Las nuevas ofertas traerán consumidores? | - Espero que la inversión no sea en vano. - Esperemos que se vendan todos los platos. | Se obtuvo ingresos? | 
+| Feeling | Angustia | Dudoso | Preocupado | Preocupado | 
 
 ## Capítulo III: Requirements Specification
 - 3.1. To-Be Scenario Mapping.
