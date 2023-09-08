@@ -154,18 +154,22 @@ Entrevista 1: Alejandro Rojas
 - 2.3.1. User Personas.
 
 **Segmento Cliente:**
+
 ![Segmento Cliente](https://cdn.discordapp.com/attachments/1149534515509858338/1149535401007124560/Imagen1.png){width=550 height=550}
 
 **Segmento Consumidor:**
+
 ![Segmento Consumidor](https://cdn.discordapp.com/attachments/1149534515509858338/1149536883643273347/Imagen2.jpg){width=550 height=550}
 
 - 2.3.2. User Task Matrix.
 - 2.3.3. Empathy Mapping.
 
 **Segmento Cliente:**
+
 ![Segmento Cliente](https://cdn.discordapp.com/attachments/1149534515509858338/1149538442393432155/Imagen3.png){width=550 height=550}
 
 **Segmento Consumidor:**
+
 ![Segmento Consumidor](https://cdn.discordapp.com/attachments/1149534515509858338/1149538756341280858/Imagen4.png){width=550 height=550}
 
 - 2.3.4. As-is Scenario Mapping.
