@@ -27,7 +27,7 @@ Relación de integrantes:
  - Marco Antoni Mendoza Rodriguez
  - Claudia Lucia Rozas Gamero
  - Andres Christian Reynoso (U202010196)
- - 
+ - David Antonio Torres Vilchez (U202010942)
 - 
 
 Mes y año: 
@@ -41,7 +41,7 @@ Ciclo:
 | Version | Fecha| Autor | Descripción de la Modificación |
 |-----------|-----------|-----------|-----------|
 | 1.0 | 22/08/2023 | Andres Christian Reynoso | Se agrego el contenido relacionado al primer entregable TB1 |
-|  |  |  |  |
+| 2.0 | 7/09/2023 | David Torres Vilchez | Se agrego el contenido relacionado al primer entregable TB1 |
 |  |  |  |  |
 |  |  |  |  |
 
@@ -152,8 +152,16 @@ Entrevista 1: Alejandro Rojas
 
 ### 2.3. Needfinding.
 - 2.3.1. User Personas.
+**Consumidor:**
+  ![user persona 1](https://cdn.discordapp.com/attachments/1149534515509858338/1149535401007124560/Imagen1.png)
+**Cliente:**
+  ![user persona 2](https://cdn.discordapp.com/attachments/1149534515509858338/1149536883643273347/Imagen2.jpg)
 - 2.3.2. User Task Matrix.
 - 2.3.3. Empathy Mapping.
+**Consumidor:**
+  ![emphaty map 1](https://cdn.discordapp.com/attachments/1149534515509858338/1149538442393432155/Imagen3.png)
+**Cliente:**
+  ![emphaty map 2](https://cdn.discordapp.com/attachments/1149534515509858338/1149538756341280858/Imagen4.png)
 - 2.3.4. As-is Scenario Mapping.
 
 ## Capítulo III: Requirements Specification
