@@ -43,6 +43,7 @@ Ciclo:
 | 1.0 | 22/08/2023 | Andres Christian Reynoso | Se agrego el contenido relacionado al primer entregable TB1 |
 | 2.0 | 7/09/2023 | David Torres Vilchez | Se agrego el contenido relacionado al primer entregable TB1 |
 | 3.0 | 8/09/2023 | Claudia Rozas | Avance del capítulo 4 para el entregable TB1 |
+| 3.0 | 9/09/2023 | Marco Mendoza | Avance del capítulo 4 para el entregable TB1 y correcciones en la documentación |
 |  |  |  |  |
 
 ## Project Report Collaboration Insights
@@ -116,7 +117,7 @@ Ciclo:
 |-----------|-----------|
 |Andres Christian Reynoso  | Mi nombre es Andres Christian Reynoso, tengo 20 años y estudio en la carrera de Ingenieria de Software, estoy dispuesto a apoyar a mis compañeros en los momentos que sean necesarios.|
 |Claudia Lucia Rozas Gamero| Mi nombres es Claudia Rozas, tengo 23 años y estudio Ingeniería de Software. Me gusta mucho el rubro de Data y estoy comprometida con mi equipo y/o proyectos |
-||  |
+|Marco Antoni Mendoza Rodriguez|  Soy estudiante del 9° ciclo de Ing Software, aparcionado por el desarrollo de Software, me gusta estudiar el desarrollo de tecnologias emergentes que dispongan de innovación y uso en la actualidad|
 ||  |
 ||  |
 
@@ -264,10 +265,10 @@ Entrevista 2: Hugo Pahuacho
 - 3.3. Impact Mapping.
 
 Segmento Cliente:
-![Impact Map 1](https://media.discordapp.net/attachments/912089666939916348/1148756492040802304/Flowchart.jpg?width=1397&height=669)
+	![Impact Map 1](https://media.discordapp.net/attachments/912089666939916348/1148756492040802304/Flowchart.jpg?width=1397&height=669)
 
 Segmento usuario:
-![Impact Map 2](https://media.discordapp.net/attachments/912089666939916348/1148762107676987412/Flowchart_1.jpg?width=1047&height=669)
+	![Impact Map 2](https://media.discordapp.net/attachments/912089666939916348/1148762107676987412/Flowchart_1.jpg?width=1047&height=669)
 
 - 3.4. Product Backlog.
 
@@ -311,15 +312,15 @@ Al fusionar estas 2 ideas, conseguimos Tasty point (algo como los Recycling Poin
 Nuestro punto es... hay buena comida aquí. ¡Ven a conseguirla! 
 El color principal de la marca es el Naranja: Este representa la vitalidad y confiabilidad que queremos representar para nuestros clientes.
 
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/7673e8bf-b2a2-43ab-8e92-9f9f236b1f05)
+	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/7673e8bf-b2a2-43ab-8e92-9f9f236b1f05)
 
 Colors: 
 
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/42dfb1d8-7f9b-4329-9e7f-cdf836121c03)
+	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/42dfb1d8-7f9b-4329-9e7f-cdf836121c03)
 
 Nuestra aplicación web usará el Patrón en Z:
 
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a242fb41-8bc5-4113-a49a-2de56cae7ffd)
+	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a242fb41-8bc5-4113-a49a-2de56cae7ffd)
 
 	- 4.1.2. Attribute-Driven Design Inputs. 
 		- 4.1.2.1. Primary Functionality (Primary User Stories). 
@@ -387,11 +388,11 @@ Se incluye una barra lateral para mostrar las opciones que el usuario puede eleg
 
 	- 4.1.3. Architectural Drivers Backlog. 6/40 V1.0 
  
- ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/7bb3ad47-c42f-41b7-9933-43a4a61d5e52)
+ 	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/7bb3ad47-c42f-41b7-9933-43a4a61d5e52)
 
 	- 4.1.4. Architectural Design Decisions. 
  
- ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/413e7009-15f8-4788-aaf4-457d2673aa80)
+ 	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/413e7009-15f8-4788-aaf4-457d2673aa80)
 
 	- 4.1.5. Quality Attribute Scenario Refinements. 
  1. Rendimiento (Performance):
@@ -427,43 +428,7 @@ Algunas empresas están promoviendo la reutilización y la venta de porciones de
 Este modelo de negocio ha tenido éxito en Europa, pero aún no está disponible en Perú.
 Eventos de Negocio:
 
-Creación de Tasty Point (Inicio de la Startup)
-
-Trigger: Identificación de la necesidad en el mercado peruano.
-Acción: Creación de Tasty Point para abordar la necesidad de reutilización de alimentos en Perú.
-Desarrollo de la Plataforma de Tasty Point
-
-Trigger: Creación de la empresa.
-Acción: Desarrollo de la plataforma web y la aplicación móvil para conectarse con los consumidores.
-Introducción en el Mercado Peruano
-
-Trigger: Listo para lanzar Tasty Point.
-Acción: Lanzamiento oficial en el mercado peruano, promoción y marketing.
-Oferta de Menú Variado
-
-Trigger: Disponibilidad en la plataforma.
-Acción: Ofrecer una variedad de platos basados en productos de la costa, sierra y selva.
-Promoción de la Sana Alimentación
-
-Trigger: Valores y misión de Tasty Point.
-Acción: Promover la cultura de la sana alimentación y el consumo responsable.
-Compra Segura y Amigable
-
-Trigger: Interacción de usuarios con la plataforma.
-Acción: Garantizar seguridad en los métodos de pago y la facilidad de uso de la aplicación web.
-Conexión Directa entre Consumidor y Menú
-
-Trigger: Interés del consumidor.
-Acción: Establecer una relación directa entre el consumidor y las opciones de menú.
-Éxito en el Mercado Peruano
-
-Trigger: Aceptación positiva en el mercado peruano.
-Acción: Consolidación y expansión de Tasty Point en Perú.
-Reducción del Desperdicio de Alimentos
-
-Trigger: Uso continuo de Tasty Point.
-Acción: Contribuir a la reducción del desperdicio de alimentos en Perú.
-Agregados a considerar:
+	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/72c8fca4-bc69-488e-b417-fcb015f860b7)
 
 Roles y responsabilidades en la empresa.
 Tecnologías utilizadas para la plataforma.
@@ -518,24 +483,23 @@ El proceso de "Candidate Context Discovery" para Tasty Point se centra en encont
  - En esta sección se presentarán los wireflows relacionados a los wireframes de la aplicación web y las historias de usuario.
 1.	Como consumidor quiero ver el perfil de mi cuenta para corroborar que mis datos sean correctos.
 
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/e099dfc9-bfc0-46a6-8e9a-48bf5ebe1c34)
+	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/e099dfc9-bfc0-46a6-8e9a-48bf5ebe1c34)
 
 2.	 Como consumidor, quiero visualizar las principales notificaciones para estar informado sobre las ofertas y promociones que ofrezca la aplicación
 	 
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a3f0d55b-077f-4e22-9c5a-be5a7734666e)
+	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a3f0d55b-077f-4e22-9c5a-be5a7734666e)
 
 3.	Como consumidor quiero clasificar de manera favorita mis productos para lograr visualizar la disponibilidad en la sección “Mis favoritos”
 	
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/2ec0b0d7-ed4a-4898-baca-3944ffbaf13a)
+	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/2ec0b0d7-ed4a-4898-baca-3944ffbaf13a)
 
 4.	Como consumidor quiero ver el catálogo de los productos alimenticios de primera necesidad para comprarlos.
     
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/b686310b-5d9d-4c43-846f-87c720db180e)
+	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/b686310b-5d9d-4c43-846f-87c720db180e)
 
 5.	Como consumidor quiero ver el catálogo de los productos alimenticios de primera necesidad para comprarlos
 
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/5678a282-2c58-4486-a021-44597f813a2c)
-
+	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/5678a282-2c58-4486-a021-44597f813a2c)
 
 
  - En esta sección se presentarán los diseños realizados para la implementación del Landing page, tanto en Wireframe como Mockup.
@@ -544,11 +508,12 @@ Link a Figma: https://www.figma.com/file/VroQCK2bhcvc3SDwavm84T/Landing-Page-Wir
 
 	- 4.2.4. Bounded Context Canvases.
 
- - ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a8a1ebb7-1377-4dea-931c-01b87c9395dc)
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/c68c5c0a-6b3a-4518-b98f-f568c86f9f56)
+
 
 	- 4.2.5. Context Mapping.
- - 
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/df97086d-13c3-434b-9a45-fbacd428ea4e)
+   
+	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/df97086d-13c3-434b-9a45-fbacd428ea4e)
 
 
 En este diagrama:
@@ -569,7 +534,7 @@ Reguladores y Autoridades: Representa a las autoridades gubernamentales y regula
 	- 4.3.1. Software Architecture System Landscape Diagram.
 
    
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/93a8f4ed-a859-4fce-a0dd-21cb169c8172)
+	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/93a8f4ed-a859-4fce-a0dd-21cb169c8172)
 
 
 Problemática: Representa la situación global de desperdicio de comida en cadenas de restaurantes en todo el mundo.
@@ -591,12 +556,12 @@ Reguladores y Autoridades: Los organismos gubernamentales y reguladores que pued
 	- 4.3.2. Software Architecture Context Level Diagrams.
  -  Mediante el Context Diagram pretendemos mostrar el panorama general de la interacción entre el segmento objetivo: Tanto clientes como consumidores. Ahí podemos mostrar la interacción con la aplicación y los segmentos.
 
- -  ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/e3853df0-2c32-4de6-830c-08fe530515fb)
+    ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/e3853df0-2c32-4de6-830c-08fe530515fb)
 
 	- 4.3.3. Software Architecture Container Level Diagrams.
  - En este diagrama se puede apreciar el funcionamiento que tienen los Bounded Context en relación con la aplicación.	.
 
- - ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/4fb481b0-a809-4386-bb8f-af0cdad64769)
+   ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/4fb481b0-a809-4386-bb8f-af0cdad64769)
 
 	- 4.3.4. Software Architecture Deployment Diagrams.
 En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus controllers, services y repositorios, a su vez su base datos donde está almacenado.
