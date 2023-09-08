@@ -312,7 +312,7 @@ Al fusionar estas 2 ideas, conseguimos Tasty point (algo como los Recycling Poin
 Nuestro punto es... hay buena comida aquí. ¡Ven a conseguirla! 
 El color principal de la marca es el Naranja: Este representa la vitalidad y confiabilidad que queremos representar para nuestros clientes.
 
-	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/7673e8bf-b2a2-43ab-8e92-9f9f236b1f05)
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/7673e8bf-b2a2-43ab-8e92-9f9f236b1f05)
 
 Colors: 
 
@@ -428,7 +428,7 @@ Algunas empresas están promoviendo la reutilización y la venta de porciones de
 Este modelo de negocio ha tenido éxito en Europa, pero aún no está disponible en Perú.
 Eventos de Negocio:
 
-	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/72c8fca4-bc69-488e-b417-fcb015f860b7)
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/72c8fca4-bc69-488e-b417-fcb015f860b7)
 
 Roles y responsabilidades en la empresa.
 Tecnologías utilizadas para la plataforma.
