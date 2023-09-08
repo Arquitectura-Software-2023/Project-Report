@@ -265,10 +265,10 @@ Entrevista 2: Hugo Pahuacho
 - 3.3. Impact Mapping.
 
 Segmento Cliente:
-	![Impact Map 1](https://media.discordapp.net/attachments/912089666939916348/1148756492040802304/Flowchart.jpg?width=1397&height=669)
+![Impact Map 1](https://media.discordapp.net/attachments/912089666939916348/1148756492040802304/Flowchart.jpg?width=1397&height=669)
 
 Segmento usuario:
-	![Impact Map 2](https://media.discordapp.net/attachments/912089666939916348/1148762107676987412/Flowchart_1.jpg?width=1047&height=669)
+![Impact Map 2](https://media.discordapp.net/attachments/912089666939916348/1148762107676987412/Flowchart_1.jpg?width=1047&height=669)
 
 - 3.4. Product Backlog.
 
@@ -316,11 +316,11 @@ El color principal de la marca es el Naranja: Este representa la vitalidad y con
 
 Colors: 
 
-	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/42dfb1d8-7f9b-4329-9e7f-cdf836121c03)
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/42dfb1d8-7f9b-4329-9e7f-cdf836121c03)
 
 Nuestra aplicación web usará el Patrón en Z:
 
-	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a242fb41-8bc5-4113-a49a-2de56cae7ffd)
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a242fb41-8bc5-4113-a49a-2de56cae7ffd)
 
 	- 4.1.2. Attribute-Driven Design Inputs. 
 		- 4.1.2.1. Primary Functionality (Primary User Stories). 
@@ -388,11 +388,11 @@ Se incluye una barra lateral para mostrar las opciones que el usuario puede eleg
 
 	- 4.1.3. Architectural Drivers Backlog. 6/40 V1.0 
  
- 	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/7bb3ad47-c42f-41b7-9933-43a4a61d5e52)
+ ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/7bb3ad47-c42f-41b7-9933-43a4a61d5e52)
 
 	- 4.1.4. Architectural Design Decisions. 
  
- 	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/413e7009-15f8-4788-aaf4-457d2673aa80)
+ ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/413e7009-15f8-4788-aaf4-457d2673aa80)
 
 	- 4.1.5. Quality Attribute Scenario Refinements. 
  1. Rendimiento (Performance):
@@ -487,7 +487,7 @@ El proceso de "Candidate Context Discovery" para Tasty Point se centra en encont
 
 2.	 Como consumidor, quiero visualizar las principales notificaciones para estar informado sobre las ofertas y promociones que ofrezca la aplicación
 	 
-	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a3f0d55b-077f-4e22-9c5a-be5a7734666e)
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/a3f0d55b-077f-4e22-9c5a-be5a7734666e)
 
 3.	Como consumidor quiero clasificar de manera favorita mis productos para lograr visualizar la disponibilidad en la sección “Mis favoritos”
 	
@@ -513,7 +513,7 @@ Link a Figma: https://www.figma.com/file/VroQCK2bhcvc3SDwavm84T/Landing-Page-Wir
 
 	- 4.2.5. Context Mapping.
    
-	![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/df97086d-13c3-434b-9a45-fbacd428ea4e)
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/df97086d-13c3-434b-9a45-fbacd428ea4e)
 
 
 En este diagrama:
