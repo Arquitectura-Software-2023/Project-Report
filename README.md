@@ -152,18 +152,22 @@ Entrevista 1: Alejandro Rojas
 
 ### 2.3. Needfinding.
 - 2.3.1. User Personas.
-	Consumidor:
-	![user persona 1](https://cdn.discordapp.com/attachments/1149534515509858338/1149535401007124560/Imagen1.png)
   
-	Cliente:
-  	![user persona 2](https://cdn.discordapp.com/attachments/1149534515509858338/1149536883643273347/Imagen2.jpg)
+Segmento Cliente:
+![user persona 1](https://cdn.discordapp.com/attachments/1149534515509858338/1149535401007124560/Imagen1.png)
+  
+Segmento Consumidor:
+![user persona 2](https://cdn.discordapp.com/attachments/1149534515509858338/1149536883643273347/Imagen2.jpg)
+
 - 2.3.2. User Task Matrix.
 - 2.3.3. Empathy Mapping.
-	Consumidor:
-  	![emphaty map 1](https://cdn.discordapp.com/attachments/1149534515509858338/1149538442393432155/Imagen3.png)
+
+Segmento Cliente:
+![emphaty map 1](https://cdn.discordapp.com/attachments/1149534515509858338/1149538442393432155/Imagen3.png)
   
-	Cliente:
-	![emphaty map 2](https://cdn.discordapp.com/attachments/1149534515509858338/1149538756341280858/Imagen4.png)
+Segmento Consumidor:
+![emphaty map 2](https://cdn.discordapp.com/attachments/1149534515509858338/1149538756341280858/Imagen4.png)
+
 - 2.3.4. As-is Scenario Mapping.
 
 ## Capítulo III: Requirements Specification
