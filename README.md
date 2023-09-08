@@ -154,19 +154,28 @@ Entrevista 1: Alejandro Rojas
 - 2.3.1. User Personas.
 
 Segmento Cliente:
-<img src="https://cdn.discordapp.com/attachments/1149534515509858338/1149535401007124560/Imagen1.png" alt="imagen1" width="200"/>
+<span style="display:block; text-align:center;">
+    ![imagen1](https://cdn.discordapp.com/attachments/1149534515509858338/1149535401007124560/Imagen1.png)
+</span>
 Segmento Consumidor:
-<img src="https://cdn.discordapp.com/attachments/1149534515509858338/1149536883643273347/Imagen2.jpg" alt="imagen2" width="200"/>
+<span style="display:block; text-align:center;">
+    ![imagen2](https://cdn.discordapp.com/attachments/1149534515509858338/1149536883643273347/Imagen2.jpg)
+</span>
 
 - 2.3.2. User Task Matrix.
 - 2.3.3. Empathy Mapping.
 
 Segmento Cliente:
-<img src="https://cdn.discordapp.com/attachments/1149534515509858338/1149538442393432155/Imagen3.png" alt="imagen3" width="200"/>
+<span style="display:block; text-align:center;">
+    ![imagen3](https://cdn.discordapp.com/attachments/1149534515509858338/1149538442393432155/Imagen3.png)
+</span>
 Segmento Consumidor:
-<img src="https://cdn.discordapp.com/attachments/1149534515509858338/1149538756341280858/Imagen4.png" alt="imagen4" width="200"/>
+<span style="display:block; text-align:center;">
+    ![imagen4](https://cdn.discordapp.com/attachments/1149534515509858338/1149538756341280858/Imagen4.png)
+</span>
 
 - 2.3.4. As-is Scenario Mapping.
+
 ## Capítulo III: Requirements Specification
 - 3.1. To-Be Scenario Mapping.
 
