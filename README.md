@@ -42,7 +42,7 @@ Ciclo:
 |-----------|-----------|-----------|-----------|
 | 1.0 | 22/08/2023 | Andres Christian Reynoso | Se agrego el contenido relacionado al primer entregable TB1 |
 | 2.0 | 7/09/2023 | David Torres Vilchez | Se agrego el contenido relacionado al primer entregable TB1 |
-|  |  |  |  |
+| 3.0 | 8/09/2023 | Claudia Rozas | Avance del capítulo 4 para el entregable TB1 |
 |  |  |  |  |
 
 ## Project Report Collaboration Insights
@@ -82,26 +82,26 @@ Ciclo:
 	- 3.3. Impact Mapping. 
 	- 3.4. Product Backlog. 
 - Capítulo IV: Strategic-Level Software Design. 
-	4.1. Strategic-Level Attribute-Driven Design. 
-		4.1.1. Design Purpose. 
-		4.1.2. Attribute-Driven Design Inputs. 
-			4.1.2.1. Primary Functionality (Primary User Stories). 
-			4.1.2.2. Quality attribute Scenarios. 
-			4.1.2.3. Constraints. 
-4.1.3. Architectural Drivers Backlog. 6/40 V1.0 
-4.1.4. Architectural Design Decisions. 
-4.1.5. Quality Attribute Scenario Refinements. 
-4.2. Strategic-Level Domain-Driven Design. 
-4.2.1. EventStorming. 
-4.2.2. Candidate Context Discovery. 
-4.2.3. Domain Message Flows Modeling. 
-4.2.4. Bounded Context Canvases. 
-4.2.5. Context Mapping. 
-4.3. Software Architecture. 
-4.3.1. Software Architecture System Landscape Diagram. 
-4.3.1. Software Architecture Context Level Diagrams. 
-4.3.2. Software Architecture Container Level Diagrams. 
-4.3.3. Software Architecture Deployment Diagrams.
+	- 4.1. Strategic-Level Attribute-Driven Design. 
+		- 4.1.1. Design Purpose. 
+		- 4.1.2. Attribute-Driven Design Inputs. 
+			- 4.1.2.1. Primary Functionality (Primary User Stories). 
+			- 4.1.2.2. Quality attribute Scenarios. 
+			- 4.1.2.3. Constraints. 
+		- 4.1.3. Architectural Drivers Backlog. 6/40 V1.0 
+		- 4.1.4. Architectural Design Decisions. 
+		- 4.1.5. Quality Attribute Scenario Refinements. 
+	- 4.2. Strategic-Level Domain-Driven Design. 
+		- 4.2.1. EventStorming. 
+		- 4.2.2. Candidate Context Discovery. 
+		- 4.2.3. Domain Message Flows Modeling. 
+		- 4.2.4. Bounded Context Canvases. 
+		- 4.2.5. Context Mapping. 
+	- 4.3. Software Architecture. 
+		- 4.3.1. Software Architecture System Landscape Diagram. 
+		- 4.3.1. Software Architecture Context Level Diagrams. 
+		- 4.3.2. Software Architecture Container Level Diagrams. 
+		- 4.3.3. Software Architecture Deployment Diagrams.
 
 # Student Outcome
 
@@ -115,7 +115,7 @@ Ciclo:
 | Nombre| Descripción| 
 |-----------|-----------|
 |Andres Christian Reynoso  | Mi nombre es Andres Christian Reynoso, tengo 20 años y estudio en la carrera de Ingenieria de Software, estoy dispuesto a apoyar a mis compañeros en los momentos que sean necesarios.|
-||  |
+|Claudia Lucia Rozas Gamero| Mi nombres es Claudia Rozas, tengo 23 años y estudio Ingeniería de Software. Me gusta mucho el rubro de Data y estoy comprometida con mi equipo y/o proyectos |
 ||  |
 ||  |
 ||  |
@@ -148,6 +148,12 @@ Entrevista 1: Alejandro Rojas
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010196_upc_edu_pe/ETDhQlAQWthGipanM-mMBa4BXFzPBPXX0srJm7TCC5EydQ?e=6KtsbI
 - Resumen: Alejandro es un chico joven de 19  años que estudia la carrera de ciencias de la computacion, nos ha mencionado como es que nunca se habia percatado de la problematica que estamos tratando, siendo que la gente deja la comida desperdiciada, a su vez nos menciona que en la semana hasta entre 200 y 300 soles en comida y que le encantaria la idea de nuestra aplicacion. 
 
+Entrevista 2: Hugo Pahuacho
+![entrevista](https://drive.google.com/file/d/1Hm-b326JGEAPgxiQ47AecFwagPFty_sr/view?usp=drive_link)
+- Duracion: 05:00
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922910_upc_edu_pe/ERWU51GT8iFHpNfysZ7mpoEBP2d-AlppHdLSnTYeU_E2VQ?e=WCwIPn
+- Resumen: Es un chico universitario que en sus tiempos libres trabaja en una cafetería. Él nos comenta que vende tortas, sanguches y bebidas y que lo que más se vende son las dos últimas cosas. También, nos indica que pierde aproximadamente el 20% de lo que vende al final del día y que le gustaría aprovecharlo más..
+  
 - 2.2.3. Análisis de entrevistas.
 
 ### 2.3. Needfinding.
