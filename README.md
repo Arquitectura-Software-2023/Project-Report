@@ -344,6 +344,9 @@ Entrevista 2: Hugo Pahuacho
 ![Segmento Consumidor](https://cdn.discordapp.com/attachments/1149534515509858338/1149536883643273347/Imagen2.jpg)
 
 - 2.3.2. User Task Matrix.
+
+![Task Matrix](https://cdn.discordapp.com/attachments/1149534515509858338/1150074524415565834/image.png)
+  
 - 2.3.3. Empathy Mapping.
 
 **Segmento Cliente:**
