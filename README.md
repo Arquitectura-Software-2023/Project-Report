@@ -25,7 +25,7 @@ TastyPoint
 Relación de integrantes:
 
  - Marco Antoni Mendoza Rodriguez
- - Claudia Lucia Rozas Gamero
+ - Claudia Lucia Rozas Gamero (U201922910)
  - Andres Christian Reynoso (U202010196)
  - David Antonio Torres Vilchez (U202010942)
 - 
