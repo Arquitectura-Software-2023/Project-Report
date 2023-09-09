@@ -122,25 +122,199 @@ Ciclo:
 ||  |
 
 ### 1.2. Solution Profile
-- 1.2.1 Antecedentes y problemática
+- 1.2.1 Antecedentes y problemática  
+	The 5 ‘W’s y 2 ‘H’s  
+	- **1. What (Qué):**  
+	El problema encontrado es la gran cantidad de alimentos disponibles desperdiciados en Perú y el Mundo que, por consiguiente, generan pérdidas económicas y ecológicas que afectan a los restaurantes y la 	población.  
+	- **2. When (Cuándo):**  
+	Este problema tiene más tiempo del que se tiene conciencia. Según la Organización de las Naciones Unidas para la Alimentación y la Agricultura (s.f.), "el número de personas afectadas por el hambre ha 	aumentado lentamente desde 2014". Lo que evidencia la existencia de este dañoso problema.  
+	La relación de lo anterior con nuestros públicos objetivos ocurre al concluir la venta del día o semana. Los clientes no agotaron el stock disponible del restaurante tradicional o de comida rápida, lo 	que resulta en el desecho de estos platos o ingredientes restantes que no están lo suficientemente frescos para ser aprovechados en la siguiente jornada.  
+	Nuestro primer cliente, el consumidor, usará el producto cuando esté buscando un plato de comida a un precio menor o un método para combatir la problemática del desperdicio de comida.  
+	El comprador podrá elegir entre una variedad de platos disponibles en nuestra aplicación web. Estos platos son ofrecidos por nuestro segundo cliente, el restaurante tradicional o de comida rápida.   
+	- **3. Where (dónde):**  
+	El cliente podrá usar el producto desde su dispositivo móvil de preferencia. Esto le permitirá ordenar su comida desde cualquier lugar en el que se encuentre y recibirla, usando los servicios ofrecidos 	por el restaurante.  
+	- **4. Who (quién):**  
+	Como se mencionó en algún párrafo anterior, nuestra aplicación web cuenta con 2 clientes:  
+		-	El cliente consumidor, es quien ordena sus platos en la plataforma debido a la preocupación que la problemática del desperdicio de comida pueda generar si no es combatida, o simplemente 			debido a los precios bajos de los platos ofrecidos en la plataforma.  
+		-	Y el cliente Restaurante, tradicional o de comida rápida, es quien ofrece las opciones disponibles de platos en la plataforma como una forma de minimizar las pérdidas económicas 				generadas al "tirar" los productos no lo suficiente frescos para una siguiente jornada.  
+	- **5. Why (por qué):**  
+	El problema del desperdicio de comida se debe a varios factores y ocurre en varias etapas (alimentos que se pierden después de la cosecha, durante la fase de venta al por menor de elementos primarios, 	etc.). Sin embargo, Tasty Point se enfoca en el derroche de alimentos generados por el no agotamiento del stock en ingredientes y platos concluidos, problema consecuente de la falta de demanda. 
+	Tasty point busca solucionar el problema ofreciendo estos platos restantes de manera directa a los clientes, explícitamente a un precio menor.  
+	- **1. How (cómo):**  
+	Tasty food es usado cuando:  
+		- El consumidor busca una manera de combatir la problemática del desperdicio de comida, o simplemente busca alimentos ofrecidos a precios bajos.  
+		- El cliente Restaurante, tradicional o de comida rápida, busca una forma de minimizar las pérdidas generadas al "tirar" los productos que no pudieron venderse y no son lo suficientemente 			frescos para una siguiente jornada.  
+	- **2. How much (cuánto) :**  
+	De acuerdo con la ONU, Programa para el medio ambiente (2021), "se estima que 931 millones de toneladas de alimentos, o 17% del total de alimentos disponibles para los consumidores en 2019, terminaron 	en los basureros de hogares, minoristas, restaurantes y otros servicios alimentarios". Estas cifras evidencian la gran cantidad de comida que se desperdicia de manera global y, de la misma manera al 		mencionar a minoristas y hogares además de restaurantes, dejan entrever que es un problema del que nadie está exento.  
+
 - 1.2.2 Lean UX Process.
   - 1.2.2.1. Lean UX Problem Statements.
-  - 1.2.2.2. Lean UX Assumptions.
-  - 1.2.2.3. Lean UX Hypothesis Statements.
-  - 1.2.2.4. Lean UX Canvas.
-  
-### 1.3. Segmentos objetivo.
+    
+    En la actualidad el tercio de comida que producen las cadenas de restaurantes en el mundo se desperdicia. En mira a esta gran pérdida, ciertas empresas incentivan a la reutilización y el cuidado de los 		alimentos, vender las porciones de comida a un menor precio garantizando la calidad y el mejor servicio, hoy en 2022 tienden a tener gran acogida en la población juvenil, Europa viene siendo nicho de 	mercado resultando ser un éxito en su acogida, sin embargo, en Perú no se encuentra disponible.  
+	Tasty Point es una Startup que ofrece la calidad y garantía de sus dichos productos, cubriendo la necesidad de cada uno de los peruanos, estar presente en el mercado, por lo que no existe otra startup 	que ofrezca dicho servicio en el país. Tasty Point al ser una empresa pionera en el Perú establece un vínculo directo entre consumidor y la variedad de menú que esté interesado, ofreciendo así 		disponibilidad y confianza a sus usuarios.  La facilidad de compra es estrictamente seguro, avala firmeza en sus medios de pagos e interacción con la APP WEB, haciendo que tu experiencia sea amigable e 	interactiva con sus usuarios.  
+	Tasty Point al estar introducido al mercado peruano, país de una de las mejores gastronomías del mundo, ofrece a sus consumidores una variedad de platos al gusto del cliente y promueve la cultura de la 	sana alimentación, responsable del buen cuidado de la salud e incentiva a la estabilización del consumo nutritivo. Pone a disposición una amplia variedad de platos elaborados a base de productos de la 	costa, sierra y selva.  
 
+  - 1.2.2.2. Lean UX Assumptions.  
+
+  	- Business Outcome
+     
+	En este apartado, analizaremos el impacto que nuestra propuesta pueda generar, bajo diversos aspectos, con el propósito de cumplir con nuestro objetivo.
+
+		- 1.	Agilizar la búsqueda de productos alimenticios que ofrecen los restaurantes  
+		Es importante permitir al consumidor una eficiente navegación a través de nuestra app web con el propósito de agilizar la búsqueda de diversos restaurantes.  
+		- 2.	Mejorar las propuestas del mercado  
+		Todos los consumidores buscan la mejor oferta/demanda y este caso no es la excepción, ofreciendo una reducción del precio original a aquel producto que no se desea desechar.  
+		- 3.	Promoviendo el servicio de delivery  
+ 		En tiempos de pandemia, las aglomeraciones pueden llegar a ser perjudiciales, por lo que con Tasty Point, los consumidores no tendrán que preocuparse por ello.  
+	- User
+    
+	Aquellos que residan en Lima Metropolitana y requieren de un servicio como el nuestro, forman parte de nuestro segmento objetivo, para ser portadores de los beneficios que Tasty Point tiene para dar.
+ 
+		- 1.	Consumidores  
+		- 2.	Restaurantes
+    
+	- User Outcome
+    
+	En este siguiente apartado, se presentan los beneficios adquiridos en base a la interacción de los usuarios con nuestra app web.
+
+		- 1.	Consumidores  
+		Nos enfocamos en aquellas personas que consumen y adquieren sus productos alimenticios vía delivery y que prefieren elegir un plato de comida cualquiera con tal que esté en buen estado y a un 		buen precio.  
+		- 2.	Restaurantes  
+		Nos enfocamos en aquellos restaurantes que poseen un porcentaje moderado/alto de productos desechados por día.
+
+	- Features
+  - 
+
+		- 1.	Nuestros consumidores podrán pedir los alimentos que sobraron de una gran cantidad de restaurantes a un precio accesible.  
+		- 2.	Los dueños de restaurantes podrán evitar el desperdicio de alimentos y generar ingresos con la venta de sus productos sobrantes a un buen precio a través de la aplicación subiendo sus 		productos de forma sencilla.  
+		- 3.	Los dueños de restaurantes podrán añadir sus promociones en la plataforma para atraer consumidores.  
+		- 4.	El sistema de búsqueda le brindara al consumidor el platillo que se ajuste mejor a sus preferencias como restaurante, tipo de comida, rango de precio, entre otros.  
+		- 5.	Los consumidores podrán calificar y dejar reseñas de los restaurantes en los que pidieron.  
+		- 6.	Los consumidores podrán visualizar notificaciones de las promociones de sus restaurantes favoritos.  
+		- 7.	Los consumidores podrán comunicarse con los dueños de los restaurantes ante cualquier inconveniente mediante su información de contacto en su perfil.  
+
+  - 1.2.2.3. Lean UX Hypothesis Statements.
+ 
+	- Hypothesis 1:  
+	Creemos que agilizar la búsqueda de productos alimenticios que ofrecen los restaurantes se logrará si el consumidor obtiene un plato de comida de calidad y a buen precio con el sistema de búsqueda que 	le brindará al consumidor el platillo que se ajuste mejor a sus preferencias como restaurante, tipo de comida, rango de precio, entre otros.
+
+	- Hypothesis 2:  
+	Creemos que agilizar la búsqueda de productos alimenticios que ofrecen los restaurantes se logrará si el representante de restaurante obtiene un menor porcentaje de desperdicios con la capacidad de 		poder evitar el desperdicio de alimentos y generar ingresos con la venta de sus productos sobrantes a un buen precio a través de la aplicación.  
+
+	- Hypothesis 3:  
+	Creemos que mejorar las propuestas del mercado se logrará si el representante de restaurante obtiene mejores ganancias gracias a la venta de residuos de comida con la capacidad de añadir sus promociones 	en la plataforma para atraer consumidores.
+
+	- Hypothesis 4:  
+ 	Creemos que mejorar las propuestas del mercado se logrará si el consumidor obtiene precios más bajos gracias a la compra de residuos de comida con la capacidad de poder pedir los alimentos que sobraron 	de una gran cantidad de restaurantes a un precio accesible.
+
+	- Hypothesis 5:  
+	Creemos que agilizar la búsqueda de productos alimenticios que ofrecen los restaurantes se logrará si el consumidor obtiene un plato de comida de calidad y a buen precio con la capacidad de poder 		visualizar notificaciones de las promociones de sus restaurantes favoritos.
+
+	- Hypothesis 6:
+	Creemos que mejorar las propuestas del mercado se logrará si el consumidor obtiene una mejor experiencia de adquisición de los productos residuales con la capacidad de poder calificar y dejar reseñas de 	los restaurantes en los que pidieron.
+
+	- Hypothesis 7:
+	Creemos que mejorar las propuestas del mercado se logrará si el consumidor obtiene una mejor experiencia de adquisición de los productos residuales con la capacidad de poder calificar y dejar reseñas de 	los restaurantes en los que pidieron.  
+
+  - 1.2.2.4. Lean UX Canvas.
+
+  ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/c11ae688-02bc-4029-a001-c3b764d40cfb)
+
+### 1.3. Segmentos objetivo.  
+
+Para definir los segmentos objetivos que se verían beneficiados en la solución de esta problemática, hemos realizado investigaciones que nos han ayudado a esclarecer dichos segmentos. Como en todo 		proyecto, existen dos grandes grupos, los cuales son aquellos que invierten en el proyecto, más conocidos como clientes, y aquellos a los que consumen el producto o servicio, los cuales son los 		consumidores. Dentro de estos grupos definimos a nuestros clientes como aquellos dueños(as) de restaurantes que desean incrementar sus ventas y evitar el desperdicio de comida, estos se encuentran en un 
+ 	rango de edad entre los 30 a 50 años, preocupados por el cuidado de los recursos del planeta, con conciencia ambiental y decidido a incrementar sus ganancias.  
+ 	Por otro lado, en el sector de consumidores identificamos a aquellos comensales que desean adquirir alimentos por un bajo precio. Estos se encuentran en un rango de edades entre los 18 a 30 años, 		usuarios de diversas tecnologías, en muchos casos recién independizados, y que desean ayudar a disminuir el desperdicio de comida que generan los restaurantes. Asimismo, se ayudaría a familias que 		cuentan con algún dispositivo electrónico en casa y que deseen disminuir sus gastos en alimentos.  
 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
 
 - 2.1.1. Análisis competitivo.
-- 2.1.2. Estrategias y tácticas frente a competidores.
+
+	- 1.- Too good to go es la aplicación más grande que lucha contra el desperdicio de alimentos de la actualidad. Con un aproximado de 5 millones de usuarios en el mundo en 9 países, muchos usuarios están 	satisfechos, porque se evitó el desperdicio de comida desde el 2018. 
+
+ 		![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/3c80e7a9-3a33-40f8-9f1d-ea377ffafbfe)
+
+
+	- 2.- Phenix es la empresa emergente líder que lucha contra el desperdicio de la comida con sedes en diferentes partes del mundo y desde su fundación en 2014 a la fecha llevan recaudando 60 toneladas de 	comida que sin su presencia hubieran sido desperdiciados. Dicha empresa tiene aliados como distribuidores, fabricantes, mayoristas y tiendas alimentarias. 
+
+
+		![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/dd833f5f-14fd-4351-ba1d-82532e92684a)
+
+	- 3.- Olio nace en el 2014 con la fundación de Teesa Cook, en mira a que en el mundo la tercera parte de alimentos que consumimos se tira a la basura esto, incentivó a poner en marcha a Olio. Dicho 		startup conecta a vecinos entre sí y con negocios locales para que la comida que no es consumida se comparta en vez de tirarla a la basura. Alimentos, verduras y productos por vencer son ofertados de 	una manera particular, y comercialmente bien adquiridos, a la fecha cuenta con alrededor de 5 millones de usuarios y 35 millones de porciones de comida compartida.
+
+   		![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/0853750c-1c63-4484-a351-52bf6389d16a)
+
+  	- **¿Por qué llevar a cabo este análisis?**  
+
+	Porque este análisis nos permitirá añadir nuevas funciones, mejorar las que ya tenemos y así ofrecer un servicio de calidad y competitivo.
+
+	¿Puede nuestra aplicación (y plataforma) competir con aplicaciones que tengas intereses comunes frente a la venta de comidas a un mejor precio que poseen las mismas características y funciones?
+
+
+ | Competidor       | To Good to Go                                                   | Phenix                                                         | Olio                                                      |
+|------------------|-----------------------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------|
+| Perfil           | Desde el año 2018, viene creciendo esta empresa...             | En el año 2014 nació esta prometedora idea de negocio...     | Por el 2014 nace Olio con el objetivo de compartir más... |
+| Ventaja competitiva | La iniciativa del negocio involucra el compromiso...        | A la fecha 2.5 millones de usuarios vienen comprometidos...  | Alrededor de 5 millones de personas están registradas... |
+| Perfil de Marketing | Mercado objetivo | Vende productos a nivel extranjero y abarca tiendas en diferentes partes de Europa, sin presencia en América. | Vende productos a nivel extranjero y abarca tiendas en diferentes partes de Europa, sin presencia en América. | Vende productos a nivel extranjero y abarca tiendas en diferentes partes de Europa, sin presencia en América. |
+| Estrategias de marketing | Ofertar productos a un menor precio. | Diversidad de productos y platos, ofertas irresistibles por medio de su aplicativo. | Atención al cliente y facilidad de encontrar lo que el cliente viene a buscar. |
+| Perfil de Producto | Productos & Servicios | Desde su año de fundación, viene beneficiando a gran cantidad de población... | Viene luchando por la rentabilidad económica de la sociedad, demostrando que si existe ideas para un mundo más justo, humano y sostenible... | Más de 35 millones de porciones de comida repartidas en el mundo, Olio crea un mundo donde nada valioso se desperdicie y todas las personas tengan suficiente qué comer sin destruir nuestro planeta en el proceso... |
+| Precios & Costos | Ofrece costos y porciones de comida a un bajo precio. Irresistible en sus porciones de comida que comercializa. | Ofrece costos y porciones de comida a un bajo precio. Irresistible en sus porciones de comida que comercializa. | Ofrece costos y porciones de comida a un bajo precio. Irresistible en sus porciones de comida que comercializa. |
+| Canales de distribución (Web y/o Móvil) | App móvil | App móvil | App móvil |
+| Análisis SWOT    | **Fortalezas:** El usuario que pretenda acceder debe de hacerlo mediante una aplicación móvil, donde el usuario se registra y realiza sus pedidos. También tienen una página web. | **Fortalezas:** Phenix utiliza la aplicación móvil para captar clientes, a su vez una página que respalda el negocio. | **Fortalezas:** Utiliza una APP móvil y página web, interactiva eficaz y segura que ofrece las comidas que tienen. |
+|                  | **Debilidades:** Solo tiene presencia en algunos países de Europa y es una empresa emergente con mínima población clientela. | **Debilidades:** Solo tiene presencia en algunos países de Europa y es una empresa emergente con mínima población clientela. | **Debilidades:** Solo tiene presencia en algunos países de Europa y es una empresa emergente con mínima población clientela. |
+|                  | **Oportunidades:** Tiene aceptación en Europa y millones de usuario muestran su respaldo a la iniciativa. | **Oportunidades:** Tiene aceptación en Europa y millones de usuario muestran su respaldo a la iniciativa. | **Oportunidades:** Tiene aceptación en Europa y millones de usuario muestran su respaldo a la iniciativa. |
+|                  | **Amenazas:** No presenta mercado en América y no comercializa por delivery. | **Amenazas:** No presenta mercado en América y no comercializa por delivery. | **Amenazas:** No presenta mercado en América y no comercializa por delivery. |
+
+| Indicadores de Comparación | Too Good to Go                                                 | Phenix                                                       | Olio                                                      | Tasty Point                                                  |
+|---------------------------|---------------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------|
+| Años en el mercado        | Desde el año 2018, viene creciendo esta empresa, cumpliendo con 4 años en el mercado. | En el año 2014 nació esta prometedora idea de negocio que desde su presencia en el mercado viene generando gran aclamación por el público. | Por el 2014 nace Olio con el objetivo de compartir más, y desperdiciar menos comida. Esta empresa beneficia a muchas personas, tiene una aceptación única y sobre todo cuenta con gran respaldo. | Al ser un startup emergente, no cuenta con tiempo de experiencia. |
+| Aceptación de la clientela | La iniciativa del negocio involucra el compromiso y el respaldo de casi 5 millones de usuarios en 9 países del mundo. | A la fecha 2.5 millones de usuarios vienen comprometidos con Phenix y siendo beneficiados de dicho startup. | Alrededor de 5 millones de personas están registradas en Olio. | En las entrevistas realizadas se evidencia el respaldo y el buen impacto que genera el startup emergente. |
+| Impacto social             | Desde su año de fundación, viene beneficiando a gran cantidad de población, así tal que evitó que la tercera parte del desperdicio de comida sea una pérdida. | Viene luchando por la rentabilidad económica de la sociedad, demostrando que si existe ideas para un mundo más justo, humano y sostenible. | Más de 35 millones de porciones de comida repartidas en el mundo, Olio crea un mundo donde nada valioso se desperdicie y todas las personas tengan suficiente qué comer sin destruir nuestro planeta en el proceso. | Efectivamente el impacto social que tendría la app web es significativo, por lo que contribuimos con una noche causa y de una manera efectiva. |
+| Tecnología utilizada para captar clientes | El usuario que pretenda acceder debe de hacerlo mediante una aplicación móvil, donde el usuario se registra y realiza sus pedidos. También tienen una página web. | Phenix utiliza la aplicación móvil para captar clientes, a su vez una página que respalda el negocio. | Utiliza una APP móvil y página web, interactiva eficaz y segura que ofrece las comidas que tienen. | La tecnología usada para lograr llegar a nuestros clientes es la App web y el uso de un catálogo de realidad virtual, donde se presentan los servicios y las novedades que ofrecemos. |
+| Presencia en el extranjero  | Se originó en Dinamarca y a la fecha está fundado en países como: Noruega, Holanda, Alemania, Reino Unido, Francia, Bélgica, Suiza y España. No cuenta con tiendas en América, esto se torna difícil porque no permite extender su mercado. | Phenix está presente en 5 países del mundo con más de 30 filiales en diferentes ciudades. Presencia en pocos países del mundo, sigue siendo un startup emergente. | Olio va creciendo cada vez más y en 60 países del mundo tiene presencia. Alberga a 80 mil empleados entre chefs, cocineros y demás trabajadores. No presenta mucho público objetivo en América y mucho menos en Perú. Al no tener presencia presenta dificultad. | Se prevé que al momento de poner a disposición de las personas interesantes se irán sumando y al atravesar un año superar los 100.000 usuarios registrados en nuestra Aplicación Web. Somos un startup emergente y no tenemos experiencia en el mercado. Presenta cierta dificultad para impactar en el negocio. |
+
+
+- 2.1.2. Estrategias y tácticas frente a competidores.  
+
+	Analizando nuestras propias debilidades, al ser un startup que recién ingresamos al mercado, no tenemos asegurados a los clientes y tampoco experiencia. Entonces, en base a las propias ideas y el 		estudio previo a los competidores de Tasty Point, surgen las siguientes estrategias:  
+
+	- Establecer lazos de sociedad entre proveedores de las diferentes zonas del país (Costa, Sierra y Selva) para tener una mejor variedad de los platos y ser impartidos en la ciudad. Por lo tanto, se 		considera ampliar la cantidad de asociados que proveen los recursos (mercadería a revender) mediante incentivos porcentuales de ganancia.  
+	- 	Crear mayor publicidad que exhibe nuestro startup, con el fin de auto promoverse y conseguir más alianzas con mercados, cadenas de restaurantes y diversas entidades públicas y privadas.   
+	-	Para conseguir ventaja sobre el competidor se estudia el mercado actual y la demanda. Es necesario enfocar el nicho de negocio acorde a los segmentos objetivos que buscamos.   
+		Haciendo un breve estudio sigiloso de las debilidades de los competidores de Tasty Point se plantean las siguientes tácticas con el fin de superarnos como startup.  
+	- Enfatizar la satisfacción y el feedback de nuestros clientes para así promover la comodidad y fidelidad para con nuestra marca.  
+	-	Materializar los conceptos que presentamos con el fin de realizar teaser de nuestros cambios/mejoras y así recibir una precrítica.  
+	-	Realizar campañas publicitarias para dar a conocer nuestra marca y así crear conciencia en las personas que nos desconocen.  
+	-	Convencer a las personas que es de suma importancia cuidar la comida, por lo que es el primordial sustento de la vida.   
+	-	Impartir canales de publicidad, Radio, Facebook, Instagram: Con la idea de persuadir a la población juvenil y captar mayor número de usuarios.  
+	-	Estar en constante innovación   y cambio, esto será útil para llamar la atención de los usuarios, especialmente los relacionados con VR.   
+
 
 ### 2.2. Entrevistas.
  - 2.2.1. Diseño de entrevistas.
-					
+
+	¡Hola, buen día!, permítame presentarme y hablarle un poco acerca de mi proyecto, soy el estudiante [...] de la carrera de Ingeniería de Software. Mi proyecto trata acerca de la creación de una 		aplicación en donde se publican y venden comidas que han sobrado del día, de restaurantes y de cualquier otro establecimiento de comida a un menor precio, esto con la finalidad de ayudar a disminuir el 	desperdicio de comida y ofrecerlos a un precio accesible; para ello a mi equipo y a mí nos agradaría contar con su opinión, ¿podría concedernos una entrevista?  
+	- INTRODUCCIÓN  
+		- ¿Cuál es su nombre?, ¿Cuál es su edad?, ¿Cuál es su formación?, ¿Dónde se ubica su negocio?  
+	- PRE-PROBLEMÁTICA  
+		- ¿Qué tipo de alimentos venden en su establecimiento?  
+		- ¿Cuál es la edad promedio de sus clientes?  
+		- ¿Cuáles son los alimentos que más vende y cuáles son los que menos vende?  
+		- ¿Le ha causado problemas el desperdicio de comida?  
+	- PROBLEMÁTICA  
+		- ¿Qué sucede con los alimentos que sobran al final del día?  
+		- ¿Qué porcentaje de sus ganancias se ve afectado por estas pérdidas?  
+		- ¿Qué alternativa propondría para disminuir el desperdicio de comida?  
+		- ¿Conoce alguna aplicación en dónde pueda ofertar la comida que le ha sobrado al final del día? De ser así, ¿cuáles y qué tal ha sido su experiencia?  
+		- ¿Hace uso de algún medio para crecer sus ventas?  
+ 
+	- PRESENTACIÓN DE LA APP  
+		- ¿Estaría dispuesto(a) a ofertar la comida que le resta al final del día?  
+		- ¿Qué descuento aplicaría a sus comidas?  
+		- ¿Se encontraría interesado en mostrar sus platos un entorno VR?  
+		- ¿Le resultaría útil usar una App en dónde pueda ofertar sus alimentos? De ser así, ¿qué le gustaría que la App tuviera?  
+
 - 2.2.2. Registro de entrevistas.
 
 Entrevista 1: Alejandro Rojas
@@ -150,7 +324,8 @@ Entrevista 1: Alejandro Rojas
 - Resumen: Alejandro es un chico joven de 19  años que estudia la carrera de ciencias de la computacion, nos ha mencionado como es que nunca se habia percatado de la problematica que estamos tratando, siendo que la gente deja la comida desperdiciada, a su vez nos menciona que en la semana hasta entre 200 y 300 soles en comida y que le encantaria la idea de nuestra aplicacion. 
 
 Entrevista 2: Hugo Pahuacho
-![entrevista](https://drive.google.com/file/d/1Hm-b326JGEAPgxiQ47AecFwagPFty_sr/view?usp=drive_link)
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/48172d63-1680-4ff7-b02f-55f22d1800a4)
+
 - Duracion: 05:00
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922910_upc_edu_pe/ERWU51GT8iFHpNfysZ7mpoEBP2d-AlppHdLSnTYeU_E2VQ?e=WCwIPn
 - Resumen: Es un chico universitario que en sus tiempos libres trabaja en una cafetería. Él nos comenta que vende tortas, sanguches y bebidas y que lo que más se vende son las dos últimas cosas. También, nos indica que pierde aproximadamente el 20% de lo que vende al final del día y que le gustaría aprovecharlo más..
