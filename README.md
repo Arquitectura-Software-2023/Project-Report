@@ -187,55 +187,54 @@ Tasty Point al estar introducido al mercado peruano, país de una de las mejores
 
 - **User**
 
- Aquellos que residan en Lima Metropolitana y requieren de un servicio como el nuestro, forman parte de nuestro segmento objetivo, para ser portadores de los beneficios que Tasty Point tiene para dar.
+Aquellos que residan en Lima Metropolitana y requieren de un servicio como el nuestro, forman parte de nuestro segmento objetivo, para ser portadores de los beneficios que Tasty Point tiene para dar.
 
-- 1. Consumidores  
-- 2. Restaurantes
+1. Consumidores  
+2. Restaurantes
 
-  - User Outcome
+- **User Outcome**
 
- En este siguiente apartado, se presentan los beneficios adquiridos en base a la interacción de los usuarios con nuestra app web.
+En este siguiente apartado, se presentan los beneficios adquiridos en base a la interacción de los usuarios con nuestra app web.
 
-- 1. Consumidores  
+ 1. Consumidores  
   Nos enfocamos en aquellas personas que consumen y adquieren sus productos alimenticios vía delivery y que prefieren elegir un plato de comida cualquiera con tal que esté en buen estado y a un   buen precio.  
-- 2. Restaurantes  
+ 2. Restaurantes  
   Nos enfocamos en aquellos restaurantes que poseen un porcentaje moderado/alto de productos desechados por día.
 
-  - Features
--
+- **Features**
 
-- 1. Nuestros consumidores podrán pedir los alimentos que sobraron de una gran cantidad de restaurantes a un precio accesible.  
-- 2. Los dueños de restaurantes podrán evitar el desperdicio de alimentos y generar ingresos con la venta de sus productos sobrantes a un buen precio a través de la aplicación subiendo sus   productos de forma sencilla.  
-- 3. Los dueños de restaurantes podrán añadir sus promociones en la plataforma para atraer consumidores.  
-- 4. El sistema de búsqueda le brindara al consumidor el platillo que se ajuste mejor a sus preferencias como restaurante, tipo de comida, rango de precio, entre otros.  
-- 5. Los consumidores podrán calificar y dejar reseñas de los restaurantes en los que pidieron.  
-- 6. Los consumidores podrán visualizar notificaciones de las promociones de sus restaurantes favoritos.  
-- 7. Los consumidores podrán comunicarse con los dueños de los restaurantes ante cualquier inconveniente mediante su información de contacto en su perfil.  
+ 1. Nuestros consumidores podrán pedir los alimentos que sobraron de una gran cantidad de restaurantes a un precio accesible.  
+ 2. Los dueños de restaurantes podrán evitar el desperdicio de alimentos y generar ingresos con la venta de sus productos sobrantes a un buen precio a través de la aplicación subiendo sus   productos de forma sencilla.  
+ 3. Los dueños de restaurantes podrán añadir sus promociones en la plataforma para atraer consumidores.  
+ 4. El sistema de búsqueda le brindara al consumidor el platillo que se ajuste mejor a sus preferencias como restaurante, tipo de comida, rango de precio, entre otros.  
+ 5. Los consumidores podrán calificar y dejar reseñas de los restaurantes en los que pidieron.  
+ 6. Los consumidores podrán visualizar notificaciones de las promociones de sus restaurantes favoritos.  
+ 7. Los consumidores podrán comunicarse con los dueños de los restaurantes ante cualquier inconveniente mediante su información de contacto en su perfil.  
 
-- 1.2.2.3. Lean UX Hypothesis Statements.
+#### 1.2.2.3. Lean UX Hypothesis Statements
 
-  - Hypothesis 1:  
+- Hypothesis 1:  
  Creemos que agilizar la búsqueda de productos alimenticios que ofrecen los restaurantes se logrará si el consumidor obtiene un plato de comida de calidad y a buen precio con el sistema de búsqueda que  le brindará al consumidor el platillo que se ajuste mejor a sus preferencias como restaurante, tipo de comida, rango de precio, entre otros.
 
-  - Hypothesis 2:  
+- Hypothesis 2:  
  Creemos que agilizar la búsqueda de productos alimenticios que ofrecen los restaurantes se logrará si el representante de restaurante obtiene un menor porcentaje de desperdicios con la capacidad de   poder evitar el desperdicio de alimentos y generar ingresos con la venta de sus productos sobrantes a un buen precio a través de la aplicación.  
 
-  - Hypothesis 3:  
+- Hypothesis 3:  
  Creemos que mejorar las propuestas del mercado se logrará si el representante de restaurante obtiene mejores ganancias gracias a la venta de residuos de comida con la capacidad de añadir sus promociones  en la plataforma para atraer consumidores.
 
-  - Hypothesis 4:  
+- Hypothesis 4:  
   Creemos que mejorar las propuestas del mercado se logrará si el consumidor obtiene precios más bajos gracias a la compra de residuos de comida con la capacidad de poder pedir los alimentos que sobraron  de una gran cantidad de restaurantes a un precio accesible.
 
-  - Hypothesis 5:  
+- Hypothesis 5:  
  Creemos que agilizar la búsqueda de productos alimenticios que ofrecen los restaurantes se logrará si el consumidor obtiene un plato de comida de calidad y a buen precio con la capacidad de poder   visualizar notificaciones de las promociones de sus restaurantes favoritos.
 
-  - Hypothesis 6:
+- Hypothesis 6:
  Creemos que mejorar las propuestas del mercado se logrará si el consumidor obtiene una mejor experiencia de adquisición de los productos residuales con la capacidad de poder calificar y dejar reseñas de  los restaurantes en los que pidieron.
 
-  - Hypothesis 7:
+- Hypothesis 7:
  Creemos que mejorar las propuestas del mercado se logrará si el consumidor obtiene una mejor experiencia de adquisición de los productos residuales con la capacidad de poder calificar y dejar reseñas de  los restaurantes en los que pidieron.  
 
-- 1.2.2.4. Lean UX Canvas.
+#### 1.2.2.4. Lean UX Canvas
 
   ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/c11ae688-02bc-4029-a001-c3b764d40cfb)
 
@@ -249,21 +248,21 @@ Para definir los segmentos objetivos que se verían beneficiados en la solución
 
 ### 2.1. Competidores
 
-- 2.1.1. Análisis competitivo.
+### 2.1.1. Análisis competitivo
 
-  - 1.- Too good to go es la aplicación más grande que lucha contra el desperdicio de alimentos de la actualidad. Con un aproximado de 5 millones de usuarios en el mundo en 9 países, muchos usuarios están  satisfechos, porque se evitó el desperdicio de comida desde el 2018.
+1. Too good to go es la aplicación más grande que lucha contra el desperdicio de alimentos de la actualidad. Con un aproximado de 5 millones de usuarios en el mundo en 9 países, muchos usuarios están  satisfechos, porque se evitó el desperdicio de comida desde el 2018.
 
    ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/3c80e7a9-3a33-40f8-9f1d-ea377ffafbfe)
 
-  - 2.- Phenix es la empresa emergente líder que lucha contra el desperdicio de la comida con sedes en diferentes partes del mundo y desde su fundación en 2014 a la fecha llevan recaudando 60 toneladas de  comida que sin su presencia hubieran sido desperdiciados. Dicha empresa tiene aliados como distribuidores, fabricantes, mayoristas y tiendas alimentarias.
+2. Phenix es la empresa emergente líder que lucha contra el desperdicio de la comida con sedes en diferentes partes del mundo y desde su fundación en 2014 a la fecha llevan recaudando 60 toneladas de  comida que sin su presencia hubieran sido desperdiciados. Dicha empresa tiene aliados como distribuidores, fabricantes, mayoristas y tiendas alimentarias.
 
-  ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/dd833f5f-14fd-4351-ba1d-82532e92684a)
+      ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/dd833f5f-14fd-4351-ba1d-82532e92684a)
 
-  - 3.- Olio nace en el 2014 con la fundación de Teesa Cook, en mira a que en el mundo la tercera parte de alimentos que consumimos se tira a la basura esto, incentivó a poner en marcha a Olio. Dicho   startup conecta a vecinos entre sí y con negocios locales para que la comida que no es consumida se comparta en vez de tirarla a la basura. Alimentos, verduras y productos por vencer son ofertados de  una manera particular, y comercialmente bien adquiridos, a la fecha cuenta con alrededor de 5 millones de usuarios y 35 millones de porciones de comida compartida.
+3. Olio nace en el 2014 con la fundación de Teesa Cook, en mira a que en el mundo la tercera parte de alimentos que consumimos se tira a la basura esto, incentivó a poner en marcha a Olio. Dicho   startup conecta a vecinos entre sí y con negocios locales para que la comida que no es consumida se comparta en vez de tirarla a la basura. Alimentos, verduras y productos por vencer son ofertados de  una manera particular, y comercialmente bien adquiridos, a la fecha cuenta con alrededor de 5 millones de usuarios y 35 millones de porciones de comida compartida.
 
      ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/0853750c-1c63-4484-a351-52bf6389d16a)
 
-  - **¿Por qué llevar a cabo este análisis?**  
+**¿Por qué llevar a cabo este análisis?**  
 
  Porque este análisis nos permitirá añadir nuevas funciones, mejorar las que ya tenemos y así ofrecer un servicio de calidad y competitivo.
 
@@ -291,7 +290,7 @@ Para definir los segmentos objetivos que se verían beneficiados en la solución
 | Tecnología utilizada para captar clientes | El usuario que pretenda acceder debe de hacerlo mediante una aplicación móvil, donde el usuario se registra y realiza sus pedidos. También tienen una página web. | Phenix utiliza la aplicación móvil para captar clientes, a su vez una página que respalda el negocio. | Utiliza una APP móvil y página web, interactiva eficaz y segura que ofrece las comidas que tienen. | La tecnología usada para lograr llegar a nuestros clientes es la App web y el uso de un catálogo de realidad virtual, donde se presentan los servicios y las novedades que ofrecemos. |
 | Presencia en el extranjero  | Se originó en Dinamarca y a la fecha está fundado en países como: Noruega, Holanda, Alemania, Reino Unido, Francia, Bélgica, Suiza y España. No cuenta con tiendas en América, esto se torna difícil porque no permite extender su mercado. | Phenix está presente en 5 países del mundo con más de 30 filiales en diferentes ciudades. Presencia en pocos países del mundo, sigue siendo un startup emergente. | Olio va creciendo cada vez más y en 60 países del mundo tiene presencia. Alberga a 80 mil empleados entre chefs, cocineros y demás trabajadores. No presenta mucho público objetivo en América y mucho menos en Perú. Al no tener presencia presenta dificultad. | Se prevé que al momento de poner a disposición de las personas interesantes se irán sumando y al atravesar un año superar los 100.000 usuarios registrados en nuestra Aplicación Web. Somos un startup emergente y no tenemos experiencia en el mercado. Presenta cierta dificultad para impactar en el negocio. |
 
-- 2.1.2. Estrategias y tácticas frente a competidores.  
+### 2.1.2. Estrategias y tácticas frente a competidores  
 
  Analizando nuestras propias debilidades, al ser un startup que recién ingresamos al mercado, no tenemos asegurados a los clientes y tampoco experiencia. Entonces, en base a las propias ideas y el   estudio previo a los competidores de Tasty Point, surgen las siguientes estrategias:  
 
@@ -308,7 +307,7 @@ Para definir los segmentos objetivos que se verían beneficiados en la solución
 
 ### 2.2. Entrevistas
 
-- 2.2.1. Diseño de entrevistas.
+### 2.2.1. Diseño de entrevistas
 
  ¡Hola, buen día!, permítame presentarme y hablarle un poco acerca de mi proyecto, soy el estudiante [...] de la carrera de Ingeniería de Software. Mi proyecto trata acerca de la creación de una   aplicación en donde se publican y venden comidas que han sobrado del día, de restaurantes y de cualquier otro establecimiento de comida a un menor precio, esto con la finalidad de ayudar a disminuir el  desperdicio de comida y ofrecerlos a un precio accesible; para ello a mi equipo y a mí nos agradaría contar con su opinión, ¿podría concedernos una entrevista?  
 
@@ -332,7 +331,7 @@ Para definir los segmentos objetivos que se verían beneficiados en la solución
   - ¿Se encontraría interesado en mostrar sus platos un entorno VR?  
   - ¿Le resultaría útil usar una App en dónde pueda ofertar sus alimentos? De ser así, ¿qué le gustaría que la App tuviera?  
 
-- 2.2.2. Registro de entrevistas.
+### 2.2.2. Registro de entrevistas
 
 Entrevista 1: Alejandro Rojas
 ![entrevista](https://media.discordapp.net/attachments/912089666939916348/1148765168013152398/image.png?width=1392&height=669)
@@ -357,7 +356,7 @@ Entrevista 3: Roberto Carlos
 
 ### 2.3. Needfinding
 
-- 2.3.1. User Personas.
+### 2.3.1. User Personas
 
 **Segmento Cliente:**
 
@@ -371,7 +370,7 @@ Entrevista 3: Roberto Carlos
 
 ![Task Matrix](https://cdn.discordapp.com/attachments/1149534515509858338/1150074524415565834/image.png)
   
-- 2.3.3. Empathy Mapping.
+### 2.3.3. Empathy Mapping
 
 **Segmento Cliente:**
 
@@ -381,7 +380,7 @@ Entrevista 3: Roberto Carlos
 
 ![Segmento Consumidor](https://cdn.discordapp.com/attachments/1149534515509858338/1149538756341280858/Imagen4.png)
 
-- 2.3.4. As-is Scenario Mapping.
+### 2.3.4. As-is Scenario Mapping
 
 **Consumidor:** los usuarios que van a comprar los alimentos.
 
@@ -401,7 +400,7 @@ Entrevista 3: Roberto Carlos
 
 ## Capítulo III: Requirements Specification
 
-- 3.1. To-Be Scenario Mapping.
+### 3.1. To-Be Scenario Mapping
 
 **Consumidor:** los usuarios que van a comprar los alimentos.
 
@@ -419,9 +418,10 @@ Entrevista 3: Roberto Carlos
 | Thinking | Cuanto tengo que reducir el precio del plato para atraer consumidores? | Ataeremos consumidores? Los precios son accesibles? | Esperemos que se vendan todos los platos. | Se obtuvo ingresos? |
 | Feeling | Angustia | Dudoso | Con calma | Ansioso |
 
-- 3.2. User Stories.
+### 3.2. User Stories
 
-**User Stories Consumer**
+#### User Stories Consumer
+
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios |
 |-----------|-----------|-----------|-----------|-----------|
 | US01 | Registro de Consumidor | Como consumidor quiero crear una cuenta para acceder a la aplicación. | CA1: Dado que el consumidor se encuentra en la ventana de registro y completa todos los campos. Cuando presiona el botón registrarse. Entonces podrá acceder a la aplicación. CA2: Dado que el consumidor se encuentra en la ventana de registro y no completa todos los campos obligatorios. Cuando presiona el botón registrarse. Entonces esos campos se marcan de rojo Y se muestra el mensaje: “Complete los campos obligatorios”. CA3: Dado que el consumidor se encuentra en la ventana de registro y completa erróneamente los campos. Cuando presiona el botón registrarse. Entonces se muestra el siguiente mensaje: “Complete los campos correctamente”. | E1: El consumidor quiere registrarse en la aplicación. E2: El consumidor no completa los campos obligatorios. E3: El consumidor intenta registrarse, pero no completa con datos correctos los campos obligatorios. |
@@ -435,7 +435,7 @@ Entrevista 3: Roberto Carlos
 | US09 | Compartir comentario| Como consumidor quiero redactar un comentario sobre un determinado restaurante acerca de mi experiencia con ellos para poder compartir mi opinión con los demás.| Dado que el consumidor se encuentra en la ventana de reseñas, cuando ingrese su comentario y presione el botón de publicar entonces se publicará el comentario. | El consumidor exceda el límite de caracteres permitidos. |
 | US10 | Filtrar productos | Como consumidor quiero filtrar la lista de productos registrados en la aplicación para poder encontrar rápidamente el producto que deseo. | CA1: Dado que el consumidor está en la sección Lista de productos, cuando ingrese el nombre del producto en la barra de navegación ubicado en la parte superior, entonces se mostrarán los datos de los productos de los restaurantes registrados en la aplicación. CA2: Dado que el consumidor está en la sección Lista de productos, cuando ingrese el nombre del producto en la barra de navegación ubicado en la parte superior, entonces se mostrará el mensaje: “Producto no encontrado”. | E1: El consumidor visualiza los productos deseados. E2: No hay productos registrados en la aplicación con el nombre del usuario. |
 
-**User Stories Business**
+#### User Stories Business
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios |
 |-----------|-----------|-----------|-----------|-----------|
@@ -452,7 +452,7 @@ Entrevista 3: Roberto Carlos
 | US21 | Contar con un CTA (Call To Action) potencialmente atractivo | Como cliente es de mi interés que las ventas aumenten, por lo tanto, es de suma importancia que dentro de la app exista algún botón o enlace que los direccione a la carta disponible en mi restaurante y asegurar su compra. | Dado que el cliente se encuentra dentro de la aplicación cuando decida qué platillo consumir, entonces aparecen CTA atractivos de los restaurantes asociados a la aplicación, apareciendo botones con enlaces que los envía a la página del restaurante. | El cliente asegura una venta y se guarda el registro del platillo, siendo así que para la compra futura se recomiendan platillos similares. |
 | US22 | Poder leer los comentarios de los usuarios. | Como cliente quiero leer el feedback de los comensales para mejorar. | Dado que el cliente se encuentra dentro de la ventana “Reseñas de consumidores” cuando se dirige al área de opiniones, entonces puede leer los comentarios de los consumidores. | El cliente entra en la sección de consumidores y visualiza quiénes han hecho comentarios. |
 
-**User Stories Landing Page**
+#### User Stories Landing Page
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios |
 |-----------|-----------|-----------|-----------|-----------|
@@ -464,15 +464,15 @@ Entrevista 3: Roberto Carlos
 | US28 | Visualizar la sección "about us" en landing page | Como usuario quiero ver la sección “about us” para saber porque TastyPoint es innovadora en el área de comida a domicilio. | Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de about us”, entonces visualizará la información de TastyPoint. | Usuario se dirige a la sección “about us” de la landing page.
 | US29 |Visualizar la sección "segments" en landing page | Como usuario quiero ver la sección “segments” para conocer a quienes está dirigida la aplicación y sus beneficios.|Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de “segments”, entonces visualiza el público objetivo de TastyPoint y las características de la aplicación en cada uno.|Usuario se dirige a la sección “segments” de la landing page|
 
-- 3.3. Impact Mapping.
+### 3.3. Impact Mapping
 
-Segmento Cliente:
+**Segmento Cliente:**
 ![Impact Map 1](https://media.discordapp.net/attachments/912089666939916348/1148756492040802304/Flowchart.jpg?width=1397&height=669)
 
-Segmento usuario:
+**Segmento usuario:**
 ![Impact Map 2](https://media.discordapp.net/attachments/912089666939916348/1148762107676987412/Flowchart_1.jpg?width=1047&height=669)
 
-- 3.4. Product Backlog.
+### 3.4. Product Backlog
 
 | #Orden | User Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
 |-----------|-----------|-----------|-----------|-----------|
@@ -539,7 +539,7 @@ Criterios considerados en el diseño de Tasty Point:
 - Estructura el contenido: navegación en forma Z
 - Simplifica y sintetiza: Textos directos sin perder la amabilidad que queremos proyectar como marca.
 
-#### User Stories Consumer
+#### Primary User Stories Consumer
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios |
 |-----------|-----------|-----------|-----------|-----------|
