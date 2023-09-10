@@ -18,7 +18,7 @@ Royer Edelwer Rojas Malasquez
 "Informe de Trabajo Final"
 
 Nombre del startup:
-Los Inmortales
+Tasty Point
 
 Nombre del producto:
 TastyPoint
@@ -29,7 +29,7 @@ Relación de integrantes:
 - Claudia Lucia Rozas Gamero (U201922910)
 - Andres Christian Reynoso (U202010196)
 - David Antonio Torres Vilchez (U202010942)
--
+- Adrian Marquina Vichino (U202017487)
 
 Mes y año:
 Setiembre 2023
@@ -45,7 +45,7 @@ Ciclo:
 | 2.0 | 7/09/2023 | David Torres Vilchez | Se agrego el contenido relacionado al primer entregable TB1 |
 | 3.0 | 8/09/2023 | Claudia Rozas | Avance del capítulo 4 para el entregable TB1 |
 | 3.0 | 9/09/2023 | Marco Mendoza | Avance del capítulo 4 para el entregable TB1 y correcciones en la documentación |
-| 4.0 | 9/09/2023 | Adrian Marquina | Punts faltantes de la TB1 (startup) |
+| 4.0 | 9/09/2023 | Adrian Marquina | Puntos faltantes de la TB1 (startup, link en los indices) |
 
 ## Project Report Collaboration Insights
 
