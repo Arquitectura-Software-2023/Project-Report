@@ -385,20 +385,20 @@ Cabe resaltar que ambos entrevistados están dispuestos a ofrecer descuentos de 
 
 **Segmento Consumidor:**
 
-- Se entrevistaron a 2 personas del segmento consumidor, y los resultados son los siguientes:
+Se entrevistaron a 2 personas del segmento consumidor, y los resultados son los siguientes:
 De los entrevistados al responder la pregunta “¿Con qué frecuencia compra alimentos preparados en establecimientos?”, las respuestas son variadas, hay quien compran de 1 a 2 veces por semana, quién compra de 2 a 3 veces por semana. Estos datos son de ayuda para conocer la frecuencia posible con la que usarían la aplicación.
 
 ![g4](https://media.discordapp.net/attachments/1149534515509858338/1150415643573760000/image.png)
 
-- De la pregunta “¿Cuál es el promedio de dinero que gasta en dichos alimentos por semanas?”, se obtuvo como respuesta que llegan a usar cantidades entre 100 y 300 soles por semana, esto nos permite conocer los precios promedios a los que los restaurantes tendrán que ofertar sus platillos.
+De la pregunta “¿Cuál es el promedio de dinero que gasta en dichos alimentos por semanas?”, se obtuvo como respuesta que llegan a usar cantidades entre 100 y 300 soles por semana, esto nos permite conocer los precios promedios a los que los restaurantes tendrán que ofertar sus platillos.
   
 ![g5](https://cdn.discordapp.com/attachments/1149534515509858338/1150416755471155300/image.png)
 
-- De la pregunta “¿Sabe usted qué ocurre con los alimentos que no son vendidos durante el día en un establecimiento de comida? De ser su respuesta no, ¿qué se imagina que ocurre con esos alimentos?”, la respuesta de los entrevistados fue que suponen que los desechan y esto les debe de generar pérdidas a los restaurantes.
+De la pregunta “¿Sabe usted qué ocurre con los alimentos que no son vendidos durante el día en un establecimiento de comida? De ser su respuesta no, ¿qué se imagina que ocurre con esos alimentos?”, la respuesta de los entrevistados fue que suponen que los desechan y esto les debe de generar pérdidas a los restaurantes.
 
 ![g6](https://cdn.discordapp.com/attachments/1149534515509858338/1150417583133179924/image.png)
 
-- De la pregunta “¿Usaría una app en donde pueda encontrar alimentos que han quedado en un establecimiento de comida?”, el 100% de los entrevistados nos comenta que lo harían porque los precios serian más baratos y estarian evitando el desecho de alimentos.
+De la pregunta “¿Usaría una app en donde pueda encontrar alimentos que han quedado en un establecimiento de comida?”, el 100% de los entrevistados nos comenta que lo harían porque los precios serian más baratos y estarian evitando el desecho de alimentos.
 
 ![g7](https://cdn.discordapp.com/attachments/1149534515509858338/1150418599467556864/image.png)
 
