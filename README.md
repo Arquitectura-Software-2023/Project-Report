@@ -118,7 +118,7 @@ Ciclo:
 |Andres Christian Reynoso  | Mi nombre es Andres Christian Reynoso, tengo 20 años y estudio en la carrera de Ingenieria de Software, estoy dispuesto a apoyar a mis compañeros en los momentos que sean necesarios.|
 |Claudia Lucia Rozas Gamero| Mi nombres es Claudia Rozas, tengo 23 años y estudio Ingeniería de Software. Me gusta mucho el rubro de Data y estoy comprometida con mi equipo y/o proyectos |
 |Marco Antoni Mendoza Rodriguez|  Soy estudiante del 9° ciclo de Ing Software, aparcionado por el desarrollo de Software, me gusta estudiar el desarrollo de tecnologias emergentes que dispongan de innovación y uso en la actualidad|
-||  |
+|David Antonio Torres Vilchez| Me encuentro cursando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en programación, buen desenvolvimiento trabajando bajo presión, optimismo y motivación por cumplir con los objetivos del proyecto.  |
 ||  |
 
 ### 1.2. Solution Profile
