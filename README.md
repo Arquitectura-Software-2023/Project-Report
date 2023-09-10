@@ -391,6 +391,7 @@ De los entrevistados al responder la pregunta “¿Con qué frecuencia compra al
 ![g4](https://media.discordapp.net/attachments/1149534515509858338/1150415643573760000/image.png)
 
 - De la pregunta “¿Cuál es el promedio de dinero que gasta en dichos alimentos por semanas?”, se obtuvo como respuesta que llegan a usar cantidades entre 100 y 300 soles por semana, esto nos permite conocer los precios promedios a los que los restaurantes tendrán que ofertar sus platillos.
+  
 ![g5](https://cdn.discordapp.com/attachments/1149534515509858338/1150416755471155300/image.png)
 
 - De la pregunta “¿Sabe usted qué ocurre con los alimentos que no son vendidos durante el día en un establecimiento de comida? De ser su respuesta no, ¿qué se imagina que ocurre con esos alimentos?”, la respuesta de los entrevistados fue que suponen que los desechan y esto les debe de generar pérdidas a los restaurantes. 
