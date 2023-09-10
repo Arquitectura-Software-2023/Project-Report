@@ -45,7 +45,7 @@ Ciclo:
 | 2.0 | 7/09/2023 | David Torres Vilchez | Se agrego el contenido relacionado al primer entregable TB1 |
 | 3.0 | 8/09/2023 | Claudia Rozas | Avance del capítulo 4 para el entregable TB1 |
 | 3.0 | 9/09/2023 | Marco Mendoza | Avance del capítulo 4 para el entregable TB1 y correcciones en la documentación |
-| 4.0 | 9/09/2023 | Adrian Marquina | Puntos faltantes de la TB1 (startup, link en los indices) |
+| 4.0 | 9/09/2023 | Adrian Marquina | Puntos faltantes de la TB1 (startup, link en los indices, styles) |
 
 ## Project Report Collaboration Insights
 
