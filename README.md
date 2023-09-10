@@ -44,7 +44,7 @@ Ciclo:
 | 2.0 | 7/09/2023 | David Torres Vilchez | Se agrego el contenido relacionado al primer entregable TB1 |
 | 3.0 | 8/09/2023 | Claudia Rozas | Avance del capítulo 4 para el entregable TB1 |
 | 3.0 | 9/09/2023 | Marco Mendoza | Avance del capítulo 4 para el entregable TB1 y correcciones en la documentación |
-|  |  |  |  |
+| 4.0 | 9/09/2023 | Adrian Marquina | Punts faltantes de la TB1 (startup) |
 
 ## Project Report Collaboration Insights
 
@@ -54,7 +54,13 @@ Ciclo:
 
 - Capítulo I: Introducción 
 	- 1.1. Startup Profile 
-		- 1.1.1. Descripción de la Startup 
+		- 1.1.1. Descripción de la Startup
+    		Tasty Point es una startup que nace con el objetivo de reducir el porcentaje de comida desechada. Para ello, crearemos una aplicación web y móvil con el mismo nombre de nuestra startup utilizando realidad virtual (VR) para reunir diferentes restaurantes 		y cadenas alimenticias para aprovechar sus productos no consumidos, pero que poseen aún se encuentran en un buen estado para su consumo y ofrecerlos a un precio reducido. Con la ayuda de Tasty Point, encontrar platos según la preferencia del usuario a 		un buen precio es interactivo, sencillo y económico.
+    		**Misión**
+		Somos una compañía de tecnología comprometida con la creación de aplicaciones web y móviles eficientes e innovadoras que permitan a nuestros usuarios poder acceder a una amplia gama de opciones en el área de alimentos de una manera ágil, sostenible y 		económica.
+		**Visión**
+		Promover una cultura de consumo responsable y eficaz, donde todos nuestros clientes afiliados puedan acceder a alimentos nutritivos, deliciosos y económicos. Asimismo, contribuir al desarrollo de los comercios de alimentos preparados en el Perú 			transformando lo que sería una pérdida por desperdicio en ganancias.
+
 		- 1.1.2. Perfiles de integrantes del equipo 
 	- 1.2. Solution Profile 
 		- 1.2.1 Antecedentes y problemática 
@@ -118,7 +124,7 @@ Ciclo:
 |Andres Christian Reynoso  | Mi nombre es Andres Christian Reynoso, tengo 20 años y estudio en la carrera de Ingenieria de Software, estoy dispuesto a apoyar a mis compañeros en los momentos que sean necesarios.|
 |Claudia Lucia Rozas Gamero| Mi nombres es Claudia Rozas, tengo 23 años y estudio Ingeniería de Software. Me gusta mucho el rubro de Data y estoy comprometida con mi equipo y/o proyectos |
 |Marco Antoni Mendoza Rodriguez|  Soy estudiante del 9° ciclo de Ing Software, aparcionado por el desarrollo de Software, me gusta estudiar el desarrollo de tecnologias emergentes que dispongan de innovación y uso en la actualidad|
-||  |
+|Adrian Marquina Vichino| Estudiante de la carrera de ingeniería de software. Tengo experiencia trabajando como full-stack developer. |
 ||  |
 
 ### 1.2. Solution Profile
