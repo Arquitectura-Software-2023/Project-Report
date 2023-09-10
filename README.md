@@ -254,7 +254,7 @@ Para definir los segmentos objetivos que se verían beneficiados en la solución
 
 1. Too good to go es la aplicación más grande que lucha contra el desperdicio de alimentos de la actualidad. Con un aproximado de 5 millones de usuarios en el mundo en 9 países, muchos usuarios están  satisfechos, porque se evitó el desperdicio de comida desde el 2018.
 
-   ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/3c80e7a9-3a33-40f8-9f1d-ea377ffafbfe)
+      ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/3c80e7a9-3a33-40f8-9f1d-ea377ffafbfe)
 
 2. Phenix es la empresa emergente líder que lucha contra el desperdicio de la comida con sedes en diferentes partes del mundo y desde su fundación en 2014 a la fecha llevan recaudando 60 toneladas de  comida que sin su presencia hubieran sido desperdiciados. Dicha empresa tiene aliados como distribuidores, fabricantes, mayoristas y tiendas alimentarias.
 
@@ -262,7 +262,7 @@ Para definir los segmentos objetivos que se verían beneficiados en la solución
 
 3. Olio nace en el 2014 con la fundación de Teesa Cook, en mira a que en el mundo la tercera parte de alimentos que consumimos se tira a la basura esto, incentivó a poner en marcha a Olio. Dicho   startup conecta a vecinos entre sí y con negocios locales para que la comida que no es consumida se comparta en vez de tirarla a la basura. Alimentos, verduras y productos por vencer son ofertados de  una manera particular, y comercialmente bien adquiridos, a la fecha cuenta con alrededor de 5 millones de usuarios y 35 millones de porciones de comida compartida.
 
-     ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/0853750c-1c63-4484-a351-52bf6389d16a)
+      ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/0853750c-1c63-4484-a351-52bf6389d16a)
 
 **¿Por qué llevar a cabo este análisis?**  
 
