@@ -125,7 +125,7 @@ Ciclo:
 |Claudia Lucia Rozas Gamero| Mi nombres es Claudia Rozas, tengo 23 años y estudio Ingeniería de Software. Me gusta mucho el rubro de Data y estoy comprometida con mi equipo y/o proyectos |
 |Marco Antoni Mendoza Rodriguez|  Soy estudiante del 9° ciclo de Ing Software, aparcionado por el desarrollo de Software, me gusta estudiar el desarrollo de tecnologias emergentes que dispongan de innovación y uso en la actualidad|
 |Adrian Marquina Vichino| Estudiante de la carrera de ingeniería de software. Tengo experiencia trabajando como full-stack developer. |
-||  |
+|David Antonio Torres Vilchez| Me encuentro cursando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en programación, buen desenvolvimiento trabajando bajo presión, optimismo y motivación por cumplir con los objetivos del proyecto.  |
 
 ### 1.2. Solution Profile
 - 1.2.1 Antecedentes y problemática  
@@ -327,23 +327,23 @@ Entrevista 1: Alejandro Rojas
 ![entrevista](https://media.discordapp.net/attachments/912089666939916348/1148765168013152398/image.png?width=1392&height=669)
 - Duracion: 06:46
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010196_upc_edu_pe/ETDhQlAQWthGipanM-mMBa4BXFzPBPXX0srJm7TCC5EydQ?e=6KtsbI
-- Resumen: Alejandro es un chico joven de 19  años que estudia la carrera de ciencias de la computacion, nos ha mencionado como es que nunca se habia percatado de la problematica que estamos tratando, siendo que la gente deja la comida desperdiciada, a su vez nos menciona que en la semana hasta entre 200 y 300 soles en comida y que le encantaria la idea de nuestra aplicacion. 
+- Análisis: Alejandro es un chico joven de 19  años que estudia la carrera de ciencias de la computacion, nos ha mencionado como es que nunca se habia percatado de la problematica que estamos tratando, siendo que la gente deja la comida desperdiciada, a su vez nos menciona que en la semana hasta entre 200 y 300 soles en comida y que le encantaria la idea de nuestra aplicacion. 
 
 Entrevista 2: Hugo Pahuacho
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/48172d63-1680-4ff7-b02f-55f22d1800a4)
 
 - Duracion: 05:00
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922910_upc_edu_pe/ERWU51GT8iFHpNfysZ7mpoEBP2d-AlppHdLSnTYeU_E2VQ?e=WCwIPn
-- Resumen: Es un chico universitario que en sus tiempos libres trabaja en una cafetería. Él nos comenta que vende tortas, sanguches y bebidas y que lo que más se vende son las dos últimas cosas. También, nos indica que pierde aproximadamente el 20% de lo que vende al final del día y que le gustaría aprovecharlo más..
+- Análisis: Es un chico universitario que en sus tiempos libres trabaja en una cafetería. Él nos comenta que vende tortas, sanguches y bebidas y que lo que más se vende son las dos últimas cosas. También, nos indica que pierde aproximadamente el 20% de lo que vende al final del día y que le gustaría aprovecharlo más.
 
 Entrevista 3: Roberto Carlos
 ![image](https://cdn.discordapp.com/attachments/1149534515509858338/1150193394740625408/image.png?width=1392&height=669)
 
 - Duracion: 08:09
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010942_upc_edu_pe/ESrkBUt9F_hGnyZsi3zsCmwBIfXyJ5h6IJLv3_LbWr-NZA?e=EYltRK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
-- Resumen: Roberto Salazar Risco es un estudiante de 21 años que por vacaciones decidió abrir un foodtruck de comida rápida como alitas, hamburguesas, sándwiches, entre otros. Roberto nos comenta que el producto más vendido son sus hamburguesas y que el menos vendido son unas butifarras. Según él, el porcentaje de ganancias afectado es de aproximadamente el 5-8%. No ha llegado a ver una aplicación enfocada en evitar desperdicios. Él está dispuesto a dar un descuento alto con el fin de reducir los desechos de alimentos. 
+- Análisis: Roberto Salazar Risco es un estudiante de 21 años que por vacaciones decidió abrir un foodtruck de comida rápida como alitas, hamburguesas, sándwiches, entre otros. Roberto nos comenta que el producto más vendido son sus hamburguesas y que el menos vendido son unas butifarras. Según él, el porcentaje de ganancias afectado es de aproximadamente el 5-8%. No ha llegado a ver una aplicación enfocada en evitar desperdicios. Él está dispuesto a dar un descuento alto con el fin de reducir los desechos de alimentos. 
 
-- 2.2.3. Análisis de entrevistas.
+
 
 ### 2.3. Needfinding.
 - 2.3.1. User Personas.
