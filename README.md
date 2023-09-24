@@ -46,6 +46,7 @@ Ciclo:
 | 3.0 | 8/09/2023 | Claudia Rozas | Avance del capítulo 4 para el entregable TB1 |
 | 3.0 | 9/09/2023 | Marco Mendoza | Avance del capítulo 4 para el entregable TB1 y correcciones en la documentación |
 | 4.0 | 9/09/2023 | Adrian Marquina | Puntos faltantes de la TB1 (startup, link en los indices, styles) |
+| 5.0 | 23/09/2023 | Claudia Rozas | Avance del capítulo 5 para la elaboración del TP |
 
 ## Project Report Collaboration Insights
 
@@ -108,6 +109,46 @@ Ciclo:
     - [4.3.1. Software Architecture System Landscape Diagram](#431-software-architecture-system-landscape-diagram)
     - [4.3.2. Software Architecture Context Level Diagrams](#432-software-architecture-context-level-diagrams)
     - [4.3.3. Software Architecture Deployment Diagrams](#433-software-architecture-container-level-diagrams)
+     
+- [Capítulo V: Tactical-Level Software Design]
+  - [5.1 Bounded Context: Monitoring Context]
+    - [5.1.1 Domain Layer]
+    - [5.1.2. Interface Layer]
+    - [5.1.3 Application Layer]
+    - [5.1.4 Infrastructure Layer]
+    - [5.1.5 Bounded  Context  Software Architecture Component Level Diagrams]
+    - [5.1.6 Bounded Context Software Architecture code Level Diagrams]
+      - [5.1.6.1 Bounded Context Domain Level Class Diagram]
+      - [5.1.6.2 Bounded Context Database  Design Diagram]
+  - [5.2 Bounded Context: Booking Context]
+    - [5.2.1 Domain Layer]
+    - [5.2.2. Interface Layer]
+    - [5.2.3 Application Layer]
+    - [5.2.4 Infrastructure Layer]
+    - [5.2.5 Bounded  Context  Software Architecture Component Level Diagrams]
+    - [5.2.6 Bounded Context Software Architecture code Level Diagrams]
+      - [5.2.6.1 Bounded Context Domain Level Class Diagram]
+      - [5.2.6.2 Bounded Context Database  Design Diagram]
+  - [5.3 Bounded Context: Stock Inventory Context]
+    - [5.3.1 Domain Layer]
+    - [5.3.2. Interface Layer]
+    - [5.3.3 Application Layer]
+    - [5.3.4 Infrastructure Layer]
+    - [5.3.5 Bounded  Context  Software Architecture Component Level Diagrams]
+    - [5.3.6 Bounded Context Software Architecture code Level Diagrams]
+      - [5.3.6.1 Bounded Context Domain Level Class Diagram]
+      - [5.3.6.2 Bounded Context Database  Design Diagram]
+  - [5.4 Bounded Context: Purchase Context]
+    - [5.4.1 Domain Layer]
+    - [5.4.2. Interface Layer]
+    - [5.4.3 Application Layer]
+    - [5.4.4 Infrastructure Layer]
+    - [5.4.5 Bounded  Context  Software Architecture Component Level Diagrams]
+    - [5.4.6 Bounded Context Software Architecture code Level Diagrams]
+      - [5.4.6.1 Bounded Context Domain Level Class Diagram]
+      - [5.4.6.2 Bounded Context Database  Design Diagram]
+      - [5.4.6.3 General Domain Level Class Diagram]
+      - [5.4.6.4 General Database Design Diagram]
 
 # Student Outcome
 
