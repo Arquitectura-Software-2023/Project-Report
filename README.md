@@ -109,7 +109,7 @@ Ciclo:
     - [4.3.1. Software Architecture System Landscape Diagram](#431-software-architecture-system-landscape-diagram)
     - [4.3.2. Software Architecture Context Level Diagrams](#432-software-architecture-context-level-diagrams)
     - [4.3.3. Software Architecture Deployment Diagrams](#433-software-architecture-container-level-diagrams)
-     
+
 - [Capítulo V: Tactical-Level Software Design]
   - [5.1 Bounded Context: Monitoring Context]
     - [5.1.1 Domain Layer]
@@ -891,6 +891,7 @@ En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus cont
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/f5d47080-b63d-48d8-bc43-7202c6c287a2)
 
 ## 5.1 Bounded Context: Monitoring Context
+
 ### 5.1.1 Domain Layer
 
 | Nombre             | Monitoring Context                           |
@@ -949,9 +950,9 @@ En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus cont
 | - Edit           | void   public                            |
 | - Delete         | void   public                            |
 | - GetById        | monitor   public                         |
-| - GetAll         | Array<Offer>   public                    |
+| - GetAll         | Array\<Offer\>   public                    |
 
-### 5.1.5 Bounded  Context  Software Architecture Component Level Diagrams 
+### 5.1.5 Bounded  Context  Software Architecture Component Level Diagrams
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/a47cab59-4e95-4550-b8d7-c9c5d7b78b9a)
 
@@ -966,6 +967,7 @@ En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus cont
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/eb0d4cb1-d6fd-4489-abd1-178ae7671dbe)
 
 ## 5.2 Bounded Context: Booking Context
+
 ### 5.2.1 Domain Layer
 
 | Nombre             | Booking Context                             |
@@ -1024,21 +1026,24 @@ En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus cont
 | - Edit           | void   Public                        |
 | - Delete         | void   Public                        |
 | - GetById        | monitor   Public                     |
-| - GetAll         | Array<Offer>   Public                |
+| - GetAll         | Array\<Offer\>   Public                |
 
 ### 5.2.5 Bounded Context Software Architecture Component Level Diagrams
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/2665227d-ab64-4cda-b107-d23e45dd4996)
 
 ### 5.2.6 Bounded Context Software Architecture code Level Diagrams
+
 #### 5.2.6.1 Bounded Context Domain Level Class Diagram
+
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/1c0a2bc6-d9d6-4c4d-ac31-cdd99a47174f)
 
-#### 5.2.6.2 	Bounded Context Database Design Diagram
+#### 5.2.6.2 Bounded Context Database Design Diagram
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/138d232a-a07f-48b9-84cc-e3344a0dc721)
 
 ## 5.3 Bounded Context: Stock Inventory Context
+
 ### 5.3.1 Domain Layer
 
 | Nombre             | Stock Inventory Context                |
@@ -1067,6 +1072,7 @@ En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus cont
 | Delete            | Void                                    |
 
 ### 5.3.2. Interface Layer
+
 | Nombre           | Booking Context                             |
 |------------------|--------------------------------------------|
 | Categories       | Booking                                    |
@@ -1096,21 +1102,26 @@ En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus cont
 | - Edit             | void   Public                       |
 | - Delete           | void   Public                       |
 | - GetById          | monitor   Public                    |
-| - GetAll           | Array<Offer>   Public               |
+| - GetAll           | Array\<Offer\>   Public               |
 
 ### 5.3.5 Bounded Context Software Architecture Code Level Diagrams
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/3ff9106c-d472-44f6-ae02-5bf9c626798d)
 
 ### 5.3.6 Bounded Context Software Architecture code Level Diagrams
+
 #### 5.3.6.1 Bounded Context Domain Level Class Diagram
+
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/4f735f8d-f534-4633-b47f-6094b46d6ce9)
 
 #### 5.3.6.2 Bounded Context Database Design Diagram
+
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/f2b0a42a-bcb8-45cb-afd4-e0b7fbf4db27)
 
 ## 5.4 Bounded Context: Purchase Context
+
 ### 5.4.1 Domain Layer
+
 | Nombre             | Purchase Context                          |
 |-------------------|-----------------------------------------|
 | Categories         | Entity                                  |
@@ -1137,6 +1148,7 @@ En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus cont
 | Delete            | Void                                    |
 
 ### 5.4.2. Interface Layer
+
 | Nombre           | Purchase Context                           |
 |------------------|-------------------------------------------|
 | Categories       | Purchase                                  |
@@ -1147,12 +1159,12 @@ En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus cont
 | - getValidation  | Tipo de retorno: Promise   Visibilidad: Public |
 
 ### 5.4.3 Application Layer
+
 | Nombre           | MonitoringHandler  |
 |------------------|--------------------|
 | Categories       | EventHandler       |
 | Propósito        | Validar datos de disponibilidad |
 | SI               | SI                 |
-
 
 ### 5.4.4 Infrastructure Layer
 
@@ -1166,23 +1178,58 @@ En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus cont
 | - Edit             | void   Public                            |
 | - Delete           | void   Public                            |
 | - GetById          | monitor   Public                         |
-| - GetAll           | Array<Offer>   Public                    |
+| - GetAll           | Array\<Offer\>   Public                    |
 
 ### 5.4.5 Bounded Context Software Architecture Code Level Diagrams
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/b89a15d1-d43f-4e92-82e5-4ced0a05ace5)
 
 ### 5.4.6 Bounded Context Software Architecture code Level Diagrams
+
 #### 5.4.6.1 Bounded Context Domain Level Class Diagram
+
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/bf603129-c44e-4757-8dd2-c3c9d63c3dfc)
 
 #### 5.4.6.2 Bounded Context Database Design Diagram
+
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/610a55f4-d96a-40ff-bd83-ee24070540a7)
 
 #### 5.4.6.3 General Domain Level Class Diagram
+
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/85e7980b-040e-40d6-817a-7532a7468630)
 
 #### 5.4.6.4 General Database Design Diagram
+
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/997517ce-741c-4f81-83e7-09742f2c8a4c)
 
+## Capítulo VI: Solution UX Design
 
+### 6.1. Style Guidelines
+
+### 6.1.1. General Style Guidelines
+
+Toda empresa, sin importar su rubro, necesita de Style Guidelines. Esta guía es el pilar que mantendrá unido el sistema mediante el cual la empresa ofrece sus servicios y productos. Asimismo, permite que haya una comunicación coherente dentro del entorno de la compañía. En nuestro caso, en Tasty Point vamos a crear nuestra Guía de Estilo de Marca basándonos en una plantilla disponible en Figma. Para elaborarla, consideraremos 5 elementos clave:
+
+Misión: Somos una compañía de tecnología comprometida con la creación de aplicaciones web y móviles eficientes e innovadoras que permitan a nuestros usuarios poder acceder a una amplia gama de opciones en el área de alimentos de una manera ágil, sostenible y   económica.
+Visión: Promover una cultura de consumo responsable y eficaz, donde todos nuestros clientes afiliados puedan acceder a alimentos nutritivos, deliciosos y económicos. Asimismo, contribuir al desarrollo de los comercios de alimentos preparados en el Perú    transformando lo que sería una pérdida por desperdicio en ganancias.
+Públicos objetivos:
+Dueños(as) de restaurantes que desean incrementar sus ventas y evitar el desperdicio de comida, estos se encuentran en un
+rango de edad entre los 30 a 50 años, preocupados por el cuidado de los recursos del planeta, con conciencia ambiental y decidido a incrementar sus ganancias.
+Consumidores en un rango de edades entre los 18 a 30 años, usuarios de diversas tecnologías, en muchos casos recién independizados, y que desean ayudar a disminuir el desperdicio de comida que generan los restaurantes.
+
+Dicho esto, usaremos la guia de diseños de Carbon Design System de IBM como nuestra base.
+
+**Colors**
+![Alt text](Images/Colors.png)
+
+**Typography**
+![Alt text](Images/Typography.png)
+
+**Spacing** (Base de 4px u 8px)
+![Alt text](Images/Spacing.png)
+
+### 6.3. Landing Page UI Design
+
+### 6.3.1. Landing Page Wireframe
+
+### 6.3.2. Landing Page Mock-up
