@@ -889,3 +889,300 @@ En este diagrama se puede apreciar el funcionamiento que tienen los Bounded Cont
 En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus controllers, services y repositorios, a su vez su base datos donde está almacenado.
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/f5d47080-b63d-48d8-bc43-7202c6c287a2)
+
+## 5.1 Bounded Context: Monitoring Context
+### 5.1.1 Domain Layer
+
+| Nombre             | Monitoring Context                           |
+|-------------------|--------------------------------------------|
+| Categories         | Entity                                     |
+| Propósito          | Clase que se encarga de monitorear el estado de los productos disponibles de Tasty Point. |
+| Attributes                                                    |
+| - Nombre           | Tipo de Dato: String   Visibilidad: Private |
+| - Title            | Tipo de Dato: String   Visibilidad: Private |
+| - Image            | Tipo de Dato: String   Visibilidad: Private |
+| - Description      | Tipo de Dato: String   Visibilidad: Private |
+| - Cost             | Tipo de Dato: String   Visibilidad: Private |
+| - Status           | Tipo de Dato: String   Visibilidad: Private |
+| Methods                                                        |
+| - Name             | Tipo de retorno: void   Visibilidad: public |
+| - Add Offer        | Tipo de retorno: String   Visibilidad: public |
+| - getPlace         | Tipo de retorno: String   Visibilidad: public |
+| - getImage         | Tipo de retorno: String   Visibilidad: public |
+| - GetDescription   | Tipo de retorno: String   Visibilidad: public |
+| - getCost          | Tipo de retorno: String   Visibilidad: public |
+| Nombre             MonitoringContext, se encargan de monitorear el estado de los productos disponibles de Tasty Point.                            |
+| ListByID          | String                                       |
+| ListName          | String                                       |
+| Create            | Void                                         |
+| Update            | Void                                         |
+| Delete            | Void                                         |
+
+### 5.1.2. Interface Layer
+
+| Nombre             | Monitoring Context                           |
+|-------------------|--------------------------------------------|
+| Categories         | Monitoring                                  |
+| Propósito          | Visualizar las solicitudes HTTP relacionadas con la disponibilidad de productos, se comunica directamente con la capa de servicios para procesar solicitudes. |
+| Métodos            |                                            |
+| - Nombre           | Tipo de retorno: Promise   Visibilidad: Public |
+| - getStatus        | Tipo de retorno: Promise   Visibilidad: Public |
+| - getValidation    | Tipo de retorno: Promise   Visibilidad: Public |
+
+### 5.1.3 Application Layer
+
+| Nombre           | MonitoringHandler  |
+|------------------|--------------------|
+| Categories       | EventHandler       |
+| Propósito        | Validar datos de disponibilidad |
+| SI               | SI                 |
+
+### 5.1.4 Infrastructure Layer
+
+| Nombre           | Monitoring Context                      |
+|------------------|-----------------------------------------|
+| Categories       | Repository                               |
+| Propósito        | Monitorear internamente la disponibilidad de productos que se ofrece. |
+| Métodos          |                                           |
+| - Create         | void   public                            |
+| - Update         | void   public                            |
+| - Edit           | void   public                            |
+| - Delete         | void   public                            |
+| - GetById        | monitor   public                         |
+| - GetAll         | Array<Offer>   public                    |
+
+### 5.1.5 Bounded  Context  Software Architecture Component Level Diagrams 
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/a47cab59-4e95-4550-b8d7-c9c5d7b78b9a)
+
+### 5.1.6 Bounded Context Software Architecture code Level  Diagrams
+
+#### 5.1.6.1 Bounded Context Domain Level Class Diagram
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/a00f02c5-6752-48ed-bde9-45d5fd3fbafc)
+
+#### 5.1.6.2 Bounded Context Database  Design Diagram
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/eb0d4cb1-d6fd-4489-abd1-178ae7671dbe)
+
+## 5.2 Bounded Context: Booking Context
+### 5.2.1 Domain Layer
+
+| Nombre             | Booking Context                             |
+|-------------------|---------------------------------------------|
+| Categories         | Entity                                      |
+| Propósito          | Clase que se encarga de monitorear la reserva de productos |
+| Attributes         |                                             |
+| - Nombre           | Tipo de Dato: String   Visibilidad: Private |
+| - Title            | Tipo de Dato: String   Visibilidad: Private |
+| - Image            | Tipo de Dato: String   Visibilidad: Private |
+| - Description      | Tipo de Dato: String   Visibilidad: Private |
+| - Cost             | Tipo de Dato: String   Visibilidad: Private |
+| - Status           | Tipo de Dato: String   Visibilidad: Private |
+| Methods            |                                             |
+| - Name             | Tipo de retorno: void   Visibilidad: public |
+| - Add Offer        | Tipo de retorno: String   Visibilidad: public |
+| - getPlace         | Tipo de retorno: String   Visibilidad: public |
+| - getImage         | Tipo de retorno: String   Visibilidad: public |
+| - GetDescription   | Tipo de retorno: String   Visibilidad: public |
+| - getDisponibilidad | Tipo de retorno: String   Visibilidad: public |
+| Nombre            | BookingContext                               |
+| ListByID          | String                                       |
+| ListName          | String                                       |
+| Search            | Void                                         |
+| Update            | Void                                         |
+| Delete            | Void                                         |
+
+### 5.2.2. Interface Layer
+
+| Nombre           | Booking Context                             |
+|------------------|--------------------------------------------|
+| Categories       | Booking                                    |
+| Propósito        | Visualizar las solicitudes HTTP relacionadas con la reserva de productos, se comunica directamente con la capa de servicios para procesar reservaciones. |
+| Métodos          |                                            |
+| - Nombre         | Tipo de retorno: Promise   Visibilidad: Public |
+| - getStatus      | Tipo de retorno: Promise   Visibilidad: Public |
+| - getValidation  | Tipo de retorno: Promise   Visibilidad: Public |
+
+### 5.2.3 Application Layer
+
+| Nombre           | MonitoringHandler  |
+|------------------|--------------------|
+| Categories       | EventHandler       |
+| Propósito        | Validar datos de disponibilidad |
+| SI               | SI                 |
+
+### 5.2.4 Infrastructure Layer
+
+| Nombre           | Booking Context                      |
+|------------------|-------------------------------------|
+| Categories       | Repository                          |
+| Propósito        | Monitorear internamente la reserva que realizan los clientes de productos que se ofrece. |
+| Métodos          |                                     |
+| - Create         | void   public                        |
+| - Update         | void   Public                        |
+| - Edit           | void   Public                        |
+| - Delete         | void   Public                        |
+| - GetById        | monitor   Public                     |
+| - GetAll         | Array<Offer>   Public                |
+
+### 5.2.5 Bounded Context Software Architecture Component Level Diagrams
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/2665227d-ab64-4cda-b107-d23e45dd4996)
+
+### 5.2.6 Bounded Context Software Architecture code Level Diagrams
+#### 5.2.6.1 Bounded Context Domain Level Class Diagram
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/1c0a2bc6-d9d6-4c4d-ac31-cdd99a47174f)
+
+#### 5.2.6.2 	Bounded Context Database Design Diagram
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/138d232a-a07f-48b9-84cc-e3344a0dc721)
+
+## 5.3 Bounded Context: Stock Inventory Context
+### 5.3.1 Domain Layer
+
+| Nombre             | Stock Inventory Context                |
+|-------------------|---------------------------------------|
+| Categories         | Entity                                |
+| Propósito          | Clase que se encarga de visualizar el inventario de productos |
+| Attributes         |                                       |
+| - Nombre           | Tipo de Dato: String   Visibilidad: Private |
+| - Title            | Tipo de Dato: String   Visibilidad: Private |
+| - Image            | Tipo de Dato: String   Visibilidad: Private |
+| - Description      | Tipo de Dato: String   Visibilidad: Private |
+| - Cost             | Tipo de Dato: String   Visibilidad: Private |
+| - Status           | Tipo de Dato: String   Visibilidad: Private |
+| Métodos            |                                       |
+| - Name             | Tipo de retorno: void   Visibilidad: public |
+| - Add Offer        | Tipo de retorno: String   Visibilidad: public |
+| - getPlace         | Tipo de retorno: String   Visibilidad: public |
+| - getImage         | Tipo de retorno: String   Visibilidad: public |
+| - GetDescription   | Tipo de retorno: String   Visibilidad: public |
+| - getPrice         | Tipo de retorno: Int   Visibilidad: public |
+| Nombre            | InventoryContext                        |
+| ListByID          | String                                  |
+| ListName          | String                                  |
+| Search            | Void                                    |
+| Update            | Void                                    |
+| Delete            | Void                                    |
+
+### 5.3.2. Interface Layer
+| Nombre           | Booking Context                             |
+|------------------|--------------------------------------------|
+| Categories       | Booking                                    |
+| Propósito        | Evidenciar las solicitudes HTTP relacionadas con la visualización de productos, se comunica directamente con la capa de servicios para procesar reservaciones. |
+| Métodos          |                                            |
+| - Nombre         | Tipo de retorno: Promise   Visibilidad: Public |
+| - getStatus      | Tipo de retorno: Promise   Visibilidad: Public |
+| - getValidation  | Tipo de retorno: Promise   Visibilidad: Public |
+
+### 5.3.3 Application Layer
+
+| Nombre           | MonitoringHandler  |
+|------------------|--------------------|
+| Categories       | EventHandler       |
+| Propósito        | Validar datos de disponibilidad |
+| SI               | SI                 |
+
+### 5.3.4 Infrastructure Layer
+
+| Nombre             | StockInventoryContext               |
+|-------------------|------------------------------------|
+| Categories         | Repository                         |
+| Propósito          | Monitorear internamente la disponibilidad y organización que realizan los clientes de productos que se ofrece. |
+| Métodos            |                                    |
+| - Create           | void   public                       |
+| - Update           | void   Public                       |
+| - Edit             | void   Public                       |
+| - Delete           | void   Public                       |
+| - GetById          | monitor   Public                    |
+| - GetAll           | Array<Offer>   Public               |
+
+### 5.3.5 Bounded Context Software Architecture Code Level Diagrams
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/3ff9106c-d472-44f6-ae02-5bf9c626798d)
+
+### 5.3.6 Bounded Context Software Architecture code Level Diagrams
+#### 5.3.6.1 Bounded Context Domain Level Class Diagram
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/4f735f8d-f534-4633-b47f-6094b46d6ce9)
+
+#### 5.3.6.2 Bounded Context Database Design Diagram
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/f2b0a42a-bcb8-45cb-afd4-e0b7fbf4db27)
+
+## 5.4 Bounded Context: Purchase Context
+### 5.4.1 Domain Layer
+| Nombre             | Purchase Context                          |
+|-------------------|-----------------------------------------|
+| Categories         | Entity                                  |
+| Propósito          | Clase que se encarga de validar la compra y ver la disponibilidad de productos disponibles de Tasty Point. |
+| Attributes         |                                         |
+| - Nombre           | Tipo de Dato: String   Visibilidad: Private |
+| - Title            | Tipo de Dato: String   Visibilidad: Private |
+| - Image            | Tipo de Dato: String   Visibilidad: Private |
+| - Description      | Tipo de Dato: String   Visibilidad: Private |
+| - Cost             | Tipo de Dato: String   Visibilidad: Private |
+| - Status           | Tipo de Dato: String   Visibilidad: Private |
+| Métodos            |                                         |
+| - Name             | Tipo de retorno: void   Visibilidad: public |
+| - Add Offer        | Tipo de retorno: String   Visibilidad: public |
+| - getPlace         | Tipo de retorno: String   Visibilidad: public |
+| - getImage         | Tipo de retorno: String   Visibilidad: public |
+| - GetDescription   | Tipo de retorno: String   Visibilidad: public |
+| - getPrice         | Tipo de retorno: Int   Visibilidad: public |
+| Nombre            | InventoryContext                         |
+| ListByID          | String                                  |
+| ListName          | String                                  |
+| Search            | Void                                    |
+| Update            | Void                                    |
+| Delete            | Void                                    |
+
+### 5.4.2. Interface Layer
+| Nombre           | Purchase Context                           |
+|------------------|-------------------------------------------|
+| Categories       | Purchase                                  |
+| Propósito        | Visualizar las solicitudes HTTP relacionadas con la visualización de productos para comprar, la cual se comunica directamente con la capa de servicios para procesar reservaciones. |
+| Métodos          |                                           |
+| - Nombre         | Tipo de retorno: Promise   Visibilidad: Public |
+| - getStatus      | Tipo de retorno: Promise   Visibilidad: Public |
+| - getValidation  | Tipo de retorno: Promise   Visibilidad: Public |
+
+### 5.4.3 Application Layer
+| Nombre           | MonitoringHandler  |
+|------------------|--------------------|
+| Categories       | EventHandler       |
+| Propósito        | Validar datos de disponibilidad |
+| SI               | SI                 |
+
+
+### 5.4.4 Infrastructure Layer
+
+| Nombre             | Purchase Context                         |
+|-------------------|------------------------------------------|
+| Categories         | Repository                               |
+| Propósito          | Monitorear internamente la disponibilidad y organización que realizan los clientes de productos que se ofrece para realizar compra. |
+| Métodos            |                                          |
+| - Create           | void   public                            |
+| - Update           | void   Public                            |
+| - Edit             | void   Public                            |
+| - Delete           | void   Public                            |
+| - GetById          | monitor   Public                         |
+| - GetAll           | Array<Offer>   Public                    |
+
+### 5.4.5 Bounded Context Software Architecture Code Level Diagrams
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/b89a15d1-d43f-4e92-82e5-4ced0a05ace5)
+
+### 5.4.6 Bounded Context Software Architecture code Level Diagrams
+#### 5.4.6.1 Bounded Context Domain Level Class Diagram
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/bf603129-c44e-4757-8dd2-c3c9d63c3dfc)
+
+#### 5.4.6.2 Bounded Context Database Design Diagram
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/610a55f4-d96a-40ff-bd83-ee24070540a7)
+
+#### 5.4.6.3 General Domain Level Class Diagram
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/85e7980b-040e-40d6-817a-7532a7468630)
+
+#### 5.4.6.4 General Database Design Diagram
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/997517ce-741c-4f81-83e7-09742f2c8a4c)
+
+
