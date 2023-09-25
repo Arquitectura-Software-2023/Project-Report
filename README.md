@@ -1233,3 +1233,47 @@ Dicho esto, usaremos la guia de diseños de Carbon Design System de IBM como nue
 ### 6.3.1. Landing Page Wireframe
 
 ### 6.3.2. Landing Page Mock-up
+
+### 6.4. Applications UX/UI Design. 
+
+Enlace: https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Untitled?type=design&node-id=1%3A2&mode=design&t=St7eqWND2jSJG8FW-1
+
+### 6.4.1. Applications Wireframes. 
+
+Mobile App:
+
+![image](https://media.discordapp.net/attachments/912089666939916348/1155686562454052874/image.png?width=1310&height=618)
+![image](https://media.discordapp.net/attachments/912089666939916348/1155686892071829555/image.png?width=964&height=310)
+![image](https://media.discordapp.net/attachments/912089666939916348/1155687008853827646/image.png?width=615&height=621)
+![image](https://media.discordapp.net/attachments/912089666939916348/1155687092882518046/image.png?width=839&height=617)
+![image](https://media.discordapp.net/attachments/912089666939916348/1155687135375007784/image.png?width=319&height=669)
+![image](https://media.discordapp.net/attachments/912089666939916348/1155687188999192596/image.png?width=365&height=481)
+![image](https://media.discordapp.net/attachments/912089666939916348/1155687263808782416/image.png?width=640&height=320)
+
+
+Web Application:
+
+![image](https://media.discordapp.net/attachments/912089666939916348/1155688193069420624/image.png?width=888&height=625)
+
+![image](https://media.discordapp.net/attachments/912089666939916348/1155688252590784522/image.png?width=1346&height=592)
+
+![image](https://media.discordapp.net/attachments/912089666939916348/1155688328746762358/image.png?width=959&height=669)
+
+![image](https://media.discordapp.net/attachments/912089666939916348/1155688393229996102/image.png?width=1165&height=669)
+
+![image](https://media.discordapp.net/attachments/912089666939916348/1155688453183377448/image.png?width=1345&height=669)
+
+![image](https://media.discordapp.net/attachments/912089666939916348/1155688599539429527/image.png?width=1028&height=669)
+
+![image](https://media.discordapp.net/attachments/912089666939916348/1155688659182440549/image.png?width=679&height=669)
+![image](https://media.discordapp.net/attachments/912089666939916348/1155688758486773882/image.png?width=834&height=554)
+
+### 6.4.2. Applications Wireflow Diagrams. 
+
+En esta sección se presentarán los wireflows relacionados a los wireframes de la aplicación web y las historias de usuario.
+
+1. Como consumidor quiero ver el perfil de mi cuenta para corroborar que mis datos sean correctos.
+2. Como consumidor, quiero visualizar las principales notificaciones para estar informado sobre las ofertas y promociones que ofrezca la aplicación
+3. Como consumidor quiero clasificar de manera favorita mis productos para lograr visualizar la disponibilidad en la sección “Mis favoritos”
+4. Como consumidor quiero ver el catálogo de los productos alimenticios de primera necesidad para comprarlos.
+5. Como consumidor quiero ver el catálogo de los productos alimenticios de primera necesidad para comprarlos
