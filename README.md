@@ -1273,7 +1273,21 @@ Web Application:
 En esta sección se presentarán los wireflows relacionados a los wireframes de la aplicación web y las historias de usuario.
 
 1. Como consumidor quiero ver el perfil de mi cuenta para corroborar que mis datos sean correctos.
+
+![image](https://media.discordapp.net/attachments/912089666939916348/1155693766502527097/Flowchart.jpg?width=1157&height=669)
+
 2. Como consumidor, quiero visualizar las principales notificaciones para estar informado sobre las ofertas y promociones que ofrezca la aplicación
+
+![image](https://media.discordapp.net/attachments/912089666939916348/1155695261864173599/Flowchart_1.jpg?width=1137&height=668)
+
 3. Como consumidor quiero clasificar de manera favorita mis productos para lograr visualizar la disponibilidad en la sección “Mis favoritos”
+
+![image](https://media.discordapp.net/attachments/912089666939916348/1155696665731280986/Flowchart_2.jpg?width=1198&height=669)
+
 4. Como consumidor quiero ver el catálogo de los productos alimenticios de primera necesidad para comprarlos.
+
+![image](https://media.discordapp.net/attachments/912089666939916348/1155697417346355312/Flowchart_3.jpg?width=765&height=669)
+
 5. Como consumidor quiero ver el catálogo de los productos alimenticios de primera necesidad para comprarlos
+
+![image](https://media.discordapp.net/attachments/912089666939916348/1155699210822353037/Flowchart_4.jpg?width=1251&height=669)
