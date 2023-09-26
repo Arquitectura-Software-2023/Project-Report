@@ -1231,6 +1231,7 @@ Dicho esto, usaremos la guia de diseños de Carbon Design System de IBM como nue
 ### 6.2. Arquitectura de la Información
 
 ### 6.2.1. Sistemas de Organización
+
 **Página de Inicio (Landing Page):**
 En la página de inicio, se organizará el contenido de forma jerárquica. Primero, se mostrará una breve descripción de Tasty Point y luego se ramificarán las entradas para los 2 públicos objetivos a los que queremos llegar.
 
@@ -1238,6 +1239,7 @@ En la página de inicio, se organizará el contenido de forma jerárquica. Prime
 En la aplicación web, las secciones se mostrarán en una barra lateral a la izquierda de la pantalla, y estas direccionarán a la sección que busca el usuario. De manera similar, en la aplicación móvil, se utilizará una interfaz de navegación intuitiva que permitirá a los usuarios acceder a las diferentes secciones de la aplicación con facilidad. Los botones y las pestañas estarán diseñados de manera coherente tanto en la versión web como en la versión móvil para ofrecer una experiencia de usuario consistente en ambas plataformas.
 
 ### 6.2.2. Sistemas de Etiquetado
+
 **Página de Inicio (Landing Page):**
 En el encabezado de la página de inicio se emplean las etiquetas "Home," "About us," "Features," "Pricing" y el botón "Sign up," que direccionan al usuario a la sección elegida de la página web. También se emplean los botones "Customers" y "Business" que direccionan a los usuarios a la sección de la página destinada para ellos.
 
@@ -1245,25 +1247,31 @@ En el encabezado de la página de inicio se emplean las etiquetas "Home," "About
 En la aplicación web y móvil, las secciones se mostrarán en una barra lateral a la izquierda de la pantalla, y estas direccionarán a la sección que busca el usuario.
 
 ### 6.2.3. Etiquetas SEO y Metaetiquetas
+
 **Página de Inicio (Landing Page):**
+
 - Título: Tasty Point: La mejor manera de reducir el desperdicio de alimentos en Perú.
 - Descripción: Con Tasty Point, puedes ayudar a combatir el desperdicio de alimentos. Tenemos diferentes entornos según el segmento al que pertenezca.
 - Palabras clave: "comida", "medio ambiente", "comida económica", "ofertas de comida", "aplicación web", "desperdicio de comida", "bajo presupuesto", "ahorro", "comida rápida", "rico y económico".
 - Autor: Outsiders
 
 **Aplicación Web y Aplicación Móvil:**
+
 - Título: Tasty Point
 - Descripción: Aplicación web de Tasty Point. Compra comida deliciosa y ayuda a reducir el desperdicio de alimentos.
 - Palabras clave: "Aplicación web","Aplicación móvil", "comida", "medio ambiente", "comida económica", "ofertas de comida", "aplicación web", "desperdicio de comida", "bajo presupuesto", "ahorro", "comida rápida", "rico y económico".
 
 ### 6.2.4. Sistemas de Búsqueda
+
 La aplicación web y móvil de Tasty Point contará con filtros al presentar los platos del día, como:
+
 - Tipo de comida.
 - Nombre del Restaurante/Local de comida.
 - Precios.
 Además, los platos se presentarán por defecto en orden de popularidad. Sin embargo, los usuarios también podrán elegir su orden de presentación preferido, como: ordenado por fechas (del más reciente al más antiguo), ordenado por fechas (del más antiguo al más reciente), ordenado en orden alfabético (a – z), ordenado en orden alfabético (z – a), etc. Como adicional, las opciones de platos disponibles tendrán un color distinguible a los ojos del usuario.
 
 ### 6.2.5. Sistemas de Navegación
+
 **Página de Inicio (Landing Page):**
 Se utiliza un menú de navegación fija, de manera que, aunque el usuario haya elegido una opción a seguir, el menú siempre permanecerá a su disposición. También incluye un pie de página para enlazar secciones pertinentes de la página de inicio.
 
@@ -1274,13 +1282,17 @@ Se incluye una barra lateral para mostrar las opciones que el usuario puede eleg
 
 ### 6.3.1. Landing Page Wireframe
 
+Enlace: <https://www.figma.com/file/ALKxX67sA2RFvViO0F8V9j/Landing-Page-Wireframe-Tasty-Point-(Copy)?type=design&node-id=26%3A31&mode=design&t=ehxwjTAlwGq8jg8d-1>
+
 ### 6.3.2. Landing Page Mock-up
 
-### 6.4. Applications UX/UI Design. 
+Enlace: <https://www.figma.com/file/kPETY9zYCJ0cCAMyuPRArk/MockUpp?type=design&node-id=0%3A1&mode=design&t=SfurMCRvtLhDLFAd-1>
 
-Enlace: https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Untitled?type=design&node-id=1%3A2&mode=design&t=St7eqWND2jSJG8FW-1
+### 6.4. Applications UX/UI Design
 
-### 6.4.1. Applications Wireframes. 
+Enlace: <https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Untitled?type=design&node-id=1%3A2&mode=design&t=St7eqWND2jSJG8FW-1>
+
+### 6.4.1. Applications Wireframes
 
 Mobile App:
 
@@ -1291,7 +1303,6 @@ Mobile App:
 ![image](https://media.discordapp.net/attachments/912089666939916348/1155687135375007784/image.png?width=319&height=669)
 ![image](https://media.discordapp.net/attachments/912089666939916348/1155687188999192596/image.png?width=365&height=481)
 ![image](https://media.discordapp.net/attachments/912089666939916348/1155687263808782416/image.png?width=640&height=320)
-
 
 Web Application:
 
@@ -1310,26 +1321,17 @@ Web Application:
 ![image](https://media.discordapp.net/attachments/912089666939916348/1155688659182440549/image.png?width=679&height=669)
 ![image](https://media.discordapp.net/attachments/912089666939916348/1155688758486773882/image.png?width=834&height=554)
 
-### 6.4.2. Applications Wireflow Diagrams. 
+### 6.4.2. Applications Wireflow Diagrams
 
 En esta sección se presentarán los wireflows relacionados a los wireframes de la aplicación web y las historias de usuario.
 
 1. Como consumidor quiero ver el perfil de mi cuenta para corroborar que mis datos sean correctos.
-
 ![image](https://media.discordapp.net/attachments/912089666939916348/1155693766502527097/Flowchart.jpg?width=1157&height=669)
-
 2. Como consumidor, quiero visualizar las principales notificaciones para estar informado sobre las ofertas y promociones que ofrezca la aplicación
-
 ![image](https://media.discordapp.net/attachments/912089666939916348/1155695261864173599/Flowchart_1.jpg?width=1137&height=668)
-
 3. Como consumidor quiero clasificar de manera favorita mis productos para lograr visualizar la disponibilidad en la sección “Mis favoritos”
-
 ![image](https://media.discordapp.net/attachments/912089666939916348/1155696665731280986/Flowchart_2.jpg?width=1198&height=669)
-
 4. Como consumidor quiero ver el catálogo de los productos alimenticios de primera necesidad para comprarlos.
-
 ![image](https://media.discordapp.net/attachments/912089666939916348/1155697417346355312/Flowchart_3.jpg?width=765&height=669)
-
 5. Como consumidor quiero ver el catálogo de los productos alimenticios de primera necesidad para comprarlos
-
 ![image](https://media.discordapp.net/attachments/912089666939916348/1155699210822353037/Flowchart_4.jpg?width=1251&height=669)
