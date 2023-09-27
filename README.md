@@ -48,6 +48,7 @@ Ciclo:
 | 4.0 | 9/09/2023 | Adrian Marquina | Puntos faltantes de la TB1 (startup, link en los indices, styles) |
 | 5.0 | 23/09/2023 | Claudia Rozas | Avance del capítulo 5 para la elaboración del TP |
 | 6.0 | 25/09/2023 | Andres Reynoso | Avance del capítulo 6 para la elaboración del TP |
+| 7.0 | 26/09/2023 | Adrian Marquina | Puntos faltantes del TP (landing page wireframes, landing page, style guidelines, indices, outcomes, formateo y estilos) |
 
 ## Project Report Collaboration Insights
 
@@ -168,6 +169,36 @@ Ciclo:
       - [6.4.2. Applications Wireflow Diagrams](#642-applications-wireflow-diagrams)
 
 # Student Outcome
+
+- **TB1**
+
+|  Criterio específico | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | Conocimientos de nuevos métodos de colaboración y comunicación |
+|-----------|-----------|-----------|-----------|
+| Andres Christian Reynoso | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| David Torres Vilchez | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| Claudia Rozas | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| Adrian Marquina | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| Marco Mendoza Rodriguez **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+
+- **TP**
+
+|  Criterio específico | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | Conocimientos de nuevos métodos de colaboración y comunicación |
+|-----------|-----------|-----------|-----------|
+| Andres Christian Reynoso | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| David Torres Vilchez | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| Claudia Rozas | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| Adrian Marquina | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| Marco Mendoza Rodriguez | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+
+- **TB2**
+
+|  Criterio específico | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | Conocimientos de nuevos métodos de colaboración y comunicación |
+|-----------|-----------|-----------|-----------|
+| Andres Christian Reynoso | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| David Torres Vilchez | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| Claudia Rozas | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| Adrian Marquina | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| Marco Mendoza Rodriguez | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
 
 ## Capítulo I: Introducción
 
