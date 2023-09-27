@@ -111,44 +111,44 @@ Ciclo:
     - [4.3.3. Software Architecture Deployment Diagrams](#433-software-architecture-container-level-diagrams)
 
 - [Capítulo V: Tactical-Level Software Design]
-  - [5.1 Bounded Context: Monitoring Context]
-    - [5.1.1 Domain Layer]
-    - [5.1.2. Interface Layer]
-    - [5.1.3 Application Layer]
-    - [5.1.4 Infrastructure Layer]
-    - [5.1.5 Bounded  Context  Software Architecture Component Level Diagrams]
-    - [5.1.6 Bounded Context Software Architecture code Level Diagrams]
-      - [5.1.6.1 Bounded Context Domain Level Class Diagram]
-      - [5.1.6.2 Bounded Context Database  Design Diagram]
-  - [5.2 Bounded Context: Booking Context]
-    - [5.2.1 Domain Layer]
-    - [5.2.2. Interface Layer]
-    - [5.2.3 Application Layer]
-    - [5.2.4 Infrastructure Layer]
-    - [5.2.5 Bounded  Context  Software Architecture Component Level Diagrams]
-    - [5.2.6 Bounded Context Software Architecture code Level Diagrams]
-      - [5.2.6.1 Bounded Context Domain Level Class Diagram]
-      - [5.2.6.2 Bounded Context Database  Design Diagram]
-  - [5.3 Bounded Context: Stock Inventory Context]
-    - [5.3.1 Domain Layer]
-    - [5.3.2. Interface Layer]
-    - [5.3.3 Application Layer]
-    - [5.3.4 Infrastructure Layer]
-    - [5.3.5 Bounded  Context  Software Architecture Component Level Diagrams]
-    - [5.3.6 Bounded Context Software Architecture code Level Diagrams]
-      - [5.3.6.1 Bounded Context Domain Level Class Diagram]
-      - [5.3.6.2 Bounded Context Database  Design Diagram]
-  - [5.4 Bounded Context: Purchase Context]
-    - [5.4.1 Domain Layer]
-    - [5.4.2. Interface Layer]
-    - [5.4.3 Application Layer]
-    - [5.4.4 Infrastructure Layer]
-    - [5.4.5 Bounded  Context  Software Architecture Component Level Diagrams]
-    - [5.4.6 Bounded Context Software Architecture code Level Diagrams]
-      - [5.4.6.1 Bounded Context Domain Level Class Diagram]
-      - [5.4.6.2 Bounded Context Database  Design Diagram]
-      - [5.4.6.3 General Domain Level Class Diagram]
-      - [5.4.6.4 General Database Design Diagram]
+  - [5.1 Bounded Context: Monitoring Context](#51-bounded-context-monitoring-context)
+    - [5.1.1 Domain Layer](#511-domain-layer)
+    - [5.1.2. Interface Layer](#512-interface-layer)
+    - [5.1.3 Application Layer](#513-application-layer)
+    - [5.1.4 Infrastructure Layer](#514-infrastructure-layer)
+    - [5.1.5 Bounded  Context  Software Architecture Component Level Diagrams](#515-bounded-context-software-architecture-component-level-diagrams)
+    - [5.1.6 Bounded Context Software Architecture code Level Diagrams](#516-bounded-context-software-architecture-code-level-diagrams)
+      - [5.1.6.1 Bounded Context Domain Level Class Diagram](#5161-bounded-context-domain-level-class-diagram)
+      - [5.1.6.2 Bounded Context Database Design Diagram](#5162-bounded-context-database-design-diagram)
+  - [5.2 Bounded Context: Booking Context](#52-bounded-context-booking-context)
+    - [5.2.1 Domain Layer](#521-domain-layer)
+    - [5.2.2. Interface Layer](#522-interface-layer)
+    - [5.2.3 Application Layer](#523-application-layer)
+    - [5.2.4 Infrastructure Layer](#524-infrastructure-layer)
+    - [5.2.5 Bounded  Context  Software Architecture Component Level Diagrams](#525-bounded-context-software-architecture-component-level-diagrams)
+    - [5.2.6 Bounded Context Software Architecture code Level Diagrams](#526-bounded-context-software-architecture-code-level-diagrams)
+      - [5.2.6.1 Bounded Context Domain Level Class Diagram](#5261-bounded-context-domain-level-class-diagram)
+      - [5.2.6.2 Bounded Context Database  Design Diagram](#5262-bounded-context-database-design-diagram)
+  - [5.3 Bounded Context: Stock Inventory Context](#53-bounded-context-stock-inventory-context)
+    - [5.3.1 Domain Layer](#531-domain-layer)
+    - [5.3.2. Interface Layer](#532-interface-layer)
+    - [5.3.3 Application Layer](#533-application-layer)
+    - [5.3.4 Infrastructure Layer](#534-infrastructure-layer)
+    - [5.3.5 Bounded  Context  Software Architecture Component Level Diagrams](#535-bounded-context-software-architecture-code-level-diagrams)
+    - [5.3.6 Bounded Context Software Architecture code Level Diagrams](#536-bounded-context-software-architecture-code-level-diagrams)
+      - [5.3.6.1 Bounded Context Domain Level Class Diagram](#5361-bounded-context-domain-level-class-diagram)
+      - [5.3.6.2 Bounded Context Database  Design Diagram](#5362-bounded-context-database-design-diagram)
+  - [5.4 Bounded Context: Purchase Context](#54-bounded-context-purchase-context)
+    - [5.4.1 Domain Layer](#541-domain-layer)
+    - [5.4.2. Interface Layer](#542-interface-layer)
+    - [5.4.3 Application Layer](#543-application-layer)
+    - [5.4.4 Infrastructure Layer](#544-infrastructure-layer)
+    - [5.4.5 Bounded  Context  Software Architecture Component Level Diagrams](#545-bounded-context-software-architecture-code-level-diagrams)
+    - [5.4.6 Bounded Context Software Architecture code Level Diagrams](#546-bounded-context-software-architecture-code-level-diagrams)
+      - [5.4.6.1 Bounded Context Domain Level Class Diagram](#5461-bounded-context-domain-level-class-diagram)
+      - [5.4.6.2 Bounded Context Database  Design Diagram](#5462-bounded-context-database-design-diagram)
+      - [5.4.6.3 General Domain Level Class Diagram](#5463-general-domain-level-class-diagram)
+      - [5.4.6.4 General Database Design Diagram](#5464-general-database-design-diagram)
 
 # Student Outcome
 
@@ -952,17 +952,17 @@ En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus cont
 | - GetById        | monitor   public                         |
 | - GetAll         | Array\<Offer\>   public                    |
 
-### 5.1.5 Bounded  Context  Software Architecture Component Level Diagrams
+### 5.1.5 Bounded Context Software Architecture Component Level Diagrams
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/a47cab59-4e95-4550-b8d7-c9c5d7b78b9a)
 
-### 5.1.6 Bounded Context Software Architecture code Level  Diagrams
+### 5.1.6 Bounded Context Software Architecture code Level Diagrams
 
 #### 5.1.6.1 Bounded Context Domain Level Class Diagram
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/a00f02c5-6752-48ed-bde9-45d5fd3fbafc)
 
-#### 5.1.6.2 Bounded Context Database  Design Diagram
+#### 5.1.6.2 Bounded Context Database Design Diagram
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/eb0d4cb1-d6fd-4489-abd1-178ae7671dbe)
 
@@ -1230,9 +1230,10 @@ Dicho esto, usaremos la guia de diseños de Carbon Design System de IBM como nue
 
 ## 6.1.2. Web & Mobile Style Guidelines
 
-### Criterios considerados en el diseño de Tasty Point:
+### Criterios considerados en el diseño de Tasty Point
 
 **Web Usability:**
+
 - Facilita la interacción gracias al uso de fuentes distinguibles y del tamaño adecuado.
 - Estructura el contenido: navegación en forma de "Z".
 - Simplifica y sintetiza: Textos directos sin perder la amabilidad que queremos proyectar como marca.
@@ -1244,6 +1245,7 @@ Dicho esto, usaremos la guia de diseños de Carbon Design System de IBM como nue
 
 **Inclusive Design:**
 Los servicios brindados por la página deben ser accesibles a todo nuestro público objetivo, en este caso, ya que nuestro público objetivo abarca personas entre 20 y 40 años, las pautas consideradas son:
+
 - Colores contrastantes y fuentes distinguibles para los usuarios con problemas de visión.
 - Descripción de las imágenes empleadas para lectores de pantalla.
 - Consistencia externa: Cumplir con los patrones de diseño comunes.
@@ -1263,13 +1265,14 @@ Tanto el Landing page como la app web responden al dispositivo en el que el usua
 
 **Aplicación Web y Aplicación Móvil:** En la aplicación web, las secciones se mostrarán en una barra lateral a la izquierda de la pantalla, y estas direccionarán a la sección que busca el usuario. De manera similar, en la aplicación móvil, se utilizará una interfaz de navegación intuitiva que permitirá a los usuarios acceder a las diferentes secciones de la aplicación con facilidad. Los botones y las pestañas estarán diseñados de manera coherente tanto en la versión web como en la versión móvil para ofrecer una experiencia de usuario consistente en ambas plataformas.
 
-
 ### 6.2.2. Sistemas de Etiquetado
+
 **Landing Page:** En el encabezado de la página de inicio se emplean las etiquetas "Home," "About us," "Features," "Pricing" y el botón "Sign up," que direccionan al usuario a la sección elegida de la página web o la aplicación móvil. También se emplean los botones "Customers" y "Business" que direccionan a los usuarios a la sección de la página destinada para ellos.
 
 **Aplicación Web y Aplicación Móvil:** En la aplicación web y móvil, las secciones se mostrarán en una barra lateral a la izquierda de la pantalla, y estas direccionarán a la sección que busca el usuario en ambas plataformas.
 
 ### 6.2.3. Etiquetas SEO y Metaetiquetas
+
 **Landing Page:**
 
 - **Título:** Tasty Point: La mejor manera de reducir el desperdicio de alimentos en Perú.
@@ -1283,18 +1286,18 @@ Tanto el Landing page como la app web responden al dispositivo en el que el usua
 - **Descripción:** Aplicación web de Tasty Point. Compra comida deliciosa y ayuda a reducir el desperdicio de alimentos.
 - **Palabras clave:** "Aplicación web","Aplicación móvil", "comida", "medio ambiente", "comida económica", "ofertas de comida", "aplicación web", "desperdicio de comida", "bajo presupuesto", "ahorro", "comida rápida", "rico y económico".
 
-
 ### 6.2.4. Sistemas de Búsqueda
+
 La aplicación web y móvil de Tasty Point contará con filtros al presentar los platos del día, como:
 
 - Tipo de comida.
 - Nombre del Restaurante/Local de comida.
 - Precios.
 
-Además, los platos se presentarán por defecto en orden de popularidad en ambas versiones. Sin embargo, los usuarios también podrán elegir su orden de presentación preferido, como: ordenado por fechas (del más reciente al más antiguo), ordenado por fechas (del más antiguo al más reciente), ordenado en orden alfabético (a – z), ordenado en orden alfabético (z – a), etc. Como adicional, las opciones de platos disponibles tendrán un color distinguible a los ojos del usuario en ambas aplicaciones. 
-
+Además, los platos se presentarán por defecto en orden de popularidad en ambas versiones. Sin embargo, los usuarios también podrán elegir su orden de presentación preferido, como: ordenado por fechas (del más reciente al más antiguo), ordenado por fechas (del más antiguo al más reciente), ordenado en orden alfabético (a – z), ordenado en orden alfabético (z – a), etc. Como adicional, las opciones de platos disponibles tendrán un color distinguible a los ojos del usuario en ambas aplicaciones.
 
 ### 6.2.5. Sistemas de Navegación
+
 **Landing Page:** Se utiliza un menú de navegación fija en ambas aplicaciones, de manera que, aunque el usuario haya elegido una opción a seguir, el menú siempre permanecerá a su disposición. También incluye un pie de página para enlazar secciones pertinentes de la página de inicio en ambas versiones.
 
 **Aplicación Web y Aplicación Móvil:** Se incluye una barra lateral en ambas aplicaciones para mostrar las opciones que el usuario puede elegir, como "Inicio," "Agregar," "Catálogo," "Reservaciones actuales," "Más información," etc. En Tasty Point, se ha implementado una experiencia de catálogo mediante Realidad Virtual (VR) como una opción adicional para brindar a los usuarios de ambas aplicaciones una experiencia única e inmersiva al explorar productos y restaurantes.
