@@ -110,7 +110,7 @@ Ciclo:
     - [4.3.2. Software Architecture Context Level Diagrams](#432-software-architecture-context-level-diagrams)
     - [4.3.3. Software Architecture Deployment Diagrams](#433-software-architecture-container-level-diagrams)
 
-- [Capítulo V: Tactical-Level Software Design]
+- [Capítulo V: Tactical-Level Software Design](#capítulo-v-tactical-level-software-design)
   - [5.1 Bounded Context: Monitoring Context](#51-bounded-context-monitoring-context)
     - [5.1.1 Domain Layer](#511-domain-layer)
     - [5.1.2. Interface Layer](#512-interface-layer)
@@ -149,6 +149,22 @@ Ciclo:
       - [5.4.6.2 Bounded Context Database  Design Diagram](#5462-bounded-context-database-design-diagram)
       - [5.4.6.3 General Domain Level Class Diagram](#5463-general-domain-level-class-diagram)
       - [5.4.6.4 General Database Design Diagram](#5464-general-database-design-diagram)
+  - [Capítulo VI: Solution UX Design](#capítulo-vi-solution-ux-design)
+    - [6.1. Style Guidelines](#61-style-guidelines)
+      - [6.1.1. General Style Guidelines](#611-general-style-guidelines)
+      - [6.1.2. Web & Mobile Style Guidelines](#612-web--mobile-style-guidelines)
+    - [6.2. Arquitectura de la Información](#62-arquitectura-de-la-información)
+      - [6.2.1. Sistemas de Organización](#621-sistemas-de-organización)
+      - [6.2.2. Sistemas de Etiquetado](#622-sistemas-de-etiquetado)
+      - [6.2.3. Etiquetas SEO y Metaetiquetas](#623-etiquetas-seo-y-metaetiquetas)
+      - [6.2.4. Sistemas de Búsqueda](#624-sistemas-de-búsqueda)
+      - [6.2.5. Sistemas de Navegación](#625-sistemas-de-navegación)
+    - [6.3. Landing Page UI Design](#63-landing-page-ui-design)
+      - [6.3.1. Landing Page Wireframe](#631-landing-page-wireframe)
+      - [6.3.2. Landing Page Mock-up](#632-landing-page-mock-up)
+    - [6.4. Applications UX/UI Design](#64-applications-uxui-design)
+      - [6.4.1. Applications Wireframes](#641-applications-wireframes)
+      - [6.4.2. Applications Wireflow Diagrams](#642-applications-wireflow-diagrams)
 
 # Student Outcome
 
@@ -889,6 +905,8 @@ En este diagrama se puede apreciar el funcionamiento que tienen los Bounded Cont
 En esta imagen se evidencia de manera detallada al diagrama: Tanto como sus controllers, services y repositorios, a su vez su base datos donde está almacenado.
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089512/f5d47080-b63d-48d8-bc43-7202c6c287a2)
+
+## Capítulo V: Tactical-Level Software Design
 
 ## 5.1 Bounded Context: Monitoring Context
 
