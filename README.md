@@ -1228,6 +1228,33 @@ Dicho esto, usaremos la guia de diseños de Carbon Design System de IBM como nue
 **Spacing** (Base de 4px u 8px)
 ![Alt text](Images/Spacing.png)
 
+## 6.1.2. Web & Mobile Style Guidelines
+
+### Criterios considerados en el diseño de Tasty Point:
+
+**Web Usability:**
+- Facilita la interacción gracias al uso de fuentes distinguibles y del tamaño adecuado.
+- Estructura el contenido: navegación en forma de "Z".
+- Simplifica y sintetiza: Textos directos sin perder la amabilidad que queremos proyectar como marca.
+
+- **Mobile Usability (Usabilidad en Dispositivos Móviles):**
+- Adapta las fuentes y elementos para pantallas más pequeñas, manteniendo la legibilidad.
+- Asegura una navegación intuitiva en dispositivos móviles.
+- Simplifica y condensa los textos para una experiencia cómoda en dispositivos móviles, manteniendo la amabilidad de la marca.
+
+**Inclusive Design:**
+Los servicios brindados por la página deben ser accesibles a todo nuestro público objetivo, en este caso, ya que nuestro público objetivo abarca personas entre 20 y 40 años, las pautas consideradas son:
+- Colores contrastantes y fuentes distinguibles para los usuarios con problemas de visión.
+- Descripción de las imágenes empleadas para lectores de pantalla.
+- Consistencia externa: Cumplir con los patrones de diseño comunes.
+- Formato de imágenes PNG para conservar la calidad.
+
+**Internationalization and Accessibility:**
+El idioma por defecto empleado en los productos para la solución de este proyecto es el inglés.
+
+**Responsive Web Design:**
+Tanto el Landing page como la app web responden al dispositivo en el que el usuario ingresa, ya que cuentan con una versión en vista web y mobile.
+
 ### 6.2. Arquitectura de la Información
 
 ### 6.2.1. Sistemas de Organización
