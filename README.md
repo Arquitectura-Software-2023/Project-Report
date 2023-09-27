@@ -1232,51 +1232,45 @@ Dicho esto, usaremos la guia de diseños de Carbon Design System de IBM como nue
 
 ### 6.2.1. Sistemas de Organización
 
-**Página de Inicio (Landing Page):**
-En la página de inicio, se organizará el contenido de forma jerárquica. Primero, se mostrará una breve descripción de Tasty Point y luego se ramificarán las entradas para los 2 públicos objetivos a los que queremos llegar.
+**Landing Page:** En la página de inicio, se organizará el contenido de forma jerárquica. Primero, se mostrará una breve descripción de Tasty Point y luego se ramificarán las entradas para los 2 públicos objetivos a los que queremos llegar, tanto en la aplicación móvil como en la web.
 
-**Aplicación Web y Aplicación Móvil:**
-En la aplicación web, las secciones se mostrarán en una barra lateral a la izquierda de la pantalla, y estas direccionarán a la sección que busca el usuario. De manera similar, en la aplicación móvil, se utilizará una interfaz de navegación intuitiva que permitirá a los usuarios acceder a las diferentes secciones de la aplicación con facilidad. Los botones y las pestañas estarán diseñados de manera coherente tanto en la versión web como en la versión móvil para ofrecer una experiencia de usuario consistente en ambas plataformas.
+**Aplicación Web y Aplicación Móvil:** En la aplicación web, las secciones se mostrarán en una barra lateral a la izquierda de la pantalla, y estas direccionarán a la sección que busca el usuario. De manera similar, en la aplicación móvil, se utilizará una interfaz de navegación intuitiva que permitirá a los usuarios acceder a las diferentes secciones de la aplicación con facilidad. Los botones y las pestañas estarán diseñados de manera coherente tanto en la versión web como en la versión móvil para ofrecer una experiencia de usuario consistente en ambas plataformas.
+
 
 ### 6.2.2. Sistemas de Etiquetado
+**Landing Page:** En el encabezado de la página de inicio se emplean las etiquetas "Home," "About us," "Features," "Pricing" y el botón "Sign up," que direccionan al usuario a la sección elegida de la página web o la aplicación móvil. También se emplean los botones "Customers" y "Business" que direccionan a los usuarios a la sección de la página destinada para ellos.
 
-**Página de Inicio (Landing Page):**
-En el encabezado de la página de inicio se emplean las etiquetas "Home," "About us," "Features," "Pricing" y el botón "Sign up," que direccionan al usuario a la sección elegida de la página web. También se emplean los botones "Customers" y "Business" que direccionan a los usuarios a la sección de la página destinada para ellos.
-
-**Aplicación Web y Aplicación Móvil:**
-En la aplicación web y móvil, las secciones se mostrarán en una barra lateral a la izquierda de la pantalla, y estas direccionarán a la sección que busca el usuario.
+**Aplicación Web y Aplicación Móvil:** En la aplicación web y móvil, las secciones se mostrarán en una barra lateral a la izquierda de la pantalla, y estas direccionarán a la sección que busca el usuario en ambas plataformas.
 
 ### 6.2.3. Etiquetas SEO y Metaetiquetas
+**Landing Page:**
 
-**Página de Inicio (Landing Page):**
-
-- Título: Tasty Point: La mejor manera de reducir el desperdicio de alimentos en Perú.
-- Descripción: Con Tasty Point, puedes ayudar a combatir el desperdicio de alimentos. Tenemos diferentes entornos según el segmento al que pertenezca.
-- Palabras clave: "comida", "medio ambiente", "comida económica", "ofertas de comida", "aplicación web", "desperdicio de comida", "bajo presupuesto", "ahorro", "comida rápida", "rico y económico".
-- Autor: Outsiders
+- **Título:** Tasty Point: La mejor manera de reducir el desperdicio de alimentos en Perú.
+- **Descripción:** Con Tasty Point, puedes ayudar a combatir el desperdicio de alimentos. Tenemos diferentes entornos según el segmento al que pertenezca.
+- **Palabras clave:** "comida", "medio ambiente", "comida económica", "ofertas de comida", "aplicación web", "desperdicio de comida", "bajo presupuesto", "ahorro", "comida rápida", "rico y económico".
+- **Autor:** Outsiders
 
 **Aplicación Web y Aplicación Móvil:**
 
-- Título: Tasty Point
-- Descripción: Aplicación web de Tasty Point. Compra comida deliciosa y ayuda a reducir el desperdicio de alimentos.
-- Palabras clave: "Aplicación web","Aplicación móvil", "comida", "medio ambiente", "comida económica", "ofertas de comida", "aplicación web", "desperdicio de comida", "bajo presupuesto", "ahorro", "comida rápida", "rico y económico".
+- **Título:** Tasty Point
+- **Descripción:** Aplicación web de Tasty Point. Compra comida deliciosa y ayuda a reducir el desperdicio de alimentos.
+- **Palabras clave:** "Aplicación web","Aplicación móvil", "comida", "medio ambiente", "comida económica", "ofertas de comida", "aplicación web", "desperdicio de comida", "bajo presupuesto", "ahorro", "comida rápida", "rico y económico".
+
 
 ### 6.2.4. Sistemas de Búsqueda
-
 La aplicación web y móvil de Tasty Point contará con filtros al presentar los platos del día, como:
 
 - Tipo de comida.
 - Nombre del Restaurante/Local de comida.
 - Precios.
-Además, los platos se presentarán por defecto en orden de popularidad. Sin embargo, los usuarios también podrán elegir su orden de presentación preferido, como: ordenado por fechas (del más reciente al más antiguo), ordenado por fechas (del más antiguo al más reciente), ordenado en orden alfabético (a – z), ordenado en orden alfabético (z – a), etc. Como adicional, las opciones de platos disponibles tendrán un color distinguible a los ojos del usuario.
+
+Además, los platos se presentarán por defecto en orden de popularidad en ambas versiones. Sin embargo, los usuarios también podrán elegir su orden de presentación preferido, como: ordenado por fechas (del más reciente al más antiguo), ordenado por fechas (del más antiguo al más reciente), ordenado en orden alfabético (a – z), ordenado en orden alfabético (z – a), etc. Como adicional, las opciones de platos disponibles tendrán un color distinguible a los ojos del usuario en ambas aplicaciones. 
+
 
 ### 6.2.5. Sistemas de Navegación
+**Landing Page:** Se utiliza un menú de navegación fija en ambas aplicaciones, de manera que, aunque el usuario haya elegido una opción a seguir, el menú siempre permanecerá a su disposición. También incluye un pie de página para enlazar secciones pertinentes de la página de inicio en ambas versiones.
 
-**Página de Inicio (Landing Page):**
-Se utiliza un menú de navegación fija, de manera que, aunque el usuario haya elegido una opción a seguir, el menú siempre permanecerá a su disposición. También incluye un pie de página para enlazar secciones pertinentes de la página de inicio.
-
-**Aplicación Web y Aplicación Móvil:**
-Se incluye una barra lateral para mostrar las opciones que el usuario puede elegir, como "Inicio," "Agregar," "Catálogo," "Reservaciones actuales," "Más información," etc.
+**Aplicación Web y Aplicación Móvil:** Se incluye una barra lateral en ambas aplicaciones para mostrar las opciones que el usuario puede elegir, como "Inicio," "Agregar," "Catálogo," "Reservaciones actuales," "Más información," etc. En Tasty Point, se ha implementado una experiencia de catálogo mediante Realidad Virtual (VR) como una opción adicional para brindar a los usuarios de ambas aplicaciones una experiencia única e inmersiva al explorar productos y restaurantes.
 
 ### 6.3. Landing Page UI Design
 
