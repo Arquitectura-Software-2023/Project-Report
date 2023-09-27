@@ -174,31 +174,31 @@ Ciclo:
 
 |  Criterio específico | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | Conocimientos de nuevos métodos de colaboración y comunicación |
 |-----------|-----------|-----------|-----------|
-| Andres Christian Reynoso | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
-| David Torres Vilchez | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
-| Claudia Rozas | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
-| Adrian Marquina | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
-| Marco Mendoza Rodriguez **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| Andres Christian Reynoso | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| David Torres Vilchez | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| Claudia Rozas | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| Adrian Marquina | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| Marco Mendoza Rodriguez **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
 
 - **TP**
 
 |  Criterio específico | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | Conocimientos de nuevos métodos de colaboración y comunicación |
 |-----------|-----------|-----------|-----------|
-| Andres Christian Reynoso | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
-| David Torres Vilchez | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
-| Claudia Rozas | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
-| Adrian Marquina | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
-| Marco Mendoza Rodriguez | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| Andres Christian Reynoso | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| David Torres Vilchez | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| Claudia Rozas | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| Adrian Marquina | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| Marco Mendoza Rodriguez | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
 
 - **TB2**
 
 |  Criterio específico | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | Conocimientos de nuevos métodos de colaboración y comunicación |
 |-----------|-----------|-----------|-----------|
-| Andres Christian Reynoso | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
-| David Torres Vilchez | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
-| Claudia Rozas | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
-| Adrian Marquina | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
-| Marco Mendoza Rodriguez | **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |  **Acciones:** **Conclusiones** |
+| Andres Christian Reynoso | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| David Torres Vilchez | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| Claudia Rozas | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| Adrian Marquina | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| Marco Mendoza Rodriguez | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
 
 ## Capítulo I: Introducción
 
