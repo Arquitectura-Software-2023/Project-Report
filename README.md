@@ -198,7 +198,7 @@ The 5 ‘W’s y 2 ‘H’s
  Tasty point busca solucionar el problema ofreciendo estos platos restantes de manera directa a los clientes, explícitamente a un precio menor.  
 - **1. How (cómo):**  
  Tasty food es usado cuando:  
-  - El consumidor busca una manera de combatir la problemática del desperdicio de comida, o simplemente busca alimentos ofrecidos a precios bajos.  
+  - El consumidor busca una manera de combatir la problemática del desperdicio de comida, o simplemente busca alimentos ofrecidos a precios bajos, teniendo la opción de acceder a un catálogo en realidad virtual de los productos que ofrecen los restaurantes.  
   - El cliente Restaurante, tradicional o de comida rápida, busca una forma de minimizar las pérdidas generadas al "tirar" los productos que no pudieron venderse y no son lo suficientemente    frescos para una siguiente jornada.  
 - **2. How much (cuánto) :**  
  De acuerdo con la ONU, Programa para el medio ambiente (2021), "se estima que 931 millones de toneladas de alimentos, o 17% del total de alimentos disponibles para los consumidores en 2019, terminaron  en los basureros de hogares, minoristas, restaurantes y otros servicios alimentarios". Estas cifras evidencian la gran cantidad de comida que se desperdicia de manera global y, de la misma manera al   mencionar a minoristas y hogares además de restaurantes, dejan entrever que es un problema del que nadie está exento.  
@@ -213,7 +213,7 @@ The 5 ‘W’s y 2 ‘H’s
 
 Tasty Point es una Startup que ofrece la calidad y garantía de sus dichos productos, cubriendo la necesidad de cada uno de los peruanos, estar presente en el mercado, por lo que no existe otra startup  que ofrezca dicho servicio en el país. Tasty Point al ser una empresa pionera en el Perú establece un vínculo directo entre consumidor y la variedad de menú que esté interesado, ofreciendo así   disponibilidad y confianza a sus usuarios.  La facilidad de compra es estrictamente seguro, avala firmeza en sus medios de pagos e interacción con la APP WEB, haciendo que tu experiencia sea amigable e  interactiva con sus usuarios.  
 
-Tasty Point al estar introducido al mercado peruano, país de una de las mejores gastronomías del mundo, ofrece a sus consumidores una variedad de platos al gusto del cliente y promueve la cultura de la  sana alimentación, responsable del buen cuidado de la salud e incentiva a la estabilización del consumo nutritivo. Pone a disposición una amplia variedad de platos elaborados a base de productos de la  costa, sierra y selva.  
+Tasty Point al estar introducido al mercado peruano, país de una de las mejores gastronomías del mundo, ofrece a sus consumidores una variedad de platos al gusto del cliente y promueve la cultura de la  sana alimentación, responsable del buen cuidado de la salud e incentiva a la estabilización del consumo nutritivo. Pone a disposición una catálogo en realidad virtual con una amplia variedad de platos elaborados a base de productos de la  costa, sierra y selva.  
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -240,7 +240,7 @@ Aquellos que residan en Lima Metropolitana y requieren de un servicio como el nu
 En este siguiente apartado, se presentan los beneficios adquiridos en base a la interacción de los usuarios con nuestra app web.
 
  1. Consumidores  
-  Nos enfocamos en aquellas personas que consumen y adquieren sus productos alimenticios vía delivery y que prefieren elegir un plato de comida cualquiera con tal que esté en buen estado y a un   buen precio.  
+  Nos enfocamos en aquellas personas que consumen y adquieren sus productos alimenticios vía delivery y que prefieren elegir un plato de comida cualquiera con tal que esté en buen estado y a un buen precio.  
  2. Restaurantes  
   Nos enfocamos en aquellos restaurantes que poseen un porcentaje moderado/alto de productos desechados por día.
 
@@ -285,7 +285,7 @@ En este siguiente apartado, se presentan los beneficios adquiridos en base a la 
 
 Para definir los segmentos objetivos que se verían beneficiados en la solución de esta problemática, hemos realizado investigaciones que nos han ayudado a esclarecer dichos segmentos. Como en todo   proyecto, existen dos grandes grupos, los cuales son aquellos que invierten en el proyecto, más conocidos como clientes, y aquellos a los que consumen el producto o servicio, los cuales son los   consumidores. Dentro de estos grupos definimos a nuestros clientes como aquellos dueños(as) de restaurantes que desean incrementar sus ventas y evitar el desperdicio de comida, estos se encuentran en un
   rango de edad entre los 30 a 50 años, preocupados por el cuidado de los recursos del planeta, con conciencia ambiental y decidido a incrementar sus ganancias.  
-  Por otro lado, en el sector de consumidores identificamos a aquellos comensales que desean adquirir alimentos por un bajo precio. Estos se encuentran en un rango de edades entre los 18 a 30 años,   usuarios de diversas tecnologías, en muchos casos recién independizados, y que desean ayudar a disminuir el desperdicio de comida que generan los restaurantes. Asimismo, se ayudaría a familias que   cuentan con algún dispositivo electrónico en casa y que deseen disminuir sus gastos en alimentos.  
+  Por otro lado, en el sector de consumidores identificamos a aquellos comensales que desean adquirir alimentos por un bajo precio. Estos se encuentran en un rango de edades entre los 18 a 30 años, usuarios de diversas tecnologías, en muchos casos recién independizados, y que desean ayudar a disminuir el desperdicio de comida que generan los restaurantes. Asimismo, se ayudaría a familias que cuentan con algún dispositivo electrónico en casa y que deseen disminuir sus gastos en alimentos.  
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
@@ -495,7 +495,7 @@ De la pregunta “¿Usaría una app en donde pueda encontrar alimentos que han q
 
 | Steps | Buscar opciones en el entorno | Revisar las opciones por internet | Realizar pedido | Recibir pedido |
 | -------------- | -------------- | -------------- | -------------- | -------------- |
-| Doing | Buscar comida dentro de la casa | - Buscar opciones de comida a domicilio por internet. - Seleccionar Tasty Point por su iniciativa | Seleccionar el plato de comida que deseo | Recibir el pedido solicitado por delivery |
+| Doing | Buscar comida dentro de la casa | - Buscar opciones de comida a domicilio por internet. - Seleccionar Tasty Point por su iniciativa | Seleccionar el plato de comida que deseo del catálogo en realidad virtual | Recibir el pedido solicitado por delivery |
 | Thinking | No hay comida disponible, debo de buscar opciones por internet | No tuve problemas en escoger al servicio a domicilio | Los precios son muy bajos | Espero que el pedido sea de mi agrado |
 | Feeling | Desilusionado | Aliviado | Sorprendido | Satisfecho |
 
