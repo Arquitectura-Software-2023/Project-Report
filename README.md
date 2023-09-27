@@ -174,7 +174,7 @@ Ciclo:
 
 |  Criterio específico | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | Conocimientos de nuevos métodos de colaboración y comunicación |
 |-----------|-----------|-----------|-----------|
-| Andres Christian Reynoso | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| Andres Christian Reynoso | **Acciones:** Para este entregable hemos hecho coordinaciones en equipo para poder desarrollar los puntos relacionados a la TB1 **Conclusiones:** Gracias a esto pudimos desarrollar con mas velocidad este entregable. |  **Acciones:** El conocer a nuestros segmentos objetivos con el desarrollo delos UX es un paso fundamental para desarrollar el proyecto. **Conclusiones:** De esta forma, pudimos ponernos mejor en los zapatos de nuestros usuarios. |  **Acciones:** Los repositorios de github, al igual que las reuniones de discord ayudaron a fomentar comunicacion entre los miembros del equipo. **Conclusiones:** La comunicacion entre el equipo es fundamental para los avances del proyecto. |
 | David Torres Vilchez | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
 | Claudia Rozas | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
 | Adrian Marquina | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
@@ -184,7 +184,7 @@ Ciclo:
 
 |  Criterio específico | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | Conocimientos de nuevos métodos de colaboración y comunicación |
 |-----------|-----------|-----------|-----------|
-| Andres Christian Reynoso | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| Andres Christian Reynoso | **Acciones:** El desarrollo de wireframes y mockups nos ayudan a entender como funcionara nuestra aplicacion por desarrollar. **Conclusiones:** El objetivo de esto es prototipear como funcionara nuestro aplicativo. |  **Acciones:** El desarrollo de los mockups y wireframes ayudan a darnos a entender como se sentiran nuestros segmentos objetivo. **Conclusiones:** Gracias a esto, podemos desarrollar y tener una idea principal de nuestro proyecto. | **Acciones:** Los repositorios de github, aplicaciones como figma, y las reuniones de discord ayudaron a fomentar comunicacion entre los miembros del equipo. **Conclusiones:** La comunicacion entre el equipo es fundamental para los avances del proyecto. |
 | David Torres Vilchez | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
 | Claudia Rozas | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
 | Adrian Marquina | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
