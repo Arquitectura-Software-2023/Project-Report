@@ -47,6 +47,7 @@ Ciclo:
 | 3.0 | 9/09/2023 | Marco Mendoza | Avance del capítulo 4 para el entregable TB1 y correcciones en la documentación |
 | 4.0 | 9/09/2023 | Adrian Marquina | Puntos faltantes de la TB1 (startup, link en los indices, styles) |
 | 5.0 | 23/09/2023 | Claudia Rozas | Avance del capítulo 5 para la elaboración del TP |
+| 6.0 | 25/09/2023 | Andres Reynoso | Avance del capítulo 6 para la elaboración del TP |
 
 ## Project Report Collaboration Insights
 
