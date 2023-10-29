@@ -167,6 +167,22 @@ Ciclo:
     - [6.4. Applications UX/UI Design](#64-applications-uxui-design)
       - [6.4.1. Applications Wireframes](#641-applications-wireframes)
       - [6.4.2. Applications Wireflow Diagrams](#642-applications-wireflow-diagrams)
+  - [Capítulo VII: Product Implementation, Validation & Deployment](#capítulo-vii-product-implementation-validation--deployment)
+    - [7.1. Software Configuration Management](#71-software-configuration-management)
+      - [7.1.1. Software Development Environment Configuration](#711-software-development-environment-configuration)
+      - [7.1.2. Source Code Management](#712-source-code-management)
+      - [7.1.3. Source Code Style Guide & Conventions](#713-source-code-style-guide--conventions)
+      - [7.1.4. Software Deployment Configuration](#714-software-deployment-configuration)
+    - [7.2. Solution Implementation](#72-solution-implementation)
+      - [7.2.1. Sprint 1](#721-sprint-1)
+        - [7.2.1.1. Sprint Planning 1](#7211-sprint-planning-1)
+        - [7.2.1.2. Sprint Backlog 1](#7212-sprint-backlog-1)
+        - [7.2.1.3. Development Evidence for Sprint Review](#7213-development-evidence-for-sprint-review)
+        - [7.2.1.4. Testing Suite Evidence for Sprint Review](#7214-testing-suite-evidence-for-sprint-review)
+        - [7.2.1.5. Execution Evidence for Sprint Review](#7215-execution-evidence-for-sprint-review)
+        - [7.2.1.6. Services Documentation Evidence for Sprint Review](#7216-services-documentation-evidence-for-sprint-review)
+        - [7.2.1.7. Software Deployment Evidence for Sprint Review](#7217-software-deployment-evidence-for-sprint-review)
+        - [7.2.1.8. Team Collaboration Insights during Sprint](#7218-team-collaboration-insights-during-sprint)
 
 # Student Outcome
 
@@ -1409,3 +1425,105 @@ En esta sección se presentarán los wireflows relacionados a los wireframes de 
 ![image](https://media.discordapp.net/attachments/912089666939916348/1155697417346355312/Flowchart_3.jpg?width=765&height=669)
 5. Como consumidor quiero ver el catálogo de los productos alimenticios de primera necesidad para comprarlos
 ![image](https://media.discordapp.net/attachments/912089666939916348/1155699210822353037/Flowchart_4.jpg?width=1251&height=669)
+
+## Capítulo VII: Product Implementation, Validation & Deployment
+
+## 7.1. Software Configuration Management
+
+### 7.1.1. Software Development Environment Configuration
+
+Usaremos un set de herramientas que nos permitiran desarrollar las distitas soluciones que ofrecemos. Para una mejor visualicion, lo hemos separado en caterogias. En la siguiente lista podran observar las herramientas con sus enlaces de cada categoria.
+
+**Editores:**
+
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
+- [Visual Studio code](https://code.visualstudio.com/)
+
+**SDKs y Runtimes:**
+
+- [.Net 6 LTS](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks)
+- [Node 18.18.2 Hydrogen LTS](https://nodejs.org/en/download/releases)
+
+**Frameworks:**
+
+- [ASP.Net 6 LTS](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks)
+- [Vue 3](https://vuejs.org/)
+
+**Engines:**
+
+- [Unity LTS Release 2022.3.12f1](https://unity.com/releases/editor/qa/lts-releases)
+
+**Bases de datos:**
+
+- [MySql](https://www.mysql.com/)
+
+**Control de versiones:**
+
+- [Git](https://git-scm.com/)
+
+### 7.1.2. Source Code Management
+
+Par nuestro control de versiones usaremos [Git](https://git-scm.com/). Asimismo, usaremos [Github](https://github.com) para almacenar nuestros repositorios de git. Para una mayor organizacion, hemos creado una organizacion donde tendremos nuestros repositorios. Tambien nos facilitara crear equipos y restringir permisos. El enlace a la organizacion es el siguiente: [Organizacion](https://github.com/Arquitectura-Software-2023)
+
+| Desarrollo                | Repositorio                         | Enlace |
+|---------------------------|-------------------------------------|--------|
+| Proyecto                  | Project-Report                      | [Repositorio](https://github.com/Arquitectura-Software-2023/Project-Report) |
+| Landing Page              | TastyPoint-landing-page             | [Repositorio](https://github.com/Arquitectura-Software-2023/TastyPoint-landing-page) |
+| Aplicacion Web - Frontend | TastyPoint-FrontEnd-Web-Application | [Repositorio](https://github.com/Arquitectura-Software-2023/TastyPoint-FrontEnd-Web-Application)b |
+| Aplicacion Web - Backtend | Web-Services-TastyPoint             | [Repositorio](https://github.com/Arquitectura-Software-2023/Web-Services-TastyPoint) |
+| Aplicacion VR |              |  |
+
+### 7.1.3. Source Code Style Guide & Conventions
+
+Para nuestro Code Style, optamos por escoger los lineamientos de [Google](https://google.github.io/styleguide/). Esta decision fue tomada pues el equipo ya ha trabajdo anteriormente con esta guia de estimos.Asimismo, debido a la relevancia de esta guia de estilo, existen muchas herramientas que se encargan de asegurar que se cumpla atravez de linters y style checkers. Esto facilitada nuestra implementacion de nuestro pipeline de integracion continua. Finalmente, durante el desarrollo, agregaremos reglas especiales que solo se aplican a nuestro proyecto.
+
+### 7.1.4. Software Deployment Configuration
+
+Nuestro deployment se dara con distinta herramientas dependiendo del producto. Esto se debe a que poseemos creditos en ellas, lo cual nos permite lanzar un primer release sin elevar los costos planificados.
+
+| Desarrollo                | Nube                                 |
+|---------------------------|--------------------------------------|
+| Proyecto                  | [Github](https://github.com)         |
+| Landing Page              | [Azure](https://azure.microsoft.com) |
+| Aplicacion Web - Frontend | |
+| Aplicacion Web - Backtend | |
+| Aplicacion VR | [Unity](https://unity.com/) |
+
+## 7.2. Solution Implementation
+
+### 7.2.1. Sprint 1
+
+#### 7.2.1.1. Sprint Planning 1
+
+| Sprint Planning | 1 |
+|-----------------|---|
+| Fecha | 16/10/2023 - 08:00 |
+| Lugar | Remote - Discord |
+| Asistentes | Todo el equipo |
+| Resultados y Acuerdos | Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration y Spring Backlog 1 |
+
+#### 7.2.1.2. Sprint Backlog 1
+
+#### Sprint Backlog 1 Landing Page
+
+| Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios |
+|-----------|-----------|-----------|-----------|-----------|
+| US23 | Botón call to action | Como usuario deseo que el landing page posea un botón call-to-action para poder acceder directamente hacia la aplicación | Dado que el usuario se encuentra en el landing page. Cuando el usuario seleccione el botón Call to action llamado Comenzar. Entonces el sistema redirigirá al usuario a la aplicación web. | Presión del botón CTA|
+| US24 | Visualización de planes de suscripción. | Como usuario deseo poder visualizar los planes de suscripción en el landing page para poder informarme cuanto son las cantidades por pagar por el servicio. | CA1: Dado que el usuario se encuentra en el landing page. Cuando el usuario seleccione la opción Planes de suscripción. Entonces el landing page le mostrará los planes de suscripción. CA2: Dado que el usuario se encuentra en el landing page. Cuando el usuario deslice el landing page hacia abajo. Entonces la aplicación permitirá visualizar los planes de suscripción. | E1: Selección de opción para visualizar planes. E2:Desliza la pantalla para visualizar planes.|
+| US25 | Visualización de redes sociales | Como usuario deseo poder acceder a las redes sociales del startup por medio del landing page para conocer más acerca de este.|Dado que el usuario se encuentra en el landing page. Cuando el usuario deslice la página hasta el final. Entonces la aplicación mostrará el footer en el cual se encontrarán las redes sociales y demás información.|Visualización de redes sociales en el Footer.|
+| US26 | Web responsive | Como usuario deseo que la aplicación web sea totalmente responsive para poder usarlo desde distintos dispositivos. | Dado que el usuario utiliza el landing page. Cuando el usuario ingresa a la aplicación desde distintos dispositivos. Entonces la aplicación se adaptará a todos los dispositivos. Y la aplicación continuará funcional y visualmente estable.|Usuario ingresa desde distintos dispositivos.|
+| US27 | Visualizar la sección home del landing page | Como usuario quiero ver la sección “home” para ver la información principal. | Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de home, entonces visualiza una breve descripción de la aplicación e información de sus segmentos. | Usuario se dirige a la sección “home” de la landing page.|
+| US28 | Visualizar la sección "about us" en landing page | Como usuario quiero ver la sección “about us” para saber porque TastyPoint es innovadora en el área de comida a domicilio. | Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de about us”, entonces visualizará la información de TastyPoint. | Usuario se dirige a la sección “about us” de la landing page.
+| US29 |Visualizar la sección "segments" en landing page | Como usuario quiero ver la sección “segments” para conocer a quienes está dirigida la aplicación y sus beneficios.|Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de “segments”, entonces visualiza el público objetivo de TastyPoint y las características de la aplicación en cada uno.|Usuario se dirige a la sección “segments” de la landing page|
+
+#### 7.2.1.3. Development Evidence for Sprint Review
+
+#### 7.2.1.4. Testing Suite Evidence for Sprint Review
+
+#### 7.2.1.5. Execution Evidence for Sprint Review
+
+#### 7.2.1.6. Services Documentation Evidence for Sprint Review
+
+#### 7.2.1.7. Software Deployment Evidence for Sprint Review
+
+#### 7.2.1.8. Team Collaboration Insights during Sprint
