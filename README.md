@@ -1504,26 +1504,151 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 
 #### 7.2.1.2. Sprint Backlog 1
 
+#### Sprint Backlog 1 Consumer
+
+| Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| | | | | | | | |
+
+#### Sprint Backlog 1 Business
+
+| Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| | | | | | | | |
+
 #### Sprint Backlog 1 Landing Page
 
-| Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios |
-|-----------|-----------|-----------|-----------|-----------|
-| US23 | Botón call to action | Como usuario deseo que el landing page posea un botón call-to-action para poder acceder directamente hacia la aplicación | Dado que el usuario se encuentra en el landing page. Cuando el usuario seleccione el botón Call to action llamado Comenzar. Entonces el sistema redirigirá al usuario a la aplicación web. | Presión del botón CTA|
-| US24 | Visualización de planes de suscripción. | Como usuario deseo poder visualizar los planes de suscripción en el landing page para poder informarme cuanto son las cantidades por pagar por el servicio. | CA1: Dado que el usuario se encuentra en el landing page. Cuando el usuario seleccione la opción Planes de suscripción. Entonces el landing page le mostrará los planes de suscripción. CA2: Dado que el usuario se encuentra en el landing page. Cuando el usuario deslice el landing page hacia abajo. Entonces la aplicación permitirá visualizar los planes de suscripción. | E1: Selección de opción para visualizar planes. E2:Desliza la pantalla para visualizar planes.|
-| US25 | Visualización de redes sociales | Como usuario deseo poder acceder a las redes sociales del startup por medio del landing page para conocer más acerca de este.|Dado que el usuario se encuentra en el landing page. Cuando el usuario deslice la página hasta el final. Entonces la aplicación mostrará el footer en el cual se encontrarán las redes sociales y demás información.|Visualización de redes sociales en el Footer.|
-| US26 | Web responsive | Como usuario deseo que la aplicación web sea totalmente responsive para poder usarlo desde distintos dispositivos. | Dado que el usuario utiliza el landing page. Cuando el usuario ingresa a la aplicación desde distintos dispositivos. Entonces la aplicación se adaptará a todos los dispositivos. Y la aplicación continuará funcional y visualmente estable.|Usuario ingresa desde distintos dispositivos.|
-| US27 | Visualizar la sección home del landing page | Como usuario quiero ver la sección “home” para ver la información principal. | Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de home, entonces visualiza una breve descripción de la aplicación e información de sus segmentos. | Usuario se dirige a la sección “home” de la landing page.|
-| US28 | Visualizar la sección "about us" en landing page | Como usuario quiero ver la sección “about us” para saber porque TastyPoint es innovadora en el área de comida a domicilio. | Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de about us”, entonces visualizará la información de TastyPoint. | Usuario se dirige a la sección “about us” de la landing page.
-| US29 |Visualizar la sección "segments" en landing page | Como usuario quiero ver la sección “segments” para conocer a quienes está dirigida la aplicación y sus beneficios.|Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de “segments”, entonces visualiza el público objetivo de TastyPoint y las características de la aplicación en cada uno.|Usuario se dirige a la sección “segments” de la landing page|
+| Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| US27 | Visualizar la sección home del landing page | Como usuario quiero ver la sección “home” para ver la información principal. | Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de home, entonces visualiza una breve descripción de la aplicación e información de sus segmentos. | Usuario se dirige a la sección “home” de la landing page.| Adrian Marquina | 5 | En progreso |
+| US28 | Visualizar la sección "about us" en landing page | Como usuario quiero ver la sección “about us” para saber porque TastyPoint es innovadora en el área de comida a domicilio. | Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de about us”, entonces visualizará la información de TastyPoint. | Usuario se dirige a la sección “about us” de la landing page. | Adrian Marquina | 5 | En progreso |
+| US29 |Visualizar la sección "segments" en landing page | Como usuario quiero ver la sección “segments” para conocer a quienes está dirigida la aplicación y sus beneficios.|Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de “segments”, entonces visualiza el público objetivo de TastyPoint y las características de la aplicación en cada uno.|Usuario se dirige a la sección “segments” de la landing page | Adrian Marquina | 5 | En progreso |
 
 #### 7.2.1.3. Development Evidence for Sprint Review
 
+#### Sprint Backlog 1 Development Evidence Consumer
+
+| Repositorio | Commit | Mensaje | Autor |
+|-------------|-------------|-------------|-------------|
+| | | | |
+
+#### Sprint Backlog 1 Development Evidence Business
+
+| Repositorio | Commit | Mensaje | Autor |
+|-------------|-------------|-------------|-------------|
+| | | | |
+
+#### Sprint Backlog 1 Development Evidence Landing Page
+
+| Repositorio | Commit | Mensaje | Autor |
+|-------------|-------------|-------------|-------------|
+| TastyPoint-landing-page | 6b030de0613ebd540511da021b7676f0df59fd50 | deployment | Adrian Marquina |
+| TastyPoint-landing-page | 23e4521efa2576a0232de0137b222a713d7a5beb | deployment | Adrian Marquina |
+| TastyPoint-landing-page | 1d3be24bfa01f2e8557296521813c6cc5a8e5245 | ci: add Azure Static Web Apps workflow file  | Adrian Marquina |
+| TastyPoint-landing-page | 41c4739bf813d86a54acaf676c793a47bd5800e7 | Content | Adrian Marquina |
+| TastyPoint-landing-page | cbc186bb2bd2515e01c50154c6923fc859cd35ec | added first sections structure | Adrian Marquina |
+| TastyPoint-landing-page | 689cdbac816d305867a4ff38f96a488ebb915f4f | tailwind primary colors | Adrian Marquina |
+| TastyPoint-landing-page | 0a894b01ba1989dc38dca560cc713ce0bbae22d0 | setup | Adrian Marquina |
+| TastyPoint-landing-page | 8e80881e245e2cb91a165634d3f673cadbc294ff | first commit | Adrian Marquina |
+
 #### 7.2.1.4. Testing Suite Evidence for Sprint Review
+
+#### Sprint Backlog 1 Testing Suite Evidence Consumer
+
+| ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
+|--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
+| | | | | | | |
+
+#### Sprint Backlog 1 Testing Suite Evidence Business
+
+| ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
+|--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
+| | | | | | | |
+
+#### Sprint Backlog 1 Testing Suite Evidence Landing Page
+
+Para el sprint 1, solo se construyo la matriz de pruebas.
+
+| ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
+|--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
+| T1           | US27     | Verificar la visualización de la sección "home" en la landing page | 1. Navegar a la landing page<br>2. Hacer clic en la sección "home" o desplazarse hasta ella | El usuario debería ver una breve descripción de la aplicación e información de sus segmentos                          | Adrian Marquina         | Pendiente           |
+| T2           | US28     | Verificar la visualización de la sección "about us" en landing page | 1. Navegar a la landing page<br>2. Hacer clic en la sección "about us" o desplazarse hasta ella | El usuario debería ver la información sobre por qué TastyPoint es innovadora en el área de comida a domicilio         | Adrian Marquina         | Pendiente           |
+| T3           | US29     | Verificar la visualización de la sección "segments" en landing page | 1. Navegar a la landing page<br>2. Hacer clic en la sección "segments" o desplazarse hasta ella | El usuario debería ver información sobre el público objetivo de TastyPoint y las características de la aplicación     | Adrian Marquina         | Pendiente           |
 
 #### 7.2.1.5. Execution Evidence for Sprint Review
 
+#### Sprint Backlog 1 Execution Evidence Consumer
+
+Execution
+
+#### Sprint Backlog 1 Execution Evidence Business
+
+Execution
+
+#### Sprint Backlog 1 Execution Evidence Landing Page
+
+![Landing Execution](Images/sprint-1-landing-execution-1.png)
+
 #### 7.2.1.6. Services Documentation Evidence for Sprint Review
+
+#### Sprint Backlog 1 Documentation Evidence Consumer
+
+| ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Ubicación (URL o Ruta de Archivo) | Responsable       | Fecha de Última Actualización | Estado     |
+|-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------|-------------------------------|------------|
+| | | |  |  | | | |
+
+#### Sprint Backlog 1 Documentation Evidence Business
+
+| ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Ubicación (URL o Ruta de Archivo) | Responsable       | Fecha de Última Actualización | Estado     |
+|-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------|-------------------------------|------------|
+| | | |  |  | | | |
+
+#### Sprint Backlog 1 Documentation Evidence Landing Page
+
+| ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Ubicación (URL o Ruta de Archivo) | Responsable       | Fecha de Última Actualización | Estado     |
+|-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------|-------------------------------|------------|
+| D1              | US27     | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección "home" en la landing page. | [Enlace a D1](#)                  | Adrian Marquina   | 29/10/2023                    | Completo   |
+| D2              | US28     | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección "about us" en la landing page. | [Enlace a D2](#)                  | Adrian Marquina   | 29/10/2023                    | Completo   |
+| D3              | US29     | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección "segments" en la landing page. | [Enlace a D3](#)                  | Adrian Marquina   | 29/10/2023                    | Completo   |
+| D4              | US27     | Diseño de Interfaz           | Documento con los mockups y diseños de la sección "home" en la landing page. | [Enlace a D4](#)                  | Diseñador Gráfico | 29/10/2023                    | En Revisión |
+| D5              | US28     | Diseño de Interfaz           | Documento con los mockups y diseños de la sección "about us" en la landing page. | [Enlace a D5](#)                  | Diseñador Gráfico | 29/10/2023                    | En Revisión |
+| D6              | US29     | Diseño de Interfaz           | Documento con los mockups y diseños de la sección "segments" en la landing page. | [Enlace a D6](#)                  | Diseñador Gráfico | 29/10/2023                    | En Revisión |
+| D7              | US27     | Manual de Usuario            | Documento que guía al usuario en cómo utilizar la sección "home" en la landing page. | [Enlace a D7](#)                  | Equipo de Soporte | 29/10/2023                    | Pendiente   |
+| D8              | US28     | Manual de Usuario            | Documento que guía al usuario en cómo utilizar la sección "about us" en la landing page. | [Enlace a D8](#)                  | Equipo de Soporte | 29/10/2023                    | Pendiente   |
+| D9              | US29     | Manual de Usuario            | Documento que guía al usuario en cómo utilizar la sección "segments" en la landing page. | [Enlace a D9](#)                  | Equipo de Soporte | 29/10/2023                    | Pendiente   |
+
 
 #### 7.2.1.7. Software Deployment Evidence for Sprint Review
 
+#### Sprint Backlog 1 Deployment Evidence Consumer
+
+Documentation
+
+#### Sprint Backlog 1 Deployment Evidence Business
+
+Documentation
+
+#### Sprint Backlog 1 Deployment Evidence Landing Page
+
+Se implemento el pipeline de despliegue continuo con azure. Acontinuacion, se adjunta la evidencia del despliegue del landing page: [Url](https://jolly-field-04c7e7710.4.azurestaticapps.net/)
+
+Deployment
+![Github Action detail](Images/sprint-1-landing-deployment-1.png)
+![Azure portal](Images/sprint-1-landing-deployment-2.png)
+![Deployed landing page](Images/sprint-1-landing-deployment-3.png)
+
 #### 7.2.1.8. Team Collaboration Insights during Sprint
+
+| Sprint Review | 1 |
+|-----------------|---|
+| Fecha | 20/10/2023 - 08:00 |
+| Lugar | Remote - Discord |
+| Asistentes | Todo el equipo |
+| Resultados y Acuerdos | Revisamos el avance total del desarrollo, se encontraba en el 40% de lo comprometido |
+
+| Sprint Review | 2 |
+|-----------------|---|
+| Fecha | 27/10/2023 - 08:00 |
+| Lugar | Remote - Discord |
+| Asistentes | Todo el equipo |
+| Resultados y Acuerdos | Revisamos el avance total del desarrollo, se encontraba en el 80% de lo comprometido |
