@@ -1428,7 +1428,7 @@ En esta sección se presentarán los wireflows relacionados a los wireframes de 
 
 ### 6.4.3. Applications Mock-ups
 
-Mobile mock-ups:
+Mobile mock-ups(https://www.figma.com/file/87yjJhAfCGQ9awLcKsH7EG/mockuptasty?type=design&node-id=0%3A1&mode=design&t=kSFT1kq185livZVs-1):
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/7b3e9571-e40b-4807-8175-6444cae3b9c0?width=1198&height=669)
 
@@ -1439,6 +1439,24 @@ Mobile mock-ups:
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/7f8814aa-3856-4f49-b008-006d55477076?width=1198&height=669)
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/e9ac55f9-06c0-4183-b602-27683fb3cf3a?width=1198&height=369)
+
+### 6.4.4. Applications User Flow Diagrams
+
+Mobile user flow diagrams(https://www.figma.com/file/hXXW0qrVtjezWIP9ub7pt4/Untitled?type=whiteboard&node-id=0%3A1&t=0nx6v5IW0oYnPtDf-1):
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/2f7f877d-81b4-459e-9f67-3e70027be8c4?width=1198&height=680)
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/14fb4182-6df4-4e98-9fe8-e4b32736df60?width=1198&height=680)
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/686cb75a-ac02-4a7a-bf60-f7d418162d45?width=1198&height=680)
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/b68f7f64-a6eb-458f-8ae6-a16c294e433f?width=1198&height=680)
+
+## 6.5. Applications Prototyping
+
+Link del prototipo: https://www.figma.com/proto/87yjJhAfCGQ9awLcKsH7EG/mockuptasty?type=design&node-id=501-2&t=tpCLr4biP864FRLh-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=501%3A2&mode=design
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/3b74fc8d-a6ee-4456-a95b-40d871ac668f?width=1198&height=369)
 
 ## Capítulo VII: Product Implementation, Validation & Deployment
 
