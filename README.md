@@ -1440,6 +1440,23 @@ Mobile mock-ups(https://www.figma.com/file/87yjJhAfCGQ9awLcKsH7EG/mockuptasty?ty
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/e9ac55f9-06c0-4183-b602-27683fb3cf3a?width=1198&height=369)
 
+Desktop Web Applications: https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Wireframes-TastyPoint?type=design&node-id=34-2&mode=design&t=KtxNjkLC11IMyY4J-0
+
+![image](https://media.discordapp.net/attachments/973358848159133696/1169776180254224414/image.png?ex=6556a1f6&is=65442cf6&hm=e03618d87a1de83eb1a138aae137d89bead3abe4fb04c8e5a94429dc823c3319&=&width=1056&height=669)
+
+![image](https://media.discordapp.net/attachments/973358848159133696/1169776876064084008/image.png?ex=6556a29c&is=65442d9c&hm=47b685635dd6d8ec3a8d138f48666692da85b71a85e5dc36a63c520a96aa2160&=&width=1348&height=605)
+
+![image](https://media.discordapp.net/attachments/973358848159133696/1169776947472113785/image.png?ex=6556a2ad&is=65442dad&hm=005734141baeb9aa4bfa84ff0a7a0373a8e82ee0ab15bf73641097adcbd762b2&=&width=1327&height=617)
+
+![image](https://media.discordapp.net/attachments/973358848159133696/1169777012647407716/image.png?ex=6556a2bd&is=65442dbd&hm=456b725ff48888a245150000d4c70fff4fd45ffbf26afdb8ff9bfb9cd641a3f9&=&width=1375&height=614)
+
+![image](https://media.discordapp.net/attachments/973358848159133696/1169777071715795005/image.png?ex=6556a2cb&is=65442dcb&hm=113405fe1596edeb6774c9450baab29833c81b1abbbf6481fc3cd02b29823a7c&=&width=1085&height=669)
+
+![image](https://media.discordapp.net/attachments/973358848159133696/1169777164019834910/image.png?ex=6556a2e1&is=65442de1&hm=097eeeb9c9c494abbd8ad9603ce0b72d1297bdce049d14d97690e9bcfb7dee86&=&width=978&height=669)
+
+![image](https://media.discordapp.net/attachments/973358848159133696/1169777242654658631/image.png?ex=6556a2f4&is=65442df4&hm=0ba0d200c3d45188ee51b290392d631b4b235f9a6da860b4084bdf66180df77b&=&width=1380&height=630)
+
+
 ### 6.4.4. Applications User Flow Diagrams
 
 Mobile user flow diagrams(https://www.figma.com/file/hXXW0qrVtjezWIP9ub7pt4/Untitled?type=whiteboard&node-id=0%3A1&t=0nx6v5IW0oYnPtDf-1):
@@ -1685,3 +1702,10 @@ Deployment
 | Lugar | Remote - Discord |
 | Asistentes | Todo el equipo |
 | Resultados y Acuerdos | Revisamos el avance total del desarrollo, se encontraba en el 80% de lo comprometido |
+
+## 7.3. Validation Interviews
+
+### 7.3.1. Registro de Entrevistas
+### 7.3.2. Evaluaciones segun Heuristicas
+
+## 7.4. Video About the Product
