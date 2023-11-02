@@ -1426,6 +1426,20 @@ En esta sección se presentarán los wireflows relacionados a los wireframes de 
 5. Como consumidor quiero ver el catálogo de los productos alimenticios de primera necesidad para comprarlos
 ![image](https://media.discordapp.net/attachments/912089666939916348/1155699210822353037/Flowchart_4.jpg?width=1251&height=669)
 
+### 6.4.3. Applications Mock-ups
+
+Mobile mock-ups:
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/7b3e9571-e40b-4807-8175-6444cae3b9c0?width=1198&height=669)
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/c3090125-b4dd-4254-9c2c-6b974f188bb2?width=1198&height=669)
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/34f13a78-dfd0-49a0-a5c0-55c46dd34112?width=1198&height=669)
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/7f8814aa-3856-4f49-b008-006d55477076?width=1198&height=669)
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/e9ac55f9-06c0-4183-b602-27683fb3cf3a?width=1198&height=369)
+
 ## Capítulo VII: Product Implementation, Validation & Deployment
 
 ## 7.1. Software Configuration Management
