@@ -1475,6 +1475,7 @@ Link del prototipo: https://www.figma.com/proto/87yjJhAfCGQ9awLcKsH7EG/mockuptas
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/3b74fc8d-a6ee-4456-a95b-40d871ac668f?width=1198&height=369)
 
+
 ## Capítulo VII: Product Implementation, Validation & Deployment
 
 ## 7.1. Software Configuration Management
@@ -1518,8 +1519,8 @@ Par nuestro control de versiones usaremos [Git](https://git-scm.com/). Asimismo,
 |---------------------------|-------------------------------------|--------|
 | Proyecto                  | Project-Report                      | [Repositorio](https://github.com/Arquitectura-Software-2023/Project-Report) |
 | Landing Page              | TastyPoint-landing-page             | [Repositorio](https://github.com/Arquitectura-Software-2023/TastyPoint-landing-page) |
-| Aplicacion Web - Frontend | TastyPoint-FrontEnd-Web-Application | [Repositorio](https://github.com/Arquitectura-Software-2023/TastyPoint-FrontEnd-Web-Application)b |
-| Aplicacion Web - Backtend | Web-Services-TastyPoint             | [Repositorio](https://github.com/Arquitectura-Software-2023/Web-Services-TastyPoint) |
+| Aplicacion Web - Frontend | TastyPoint-FrontEnd-Web-Application | [Repositorio](https://github.com/Arquitectura-Software-2023/TastyPoint-FrontEnd-Web-Application) |
+| Aplicacion Web - Backend | Web-Services-TastyPoint             | [Repositorio](https://github.com/Arquitectura-Software-2023/Web-Services-TastyPoint) |
 | Aplicacion VR |              |  |
 
 ### 7.1.3. Source Code Style Guide & Conventions
@@ -1534,8 +1535,8 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 |---------------------------|--------------------------------------|
 | Proyecto                  | [Github](https://github.com)         |
 | Landing Page              | [Azure](https://azure.microsoft.com) |
-| Aplicacion Web - Frontend | |
-| Aplicacion Web - Backtend | |
+| Aplicacion Web - Frontend |[Netlify](https://netlify.com) |
+| Aplicacion Web - Backtend |[Azure](https://azure.microsoft.com) |
 | Aplicacion VR | [Unity](https://unity.com/) |
 
 ## 7.2. Solution Implementation
@@ -1553,13 +1554,13 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 
 #### 7.2.1.2. Sprint Backlog 1
 
-#### Sprint Backlog 1 Consumer
+#### Sprint Backlog 1 Web Application
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | | | | | | | | |
 
-#### Sprint Backlog 1 Business
+#### Sprint Backlog 1 Mobile Application
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -1575,13 +1576,28 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 
 #### 7.2.1.3. Development Evidence for Sprint Review
 
-#### Sprint Backlog 1 Development Evidence Consumer
+#### Sprint Backlog 1 Development Evidence Web Application
 
 | Repositorio | Commit | Mensaje | Autor |
 |-------------|-------------|-------------|-------------|
-| | | | |
+|TastyPoint-FrontEnd-Web-Application|a470f5737dae15a63a0080aea951bc398af104c4 |Added Web Application, currently missing features | Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |0379cc63d954d4fa82a0dd7381dcfd2a569f552a |Added Layout Segment |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |2542129dcb4ff17f51db920d04c20e35c42b2224 |Added Layout |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |696ce9bb78812e9521b8e084e503ac532542eef5 |Added Orders component |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |69a58e3e6e8c1d938b34d077c80e40d3e597f091 |Added Profile |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |38f092cc28157843bf12b4966efafc3f135db803 |added security |Claudia Rozas |
+|TastyPoint-FrontEnd-Web-Application |73842ea48ff9220629ef0462928c4ba10524c765 |added selling |Claudia Rozas |
+|TastyPoint-FrontEnd-Web-Application |2e21e5ed70651353dc83ca0daa3262e9b951ab87 |Added Publishing |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |4d53fb3046adf4e08ad4bfe3ad35bfc25c72223b |added selling |Claudia Rozas |
+|TastyPoint-FrontEnd-Web-Application |885b8946b84a9c25a23d421dff403563e76d2323 |added shared | Claudia Rozas|
+|TastyPoint-FrontEnd-Web-Application |ede4361d9f255c6039cb4e6fba140dc981e40be7 |added social |Claudia Rozas |
+|TastyPoint-FrontEnd-Web-Application |e1594fb0bffeffaf5fb09af99adacb7f30c8f37e |Fixed Routes |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |e97b5f65586ad8fe94619aa01c078a90811d6775 |Fixed routes and uses fake API |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |419c5538e26b57224ce5abe97e12899c30be2cb0 |Fixed styles for security to match with mock ups |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |249a54f1e60911a7a79c96837c97221ee2327ad4 |Added styles for consumers to match with mock ups |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |96773931332614fea1c26f7d7c523f645b1500c2 |Fixed settings for business, also added new styles | Andres Reynoso|
 
-#### Sprint Backlog 1 Development Evidence Business
+#### Sprint Backlog 1 Development Evidence Mobile Application
 
 | Repositorio | Commit | Mensaje | Autor |
 |-------------|-------------|-------------|-------------|
@@ -1626,11 +1642,11 @@ Para el sprint 1, solo se construyo la matriz de pruebas.
 
 #### 7.2.1.5. Execution Evidence for Sprint Review
 
-#### Sprint Backlog 1 Execution Evidence Consumer
+#### Sprint Backlog 1 Execution Evidence Web Application
 
 Execution
 
-#### Sprint Backlog 1 Execution Evidence Business
+#### Sprint Backlog 1 Execution Evidence Mobile Application
 
 Execution
 
@@ -1670,11 +1686,11 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 #### 7.2.1.7. Software Deployment Evidence for Sprint Review
 
-#### Sprint Backlog 1 Deployment Evidence Consumer
+#### Sprint Backlog 1 Deployment Evidence Web Application
 
 Documentation
 
-#### Sprint Backlog 1 Deployment Evidence Business
+#### Sprint Backlog 1 Deployment Evidence Mobile Application
 
 Documentation
 
