@@ -1787,6 +1787,10 @@ Deployment
 | Asistentes | Todo el equipo |
 | Resultados y Acuerdos | Revisamos el avance total del desarrollo, se encontraba en el 80% de lo comprometido |
 
+Commits in Web Aplication Repository:
+
+![image](https://media.discordapp.net/attachments/973358848159133696/1169810159938322502/image.png?ex=6556c19c&is=65444c9c&hm=f3ca90d21e891cda0447edd0fab65558e0cdecd6f98a7e7bdf40399697c395c8&=&width=1308&height=669)
+
 ## 7.3. Validation Interviews
 
 ### 7.3.1. Diseño de Entrevistas.
