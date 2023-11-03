@@ -1430,7 +1430,7 @@ En esta sección se presentarán los wireflows relacionados a los wireframes de 
 
 ### 6.4.3. Applications Mock-ups
 
-Mobile mock-ups(https://www.figma.com/file/87yjJhAfCGQ9awLcKsH7EG/mockuptasty?type=design&node-id=0%3A1&mode=design&t=kSFT1kq185livZVs-1):
+Mobile mock-ups(<https://www.figma.com/file/87yjJhAfCGQ9awLcKsH7EG/mockuptasty?type=design&node-id=0%3A1&mode=design&t=kSFT1kq185livZVs-1>):
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/7b3e9571-e40b-4807-8175-6444cae3b9c0?width=1198&height=669)
 
@@ -1442,7 +1442,7 @@ Mobile mock-ups(https://www.figma.com/file/87yjJhAfCGQ9awLcKsH7EG/mockuptasty?ty
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/e9ac55f9-06c0-4183-b602-27683fb3cf3a?width=1198&height=369)
 
-Desktop Web Applications: https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Wireframes-TastyPoint?type=design&node-id=34-2&mode=design&t=KtxNjkLC11IMyY4J-0
+Desktop Web Applications: <https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Wireframes-TastyPoint?type=design&node-id=34-2&mode=design&t=KtxNjkLC11IMyY4J-0>
 
 ![image](https://media.discordapp.net/attachments/973358848159133696/1169776180254224414/image.png?ex=6556a1f6&is=65442cf6&hm=e03618d87a1de83eb1a138aae137d89bead3abe4fb04c8e5a94429dc823c3319&=&width=1056&height=669)
 
@@ -1458,10 +1458,9 @@ Desktop Web Applications: https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Wire
 
 ![image](https://media.discordapp.net/attachments/973358848159133696/1169777242654658631/image.png?ex=6556a2f4&is=65442df4&hm=0ba0d200c3d45188ee51b290392d631b4b235f9a6da860b4084bdf66180df77b&=&width=1380&height=630)
 
-
 ### 6.4.4. Applications User Flow Diagrams
 
-Mobile user flow diagrams(https://www.figma.com/file/hXXW0qrVtjezWIP9ub7pt4/Untitled?type=whiteboard&node-id=0%3A1&t=0nx6v5IW0oYnPtDf-1):
+Mobile user flow diagrams(<https://www.figma.com/file/hXXW0qrVtjezWIP9ub7pt4/Untitled?type=whiteboard&node-id=0%3A1&t=0nx6v5IW0oYnPtDf-1>):
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/2f7f877d-81b4-459e-9f67-3e70027be8c4?width=1198&height=680)
 
@@ -1473,14 +1472,13 @@ Mobile user flow diagrams(https://www.figma.com/file/hXXW0qrVtjezWIP9ub7pt4/Unti
 
 ## 6.5. Applications Prototyping
 
-Link del prototipo: https://www.figma.com/proto/87yjJhAfCGQ9awLcKsH7EG/mockuptasty?type=design&node-id=501-2&t=tpCLr4biP864FRLh-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=501%3A2&mode=design
+Link del prototipo: <https://www.figma.com/proto/87yjJhAfCGQ9awLcKsH7EG/mockuptasty?type=design&node-id=501-2&t=tpCLr4biP864FRLh-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=501%3A2&mode=design>
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/3b74fc8d-a6ee-4456-a95b-40d871ac668f?width=1198&height=369)
 
-Link del prototipo web: https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Wireframes-TastyPoint?type=design&node-id=34-2&mode=design&t=kmavh7ADmLwmhtSq-0
+Link del prototipo web: <https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Wireframes-TastyPoint?type=design&node-id=34-2&mode=design&t=kmavh7ADmLwmhtSq-0>
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/719f4876-e116-40a4-b0b6-70aa8f511728)
-
 
 ## Capítulo VII: Product Implementation, Validation & Deployment
 
@@ -1504,6 +1502,7 @@ Usaremos un set de herramientas que nos permitiran desarrollar las distitas solu
 
 - [ASP.Net 6 LTS](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks)
 - [Vue 3](https://vuejs.org/)
+- [Dart](https://dart.dev/)
 
 **Engines:**
 
@@ -1516,6 +1515,7 @@ Usaremos un set de herramientas que nos permitiran desarrollar las distitas solu
 **Control de versiones:**
 
 - [Git](https://git-scm.com/)
+- [Github](https://github.com)
 
 ### 7.1.2. Source Code Management
 
@@ -1528,11 +1528,11 @@ Par nuestro control de versiones usaremos [Git](https://git-scm.com/). Asimismo,
 | Aplicacion Web - Frontend | TastyPoint-FrontEnd-Web-Application | [Repositorio](https://github.com/Arquitectura-Software-2023/TastyPoint-FrontEnd-Web-Application) |
 | Aplicacion Web - Backend | Web-Services-TastyPoint             | [Repositorio](https://github.com/Arquitectura-Software-2023/Web-Services-TastyPoint) |
 | Aplicacion Móvil - Frontend | Mobile-App             | [Repositorio](https://github.com/Arquitectura-Software-2023/Mobile-App) |
-| Aplicacion VR |              |  |
+| Aplicacion VR | TastyPoint_VR_Project  | [Repositorio](https://github.com/Arquitectura-Software-2023/TastyPoint_VR_Project) |
 
 ### 7.1.3. Source Code Style Guide & Conventions
 
-Para nuestro Code Style, optamos por escoger los lineamientos de [Google](https://google.github.io/styleguide/). Esta decision fue tomada pues el equipo ya ha trabajdo anteriormente con esta guia de estimos.Asimismo, debido a la relevancia de esta guia de estilo, existen muchas herramientas que se encargan de asegurar que se cumpla atravez de linters y style checkers. Esto facilitada nuestra implementacion de nuestro pipeline de integracion continua. Finalmente, durante el desarrollo, agregaremos reglas especiales que solo se aplican a nuestro proyecto.
+Para nuestro Code Style, optamos por escoger los lineamientos de [Google](https://google.github.io/styleguide/). Esta decision fue tomada pues el equipo ya ha trabajdo anteriormente con esta guia de estimos. Asimismo, debido a la relevancia de esta guia de estilo, existen muchas herramientas que se encargan de asegurar que se cumpla atravez de linters y style checkers. Esto facilitada nuestra implementacion de nuestro pipeline de integracion continua. Finalmente, durante el desarrollo, agregaremos reglas especiales que solo se aplican a nuestro proyecto.
 
 ### 7.1.4. Software Deployment Configuration
 
@@ -1542,8 +1542,8 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 |---------------------------|--------------------------------------|
 | Proyecto                  | [Github](https://github.com)         |
 | Landing Page              | [Azure](https://azure.microsoft.com) |
-| Aplicacion Web - Frontend |[Netlify](https://netlify.com) |
-| Aplicacion Web - Backtend |[Azure](https://azure.microsoft.com) |
+| Aplicacion Web - Frontend | [Netlify](https://netlify.com) |
+| Aplicacion Web - Backtend | [Azure](https://azure.microsoft.com) |
 | Aplicacion VR | [Unity](https://unity.com/) |
 
 ## 7.2. Solution Implementation
@@ -1582,7 +1582,7 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 | US17 | Ver pedidos |Como cliente quiero ver la lista de pedidos solicitados en mi restaurante, para conocer la demanda a través de la App web. | Dado que el cliente ha iniciado sesión, se encuentra en la ventana principal de Tasty point y hace clic en la sección “Órdenes”, cuando el cliente se encuentre en dicha sección, entonces aparecerá una lista con los nombres de los consumidores que realizaron un pedido en específico con fecha, hora y cantidad ordenada. | El cliente ingresa al registro de pedidos. |Claudia Rozas| 3 | In Progress|
 | US18 | Ver el catálogo de platos e insumos | Como cliente quiero ver el catálogo actual de platos e insumos ofrecidos por mi establecimiento para corroborar que los datos de la App coincidan con mi inventario. | CA1: Dado que el cliente ha iniciado sesión, se encuentra en la lista de opciones ofrecida de Tasty point y desea revisar su catálogo. Cuando el cliente seleccione la opción "Catálogo". Entonces la aplicación mostrará la totalidad de platos e insumos registrados por el cliente, junto a datos pertinentes como: la cantidad actual, reservas hechas y tipo de recojo o envío disponible. CA2: Dado que el cliente se encuentra en la lista de platos e insumos disponibles ofrecidos por su establecimiento, y desea ver sólo los platos o insumos ofrecidos por su establecimiento. Cuando el cliente seleccione la opción filtro y elija la opción “platos” o “insumos”. Entonces la aplicación listará solo platos o solo insumos (dependiendo de la opción del cliente) junto a sus datos pertinentes. | E1: El cliente elige la opción catálogo. E2: El cliente elige ver solo platos o solo insumos del catálogo. |Claudia Rozas| 3 | In Progress|
 | US19 | Abrir vista de consumidor | Como cliente quiero contar con la vista de consumidor para asegurar que mis productos se vean atractivos para los consumidores. | Dado que el cliente se encuentra en la ventana “Catálogo”, Cuando el cliente presione la opción: “Vista de consumidor”. Entonces la aplicación mostrará la ventana “Vista de consumidor” con los productos organizados de la forma en las que se le presenta al cliente. | El cliente ingresa a “vista de consumidor” |Andres Reynoso| 3 | Done|
-| US22 | Poder leer los comentarios de los usuarios. | Como cliente quiero leer el feedback de los comensales para mejorar. | Dado que el cliente se encuentra dentro de la ventana “Reseñas de consumidores” cuando se dirige al área de opiniones, entonces puede leer los comentarios de los consumidores. | El cliente entra en la sección de consumidores y visualiza quiénes han hecho comentarios.| Andres Reynoso| 3 | In Progress| 
+| US22 | Poder leer los comentarios de los usuarios. | Como cliente quiero leer el feedback de los comensales para mejorar. | Dado que el cliente se encuentra dentro de la ventana “Reseñas de consumidores” cuando se dirige al área de opiniones, entonces puede leer los comentarios de los consumidores. | El cliente entra en la sección de consumidores y visualiza quiénes han hecho comentarios.| Andres Reynoso| 3 | In Progress|
 
 #### Sprint Backlog 1 Landing Page
 
@@ -1620,6 +1620,12 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 | Repositorio | Commit | Mensaje | Autor |
 |-------------|-------------|-------------|-------------|
 |Mobile-App|71b6ef070860d01b4a5d33c3ab13abd13cf431b8|added mobile app|David Torres|
+
+#### Sprint Backlog 1 Development Evidence VR Application
+
+| Repositorio | Commit | Mensaje | Autor |
+|-------------|-------------|-------------|-------------|
+|TastyPoint_VR_Project|797d05eb527d92ac237315e99a88960abaac52be|Add files via upload|Marco Mendoza|
 
 #### Sprint Backlog 1 Development Evidence Landing Page
 
@@ -1673,15 +1679,35 @@ Para el sprint 1, solo se construyo la matriz de pruebas.
 
 #### Sprint Backlog 1 Execution Evidence Web Application
 
-![image](https://media.discordapp.net/attachments/973358848159133696/1169810425639084124/image.png?ex=6556c1db&is=65444cdb&hm=f2ed9a3c0121d746e24f86d3de5357fef2fc7ce528ad8c5d6eed4daaee598611&=&width=961&height=669)
+![Web Execution](https://media.discordapp.net/attachments/973358848159133696/1169810425639084124/image.png?ex=6556c1db&is=65444cdb&hm=f2ed9a3c0121d746e24f86d3de5357fef2fc7ce528ad8c5d6eed4daaee598611&=&width=961&height=669)
+
+Commits in Web Aplication Repository:
+
+![Web Commits](https://media.discordapp.net/attachments/973358848159133696/1169810159938322502/image.png?ex=6556c19c&is=65444c9c&hm=f3ca90d21e891cda0447edd0fab65558e0cdecd6f98a7e7bdf40399697c395c8&=&width=1308&height=669)
 
 #### Sprint Backlog 1 Execution Evidence Mobile Application
 
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/028e593b-9c9b-46b6-b3e9-0e5565d914f3&width=961&height=669)
+![Mobile Execution](Images/sprint-1-mobile-execution-1.png)
+
+Commits in Mobile Aplication Repository:
+
+![Mobile Commits](images/sprint-1-mobile-commits-1.png)
+
+#### Sprint Backlog 1 Execution Evidence VR Application
+
+![VR Execution](Images/sprint-1-vr-execution-1.png)
+
+Commits in VR Aplication Repository:
+
+![VR Commits](Images/sprint-1-vr-commits-1.png)
 
 #### Sprint Backlog 1 Execution Evidence Landing Page
 
-!(Landing Execution)[Images/sprint-1-landing-execution-1.png]
+![Landing Execution](Images/sprint-1-landing-execution-1.png)
+
+Commits in Landing Page Repository:
+
+![Landing Commits](Images/sprint-1-landing-commits-1.png)
 
 #### 7.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1754,12 +1780,12 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 #### Sprint Backlog 1 Deployment Evidence Web Application
 
-Para desarrollar el deployment del Web Application, se ha usado Netlify, debido a su facilidad de uso. Para el despliegue simplemente se vinculo el repositorio de GitHub con el programa y automaticamente te deja el enlace. 
+Para desarrollar el deployment del Web Application, se ha usado Netlify, debido a su facilidad de uso. Para el despliegue simplemente se vinculo el repositorio de GitHub con el programa y automaticamente te deja el enlace.
 
 Debido a que se uso el fake API en este sprint, se tendra que despleagar el json de forma local.
 ![image](https://media.discordapp.net/attachments/973358848159133696/1169813031270748240/image.png?ex=6556c448&is=65444f48&hm=ce252caace8fe53d2333b3e00bb0aeb970d8c79b0514f47a96113bfba94f9515&=&width=1190&height=669)
 
-A continuacion podemos observar que la aplicacion se ha desplegado de forma correcta: 
+A continuacion podemos observar que la aplicacion se ha desplegado de forma correcta:
 
 ![image](https://media.discordapp.net/attachments/973358848159133696/1169814061693808670/image.png?ex=6556c53e&is=6544503e&hm=77a3b59e693ea73861b3ad39d7f68259ba4838c259b332c5a279bf09fa27bd13&=&width=1190&height=669)
 
@@ -1768,6 +1794,12 @@ Enlace desplegado: [https://tastypoint.netlify.app](https://tastypoint.netlify.a
 #### Sprint Backlog 1 Deployment Evidence Mobile Application
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/5f315ff4-5bbb-4569-a512-6feac90fb087&height=600)
+
+#### Sprint Backlog 1 Deployment Evidence VR Application
+
+![Menu](Images/sprint-1-vr-deployment-1.png)
+![Store inside 1](Images/sprint-1-vr-deployment-2.png)
+![Store inside 2](Images/sprint-1-vr-deployment-3.png)
 
 #### Sprint Backlog 1 Deployment Evidence Landing Page
 
@@ -1794,42 +1826,39 @@ Deployment
 | Asistentes | Todo el equipo |
 | Resultados y Acuerdos | Revisamos el avance total del desarrollo, se encontraba en el 80% de lo comprometido |
 
-Commits in Web Aplication Repository:
-
-![image](https://media.discordapp.net/attachments/973358848159133696/1169810159938322502/image.png?ex=6556c19c&is=65444c9c&hm=f3ca90d21e891cda0447edd0fab65558e0cdecd6f98a7e7bdf40399697c395c8&=&width=1308&height=669)
 
 ## 7.3. Validation Interviews
 
-### 7.3.1. Diseño de Entrevistas.
+### 7.3.1. Diseño de Entrevistas
 
 **Consumidor:**
 
 Buenos días, me presento, soy ( ) y pertenezco a la carrera de Ingeniería de Software de la UPC. Gracias por acceder a la entrevista, y antes de comenzar con las preguntas, realizaré una breve introducción a nuestro proyecto. Este tiene por nombre Tasty Point y se basa en la distribución de los productos que los establecimientos alimenticios, no llegan a vender durante su jornada. Usted como consumidor, podrá comprar estos productos a través de nuestra aplicación a un menor precio, pero agrupados en paquetes, en la cual se encontrarán los productos de cierto restaurante específico. Dicho esto, comencemos con las validaciones.
 
-	1. ¿Cuál es su nombre completo?
+ 1. ¿Cuál es su nombre completo?
 
-	2. ¿Cuántos años tiene?
+ 2. ¿Cuántos años tiene?
 
-	3. Preguntas relacionadas a las funcionalidades de la aplicación, y basadas en las historias de usuario relacionadas al consumidor.
+ 3. Preguntas relacionadas a las funcionalidades de la aplicación, y basadas en las historias de usuario relacionadas al consumidor.
 
-	4. ¿Tiene alguna recomendación con respecto a nuestra aplicación?
+ 4. ¿Tiene alguna recomendación con respecto a nuestra aplicación?
 
 **Representante de negocio:**
 
 Buenos días, me presento, soy ( ) y pertenezco a la carrera de Ingeniería de Software de la UPC. Gracias por acceder a la entrevista, y antes de comenzar con las preguntas, realizaré una breve introducción a nuestro proyecto. Este tiene por nombre Tasty Point y se basa en la distribución de los productos que los establecimientos alimenticios, no llegan a vender durante su jornada.Por lo que pueden estos establecimientos generar ganancias adicionales con los alimentos que ya habian sido considerado perdidas, asimismo, ayudar a cuidar el planeta disminuyendo el desperdicio de alimentos. Dicho esto, comencemos con las validaciones.
 
-	1. ¿Cuál es su nombre completo?
+ 1. ¿Cuál es su nombre completo?
 
-	2. ¿Cuántos años tiene?
+ 2. ¿Cuántos años tiene?
 
-	3. Preguntas relacionadas a las funcionalidades de la aplicación, y basadas en las historias de usuario relacionadas al cliente.
+ 3. Preguntas relacionadas a las funcionalidades de la aplicación, y basadas en las historias de usuario relacionadas al cliente.
 
-	4. ¿Tiene alguna recomendación con respecto a nuestra aplicación?
+ 4. ¿Tiene alguna recomendación con respecto a nuestra aplicación?
 
 ### 7.3.2. Registro de Entrevistas
 
 Entrevista Alejandro Rojas
-Enlace: https://youtu.be/d76nc7US9HE
+Enlace: <https://youtu.be/d76nc7US9HE>
 Resumen: Alejandro nos ha comentado que le gusta la primera version de nuestro proyecto, nos indica que algunas secciones estan algo llenas de blanco pero que en general le agrada la paleta de colores y lo intuitiva que es la aplicacion. Por ultimo, nos menciona que no agregaria mas funcionalidades a las que ya se estaran implementando.
 
 ### 7.3.3. Evaluaciones segun Heuristicas
@@ -1838,8 +1867,8 @@ Resumen: Alejandro nos ha comentado que le gusta la primera version de nuestro p
 
 A continuacion se demostrara un video explicando el primer prototipo de nuestro producto
 
-Enlace: https://youtu.be/xSLxkfcY4LA
+Enlace: <https://youtu.be/xSLxkfcY4LA>
 
 Mobile application:
 
-Enlace: https://youtu.be/YOeIcXoFzvI?si=I4J_rd0ml0Z-C-ku
+Enlace: <https://youtu.be/YOeIcXoFzvI?si=I4J_rd0ml0Z-C-ku>
