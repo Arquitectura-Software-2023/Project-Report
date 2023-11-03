@@ -1638,7 +1638,13 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| | | | | | | |
+| T1 | US01 | Creacion de usuario, email y password  | 1. Navegar a la aplicacion. 2. Ir a la seccion de sign in | El usuario deberia de crearse una cuenta | Andres Reynoso | Done |
+| T2 | US02 | Visualizacion de pagina de perfil | 1. Registrarse en la aplicacion. 2. Ir a Settings | El usuario deberia de visualizar la seccion de modificar perfil | Andres Reynoso | In Progress |
+| T3 | US03 | Cerrar Sesion de usuario | 1. Ir a la seccion de Sign Out. 2. Aceptar el mensaje | El usuario deberia de poder cerrar sesion con normalidad | Claudia Rozas | In Progress |
+| T4 | US05 | Verificacion de Notificaciones | 1. Iniciar Sesion. 2. Ir a la seccion de Notifications | El usuario deberia de ver las notificaciones | Andres Reynoso | Done |
+| T5 | US06 | Marcar como favorito  | 1. Ir a la lista. 2. Darle click al corazon al lado del producto.| El usuario deberia de tener la opcion de marcar como favoritos | Claudia Rozas | In Progress |
+| T6 | US07 | Verificacion de Productos Publicados | 1. Iniciar Sesion. 2. Ir a la seccion de List| El usuario deberia de visualizar los productos que estan publicados | Claudia Rozas | In Progress |
+| T7 | US09 | Desarrollo de comentario| 1. El usuario va a la pagina de un restaurante. 2. Escribe su comentario debajo del perfil. | El usuario deberia de poder dejar su comentario en la pagina del restaurante | Claudia Rozas | In Progress |
 
 #### Sprint Backlog 1 Testing Suite Evidence Business
 
