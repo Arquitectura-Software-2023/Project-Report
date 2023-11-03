@@ -1710,7 +1710,16 @@ Para el sprint 1 solo se logro desarrollar la matriz de documentos.
 
 #### Sprint Backlog 1 Deployment Evidence Web Application
 
-Documentation
+Para desarrollar el deployment del Web Application, se ha usado Netlify, debido a su facilidad de uso. Para el despliegue simplemente se vinculo el repositorio de GitHub con el programa y automaticamente te deja el enlace. 
+
+Debido a que se uso el fake API en este sprint, se tendra que despleagar el json de forma local.
+![image](https://media.discordapp.net/attachments/973358848159133696/1169813031270748240/image.png?ex=6556c448&is=65444f48&hm=ce252caace8fe53d2333b3e00bb0aeb970d8c79b0514f47a96113bfba94f9515&=&width=1190&height=669)
+
+A continuacion podemos observar que la aplicacion se ha desplegado de forma correcta: 
+
+![image](https://media.discordapp.net/attachments/973358848159133696/1169814061693808670/image.png?ex=6556c53e&is=6544503e&hm=77a3b59e693ea73861b3ad39d7f68259ba4838c259b332c5a279bf09fa27bd13&=&width=1190&height=669)
+
+Enlace desplegado: [https://tastypoint.netlify.app](https://tastypoint.netlify.app/)
 
 #### Sprint Backlog 1 Deployment Evidence Mobile Application
 
