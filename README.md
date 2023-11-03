@@ -1743,7 +1743,33 @@ Deployment
 
 ## 7.3. Validation Interviews
 
-### 7.3.1. Registro de Entrevistas
-### 7.3.2. Evaluaciones segun Heuristicas
+### 7.3.1. Diseño de Entrevistas.
+
+**Consumidor:**
+
+Buenos días, me presento, soy ( ) y pertenezco a la carrera de Ingeniería de Software de la UPC. Gracias por acceder a la entrevista, y antes de comenzar con las preguntas, realizaré una breve introducción a nuestro proyecto. Este tiene por nombre Tasty Point y se basa en la distribución de los productos que los establecimientos alimenticios, no llegan a vender durante su jornada. Usted como consumidor, podrá comprar estos productos a través de nuestra aplicación a un menor precio, pero agrupados en paquetes, en la cual se encontrarán los productos de cierto restaurante específico. Dicho esto, comencemos con las validaciones.
+
+	1. ¿Cuál es su nombre completo?
+
+	2. ¿Cuántos años tiene?
+
+	3. Preguntas relacionadas a las funcionalidades de la aplicación, y basadas en las historias de usuario relacionadas al consumidor.
+
+	4. ¿Tiene alguna recomendación con respecto a nuestra aplicación?
+
+**Representante de negocio:**
+
+Buenos días, me presento, soy ( ) y pertenezco a la carrera de Ingeniería de Software de la UPC. Gracias por acceder a la entrevista, y antes de comenzar con las preguntas, realizaré una breve introducción a nuestro proyecto. Este tiene por nombre Tasty Point y se basa en la distribución de los productos que los establecimientos alimenticios, no llegan a vender durante su jornada.Por lo que pueden estos establecimientos generar ganancias adicionales con los alimentos que ya habian sido considerado perdidas, asimismo, ayudar a cuidar el planeta disminuyendo el desperdicio de alimentos. Dicho esto, comencemos con las validaciones.
+
+	1. ¿Cuál es su nombre completo?
+
+	2. ¿Cuántos años tiene?
+
+	3. Preguntas relacionadas a las funcionalidades de la aplicación, y basadas en las historias de usuario relacionadas al cliente.
+
+	4. ¿Tiene alguna recomendación con respecto a nuestra aplicación?
+
+### 7.3.2. Registro de Entrevistas
+### 7.3.3. Evaluaciones segun Heuristicas
 
 ## 7.4. Video About the Product
