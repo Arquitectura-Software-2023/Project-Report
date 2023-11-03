@@ -51,6 +51,7 @@ Ciclo:
 | 7.0 | 26/09/2023 | Adrian Marquina | Puntos faltantes del TP (landing page wireframes, landing page, style guidelines, indices, outcomes, formateo y estilos) |
 | 8.0 | 31/10/2023 | Claudia Rozas | Diseño de mock-ups de la aplicación web y desarrollo del mismo |
 | 9.0 | 31/10/2023 | David Torres Vilchez  | Mobile User Flows y desarrollo de la mobile app|
+| 10.0 | 03/11/2023 | Adrian Marquina  | Punto 7 y sprint 1, incluido placeholders, landing page y otros|
 
 ## Project Report Collaboration Insights
 
@@ -215,8 +216,8 @@ Ciclo:
 | Andres Christian Reynoso | **Acciones:** El desarrollo de mockups y programacion web nos ayudan a desarrollar los primeros pasos de nuestra aplicacion. **Conclusiones:** El objetivo de este primer sprint es poder desarrollar la aplicacion que se ha estado planificando por mucho tiempo. |  **Acciones:** El desarrollo temprano de nuestra aplicacion nos ayudan a ver puntos por corregir y que cosas no funcionan a diferencia de nuestros mock ups. **Conclusiones:** Gracias a esto nos ayuda a mejorar nuestro proyecto y facilitar su uso para nuestros usuarios |  **Acciones:** La comunicacion y coordinacion efectiva con mi equipo fue fundamental para dividirnos las aplicaciones. **Conclusiones:** La organización del equipo nos ayudo a realizar un mayor avance del trabajo a lo planificado oficialmente. |
 | David Torres Vilchez | **Acciones:** Realice las tareas asignadas a mi persona dentro del sprint. **Conclusiones:** El uso de figma para realizar el diseño de la aplicación en entornos colaborativos es de gran ayuda para la organización del equipo|  **Acciones:** Realice los user flows del apartado mobile de la aplicación junto con el desarrollo de la versión móvil **Conclusiones:** Tener un buen conocimiento de la estructura del negocio aporta en la experiencia del usuario. |  **Acciones:** Se realizaron reuniones constantes en equipo para planificar los objetivos del sprint **Conclusiones:** La comunicación dentro del equipo de desarrollo es fundamental. |
 | Claudia Rozas | **Acciones:** Se desarrolló los mock-ups de la aplicación web **Conclusiones:** Es bueno trabajar en equipo para que se pueda llegar a una conclusión|  **Acciones:** Se diseñó la aplicación web **Conclusiones:** Con ayuda de un compañero, se pudo lograr el despliegue|  **Acciones:** Se buscó nueva información de cómo levantar la aplicación web **Conclusiones:** La investigación y el compañerismo es buen aliado |
-| Adrian Marquina | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
-| Marco Mendoza Rodriguez | **Acciones: Me encargupe de desarrollar el prototipo VR, a su vez contribuí con ideas aprendidas en el curso para el desarrollo de Tasty Point** **Conclusiones: Elaborar reuniones y una comunicación entre mis compañeros contribuyó a lograr grandes beneficios y buen desempeño en el equipo** |  **Acciones: Con el prototipo buscamos comercializar productos y evitar el desperdicio, buscamos usar tecnologias emergentes con el afan de vender** **Conclusiones: Aprender nuevas tecnologias emergentes benefica a gran media el sector industrial y comercial** |  **Acciones: Nos comuniquemos por Discort y canales como WhatsApp y Google Meet** **Conclusiones: La responsabilidad y el compromiso de todos fue evidente para obtener grandes beneficios** |
+| Adrian Marquina | **Acciones:** Me encarge de elaborar el landing page, tambien de organizar al equipo durante el sprint. **Conclusiones:** Logramos como equipo establecer las ceremonias y participar en ellas. Asimismo, complete mi compromiso del sprint 1. |  **Acciones:** Me encarge de desplegar el landing page y habilitar los recursos para el web app en Azure. **Conclusiones:** Logre desplegar el landing page configurando un pipeline de Ci/CD con github actios, asimismo, se elaboro el primer appraco para el pipeline de CI/CD de web app. |  **Acciones:** Participe en las ceremonias establecidas con el equipo. **Conclusiones:** Logramos dejar un registro de nuestras ceremonias incluido la participacion y decisiones tomadas. |
+| Marco Mendoza Rodriguez | **Acciones:**  Me encargupe de desarrollar el prototipo VR, a su vez contribuí con ideas aprendidas en el curso para el desarrollo de Tasty Point. **Conclusiones:** Elaborar reuniones y una comunicación entre mis compañeros contribuyó a lograr grandes beneficios y buen desempeño en el equipo. |  **Acciones:** Con el prototipo buscamos comercializar productos y evitar el desperdicio, buscamos usar tecnologias emergentes con el afan de vender. **Conclusiones:** Aprender nuevas tecnologias emergentes benefica a gran media el sector industrial y comercial. |  **Acciones:** Nos comuniquemos por Discort y canales como WhatsApp y Google Meet. **Conclusiones:** La responsabilidad y el compromiso de todos fue evidente para obtener grandes beneficios. |
 
 ## Capítulo I: Introducción
 
@@ -1842,8 +1843,8 @@ Buenos días, me presento, soy ( ) y pertenezco a la carrera de Ingeniería de S
  3. En general, ¿Que te ha parecido nuestra aplicacion?
 
  4. ¿Le gusta la paleta de colores utilizadas?
-    
- 5.  ¿Cree que cumple con el proposito de ayudar a los consumidores?
+
+ 5. ¿Cree que cumple con el proposito de ayudar a los consumidores?
 
  6. ¿Tiene alguna recomendación con respecto a nuestra aplicación?
 
@@ -1858,7 +1859,7 @@ Buenos días, me presento, soy ( ) y pertenezco a la carrera de Ingeniería de S
  3. En general, ¿Que te ha parecido nuestra aplicacion?
 
  4. ¿Le gusta la paleta de colores utilizadas?
-    
+
  5. ¿Cree que cumple con el proposito de ayudar a los restaurantes?
 
  6. ¿Tiene alguna recomendación con respecto a nuestra aplicación?
@@ -1866,6 +1867,7 @@ Buenos días, me presento, soy ( ) y pertenezco a la carrera de Ingeniería de S
 ### 7.3.2. Registro de Entrevistas
 
 Entrevista Alejandro Rojas
+
 - Enlace: <https://youtu.be/d76nc7US9HE>
 - Resumen: Alejandro nos ha comentado que le gusta la primera version de nuestro proyecto, nos indica que algunas secciones estan algo llenas de blanco pero que en general le agrada la paleta de colores y lo intuitiva que es la aplicacion. Por ultimo, nos menciona que no agregaria mas funcionalidades a las que ya se estaran implementando.
 
