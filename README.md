@@ -212,7 +212,7 @@ Ciclo:
 |-----------|-----------|-----------|-----------|
 | Andres Christian Reynoso | **Acciones:** El desarrollo de mockups y programacion web nos ayudan a desarrollar los primeros pasos de nuestra aplicacion. **Conclusiones:** El objetivo de este primer sprint es poder desarrollar la aplicacion que se ha estado planificando por mucho tiempo. |  **Acciones:** El desarrollo temprano de nuestra aplicacion nos ayudan a ver puntos por corregir y que cosas no funcionan a diferencia de nuestros mock ups. **Conclusiones:** Gracias a esto nos ayuda a mejorar nuestro proyecto y facilitar su uso para nuestros usuarios |  **Acciones:** La comunicacion y coordinacion efectiva con mi equipo fue fundamental para dividirnos las aplicaciones. **Conclusiones:** La organización del equipo nos ayudo a realizar un mayor avance del trabajo a lo planificado oficialmente. |
 | David Torres Vilchez | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
-| Claudia Rozas | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| Claudia Rozas | **Acciones:** Se desarrolló los mock-ups de la aplicación web **Conclusiones:** Es bueno trabajar en equipo para que se pueda llegar a una conclusión|  **Acciones:** Se diseñó la aplicación web **Conclusiones:** Con ayuda de un compañero, se pudo lograr el despliegue|  **Acciones:** Se buscó nueva información de cómo levantar la aplicación web **Conclusiones:** La investigación y el compañerismo es buen aliado |
 | Adrian Marquina | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
 | Marco Mendoza Rodriguez | **Acciones: Me encargupe de desarrollar el prototipo VR, a su vez contribuí con ideas aprendidas en el curso para el desarrollo de Tasty Point** **Conclusiones: Elaborar reuniones y una comunicación entre mis compañeros contribuyó a lograr grandes beneficios y buen desempeño en el equipo** |  **Acciones: Con el prototipo buscamos comercializar productos y evitar el desperdicio, buscamos usar tecnologias emergentes con el afan de vender** **Conclusiones: Aprender nuevas tecnologias emergentes benefica a gran media el sector industrial y comercial** |  **Acciones: Nos comuniquemos por Discort y canales como WhatsApp y Google Meet** **Conclusiones: La responsabilidad y el compromiso de todos fue evidente para obtener grandes beneficios** |
 
@@ -1474,6 +1474,10 @@ Mobile user flow diagrams(https://www.figma.com/file/hXXW0qrVtjezWIP9ub7pt4/Unti
 Link del prototipo: https://www.figma.com/proto/87yjJhAfCGQ9awLcKsH7EG/mockuptasty?type=design&node-id=501-2&t=tpCLr4biP864FRLh-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=501%3A2&mode=design
 
 ![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/3b74fc8d-a6ee-4456-a95b-40d871ac668f?width=1198&height=369)
+
+Link del prototipo web: https://www.figma.com/file/WbmwYMchV36UXVx5T9Q5Yn/Wireframes-TastyPoint?type=design&node-id=34-2&mode=design&t=kmavh7ADmLwmhtSq-0
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89096127/719f4876-e116-40a4-b0b6-70aa8f511728)
 
 
 ## Capítulo VII: Product Implementation, Validation & Deployment
