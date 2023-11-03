@@ -210,7 +210,7 @@ Ciclo:
 
 |  Criterio específico | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | Conocimientos de nuevos métodos de colaboración y comunicación |
 |-----------|-----------|-----------|-----------|
-| Andres Christian Reynoso | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| Andres Christian Reynoso | **Acciones:** El desarrollo de mockups y programacion web nos ayudan a desarrollar los primeros pasos de nuestra aplicacion. **Conclusiones:** El objetivo de este primer sprint es poder desarrollar la aplicacion que se ha estado planificando por mucho tiempo. |  **Acciones:** El desarrollo temprano de nuestra aplicacion nos ayudan a ver puntos por corregir y que cosas no funcionan a diferencia de nuestros mock ups. **Conclusiones:** Gracias a esto nos ayuda a mejorar nuestro proyecto y facilitar su uso para nuestros usuarios |  **Acciones:** La comunicacion y coordinacion efectiva con mi equipo fue fundamental para dividirnos las aplicaciones. **Conclusiones:** La organización del equipo nos ayudo a realizar un mayor avance del trabajo a lo planificado oficialmente. |
 | David Torres Vilchez | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
 | Claudia Rozas | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
 | Adrian Marquina | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
