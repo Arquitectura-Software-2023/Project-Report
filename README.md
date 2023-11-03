@@ -1527,6 +1527,7 @@ Par nuestro control de versiones usaremos [Git](https://git-scm.com/). Asimismo,
 | Landing Page              | TastyPoint-landing-page             | [Repositorio](https://github.com/Arquitectura-Software-2023/TastyPoint-landing-page) |
 | Aplicacion Web - Frontend | TastyPoint-FrontEnd-Web-Application | [Repositorio](https://github.com/Arquitectura-Software-2023/TastyPoint-FrontEnd-Web-Application) |
 | Aplicacion Web - Backend | Web-Services-TastyPoint             | [Repositorio](https://github.com/Arquitectura-Software-2023/Web-Services-TastyPoint) |
+| Aplicacion Móvil - Frontend | Mobile-App             | [Repositorio](https://github.com/Arquitectura-Software-2023/Mobile-App) |
 | Aplicacion VR |              |  |
 
 ### 7.1.3. Source Code Style Guide & Conventions
