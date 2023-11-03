@@ -214,7 +214,7 @@ Ciclo:
 | David Torres Vilchez | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
 | Claudia Rozas | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
 | Adrian Marquina | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
-| Marco Mendoza Rodriguez | **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |  **Acciones:** **Conclusiones:** |
+| Marco Mendoza Rodriguez | **Acciones: Me encargupe de desarrollar el prototipo VR, a su vez contribuí con ideas aprendidas en el curso para el desarrollo de Tasty Point** **Conclusiones: Elaborar reuniones y una comunicación entre mis compañeros contribuyó a lograr grandes beneficios y buen desempeño en el equipo** |  **Acciones: Con el prototipo buscamos comercializar productos y evitar el desperdicio, buscamos usar tecnologias emergentes con el afan de vender** **Conclusiones: Aprender nuevas tecnologias emergentes benefica a gran media el sector industrial y comercial** |  **Acciones: Nos comuniquemos por Discort y canales como WhatsApp y Google Meet** **Conclusiones: La responsabilidad y el compromiso de todos fue evidente para obtener grandes beneficios** |
 
 ## Capítulo I: Introducción
 
