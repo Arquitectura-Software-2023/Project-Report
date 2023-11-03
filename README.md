@@ -1708,7 +1708,24 @@ Execution
 
 | ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
 |-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------|-------------------------------|
-| | | |  |  | | |
+| D22 | US11 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Sign In| Andres Reynoso |31/10/2023 |Pendiente |
+| D23 | US15 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección de Settings| Claudia Rozas |01/11/2023 |Pendiente |
+| D24 | US17 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Orders| Claudia Rozas |01/11/2023 |Pendiente |
+| D25 | US18 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Catalogue | Andres Reynoso |01/11/2023 |Pendiente |
+| D26 | US19 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Consumer View | Andres Reynoso | 29/10/2023 | Pendiente |
+| D27 | US22 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección del perfil de restaurante | Andres Reynoso | 31/10/2023 | Pendiente |
+| D28 | US11 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Sign In | Claudia Rozas | 02/11/2023 | Done |
+| D29 | US15 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Settings | Andres Reynoso | 02/11/2023 | Done |
+| D30 | US17 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Orders  | Andres Reynoso | 02/11/2023 | Done |
+| D31 | US18 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Catalogue | Claudia Rozas | 02/11/2023 | Done |
+| D32 | US19 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Consumer View | Claudia Rozas  | 02/11/2023 | Done |
+| D33 | US22 | Diseño de Interfaz | Documento con los mockups y diseños de la sección del perfil de restaurante | Claudia Rozas | 02/11/2023 | Done |
+| D34 | US11 | Manual de Usuario | Documento que guía al usuario en cómo utilizar el Sign In | Claudia Rozas | 31/10/2023 | Pendiente |
+| D35 | US15 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección Settings | Andres Reynoso | 01/11/2023 | Pendiente |
+| D36 | US17 | Manual de Usuario | Documento que guía al usuario en cómo utilizar Orders | Claudia Rozas | 31/10/2023 | Pendiente |
+| D37 | US18 | Manual de Usuario | Documento que guía al usuario en cómo ver la sección Catalogue | Claudia Rozas |  30/10/2023 | Pendiente |
+| D38 | US19 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección Consumer View | Claudia Rozas | 30/10/2023 | Pendiente |
+| D39 | US22 | Manual de Usuario | Documento que guía al usuario en cómo ver el perfil de restaurante | Andres Reynoso | 01/11/2023 | Pendiente |
 
 #### Sprint Backlog 1 Documentation Evidence Landing Page
 
