@@ -1826,6 +1826,11 @@ Buenos días, me presento, soy ( ) y pertenezco a la carrera de Ingeniería de S
 	4. ¿Tiene alguna recomendación con respecto a nuestra aplicación?
 
 ### 7.3.2. Registro de Entrevistas
+
+Entrevista Alejandro Rojas
+Enlace: https://youtu.be/d76nc7US9HE
+Resumen: Alejandro nos ha comentado que le gusta la primera version de nuestro proyecto, nos indica que algunas secciones estan algo llenas de blanco pero que en general le agrada la paleta de colores y lo intuitiva que es la aplicacion. Por ultimo, nos menciona que no agregaria mas funcionalidades a las que ya se estaran implementando.
+
 ### 7.3.3. Evaluaciones segun Heuristicas
 
 ## 7.4. Video About the Product
