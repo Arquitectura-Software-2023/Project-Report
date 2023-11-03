@@ -1645,7 +1645,12 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| | | | | | | |
+| T8 | US11 |Creacion de username, email y password | 1. Ingresa a la app. 2. Ir a la seccion de Register | El usuario deberia crearse su cuenta | Andres Reynoso | Done |
+| T9 | US15 | El usuario agrega sus redes como facebook | 1. El usuario se registra. 2. Va a settings. | El usuario agrega sus redes sociales | Andres Reynoso | In Progress |
+| T10 | US17 | Vista de los pedidos que otros usuarios han ordenado | 1. El usuario va a "Ordenes". 2. Se visualizaran los pedidos realizados por los clientes. | El usuario ingresa al registro de pedidos | Claudia Rozas | In Progress |
+| T11  | US18 | Visualizacion el catalogo de platos que hay | 1. El usuario ingresa a la aplicacion. 2. El usuario va a la seccion "Catalogo" | El usuario ve el catalogo de platos | Claudia Rozas | In Progress |
+| T12  | US19 | Visualizacion de vista de consumidor | 1. El usuario va a la seccion de "Catalogo". 2. El usuario presiona "Vista de consumidor" | El usuario ve la vista de consumidor | Andres Reynoso | Done |
+| T13  | US22 | Visualizacion de comentarios | 1. El usuario ve el perfil de su restaurante 2. El usuario ve los comentarios publicados | El usuario lee los comentarios de los usuarios | Andres Reynoso | In Progress |
 
 #### Sprint Backlog 1 Testing Suite Evidence Landing Page
 
