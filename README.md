@@ -1823,3 +1823,7 @@ Buenos días, me presento, soy ( ) y pertenezco a la carrera de Ingeniería de S
 ### 7.3.3. Evaluaciones segun Heuristicas
 
 ## 7.4. Video About the Product
+
+A continuacion se demostrara un video explicando el primer prototipo de nuestro producto
+
+Enlace: https://youtu.be/xSLxkfcY4LA
