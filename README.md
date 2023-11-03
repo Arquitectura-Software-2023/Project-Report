@@ -49,6 +49,7 @@ Ciclo:
 | 5.0 | 23/09/2023 | Claudia Rozas | Avance del capítulo 5 para la elaboración del TP |
 | 6.0 | 25/09/2023 | Andres Reynoso | Avance del capítulo 6 para la elaboración del TP |
 | 7.0 | 26/09/2023 | Adrian Marquina | Puntos faltantes del TP (landing page wireframes, landing page, style guidelines, indices, outcomes, formateo y estilos) |
+| 8.0 | 31/10/2023 | Claudia Rozas | Diseño de mock-ups de la aplicación web y desarrollo del mismo |
 
 ## Project Report Collaboration Insights
 
