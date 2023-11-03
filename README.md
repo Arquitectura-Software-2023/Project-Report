@@ -1767,7 +1767,7 @@ Enlace desplegado: [https://tastypoint.netlify.app](https://tastypoint.netlify.a
 
 #### Sprint Backlog 1 Deployment Evidence Mobile Application
 
-Documentation
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/5f315ff4-5bbb-4569-a512-6feac90fb087&height=600)
 
 #### Sprint Backlog 1 Deployment Evidence Landing Page
 
