@@ -1876,22 +1876,22 @@ Entrevista Alejandro Rojas
 Análisis de los errores identificados:
 
 •	Problema #1: La ubicación de las imágenes no es correcta, lo que provoca una falta de alineación entre las imágenes y el texto.
-•	Severidad: 4
-•	Heurística infringida: Usabilidad: Visibilidad del sistema
-•	Descripción: Durante las entrevistas, se observó que los usuarios señalaron este aspecto como una área que necesita mejoras, ya que la alineación entre el texto y las imágenes no es la adecuada. Por lo tanto, es fundamental abordar esta cuestión.
-•	Recomendación: Se aconseja ajustar el texto de manera que esté en armonía con las imágenes y se adapte correctamente a la pantalla.
+ •	Severidad: 4
+ •	Heurística infringida: Usabilidad: Visibilidad del sistema
+ •	Descripción: Durante las entrevistas, se observó que los usuarios señalaron este aspecto como una área que necesita mejoras, ya que la alineación entre el texto y las imágenes no es la adecuada. Por lo tanto, es fundamental abordar esta cuestión.
+ •	Recomendación: Se aconseja ajustar el texto de manera que esté en armonía con las imágenes y se adapte correctamente a la pantalla.
 
 •	Problema #2: Existe un exceso de espacio entre las imágenes y el texto.
-•	Severidad: 4
-•	Heurística infringida: Usabilidad: Visibilidad del sistema
-•	Descripción: El espacio que se encuentra dentro de este margen es esencial, ya que afecta la percepción de un diseño dinámico. En consecuencia, se requiere una alineación adecuada entre las imágenes y el texto.
-•	Recomendación: Es importante alinear las imágenes y aplicar un diseño que organice toda la información de forma ordenada.
+ •	Severidad: 4
+ •	Heurística infringida: Usabilidad: Visibilidad del sistema
+ •	Descripción: El espacio que se encuentra dentro de este margen es esencial, ya que afecta la percepción de un diseño dinámico. En consecuencia, se requiere una alineación adecuada entre las imágenes y el texto.
+ •	Recomendación: Es importante alinear las imágenes y aplicar un diseño que organice toda la información de forma ordenada.
 
 •	Problema #3: Los botones no están diseñados de acuerdo con el diseño general.
-•	Severidad: 4
-•	Heurística infringida: Usabilidad: Visibilidad del sistema
-•	Descripción: Los botones deben seguir una estructura que se adapte a todos los elementos interactivos del diseño.
-•	Recomendación: Se debe mejorar el llamado a la acción (call to action) para lograr una navegación más fluida y un diseño interactivo más efectivo.
+ •	Severidad: 4
+ •	Heurística infringida: Usabilidad: Visibilidad del sistema
+ •	Descripción: Los botones deben seguir una estructura que se adapte a todos los elementos interactivos del diseño.
+ •	Recomendación: Se debe mejorar el llamado a la acción (call to action) para lograr una navegación más fluida y un diseño interactivo más efectivo.
 
 
 ## 7.4. Video About the Product
