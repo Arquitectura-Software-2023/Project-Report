@@ -1873,6 +1873,27 @@ Entrevista Alejandro Rojas
 
 ### 7.3.3. Evaluaciones segun Heuristicas
 
+Análisis de los errores identificados:
+
+•	Problema #1: La ubicación de las imágenes no es correcta, lo que provoca una falta de alineación entre las imágenes y el texto.
+•	Severidad: 4
+•	Heurística infringida: Usabilidad: Visibilidad del sistema
+•	Descripción: Durante las entrevistas, se observó que los usuarios señalaron este aspecto como una área que necesita mejoras, ya que la alineación entre el texto y las imágenes no es la adecuada. Por lo tanto, es fundamental abordar esta cuestión.
+•	Recomendación: Se aconseja ajustar el texto de manera que esté en armonía con las imágenes y se adapte correctamente a la pantalla.
+
+•	Problema #2: Existe un exceso de espacio entre las imágenes y el texto.
+•	Severidad: 4
+•	Heurística infringida: Usabilidad: Visibilidad del sistema
+•	Descripción: El espacio que se encuentra dentro de este margen es esencial, ya que afecta la percepción de un diseño dinámico. En consecuencia, se requiere una alineación adecuada entre las imágenes y el texto.
+•	Recomendación: Es importante alinear las imágenes y aplicar un diseño que organice toda la información de forma ordenada.
+
+•	Problema #3: Los botones no están diseñados de acuerdo con el diseño general.
+•	Severidad: 4
+•	Heurística infringida: Usabilidad: Visibilidad del sistema
+•	Descripción: Los botones deben seguir una estructura que se adapte a todos los elementos interactivos del diseño.
+•	Recomendación: Se debe mejorar el llamado a la acción (call to action) para lograr una navegación más fluida y un diseño interactivo más efectivo.
+
+
 ## 7.4. Video About the Product
 
 A continuacion se demostrara un video explicando el primer prototipo de nuestro producto
@@ -1882,3 +1903,15 @@ Enlace: <https://youtu.be/xSLxkfcY4LA>
 Mobile application:
 
 Enlace: <https://youtu.be/YOeIcXoFzvI?si=I4J_rd0ml0Z-C-ku>
+
+## Conclusiones y Recomendaciones
+
+La startup Tasty Point se dedica a combatir el desperdicio de alimentos y venderlos a precios justos y más asequibles. Su idea está bien definida y cumple con los estándares del curso. Es importante destacar que el desarrollo del proyecto se inicia con una idea de negocio que tiene un impacto positivo a nivel global y se planean mejoras continuas para garantizar su éxito a largo plazo.
+
+Se recomienda continuar el desarrollo de la aplicación utilizando User Stories, ya que esto ayuda a definir claramente las características y requisitos, brindando una guía sólida para el proceso de desarrollo. Además, herramientas como el Product Backlog son útiles para organizar el tiempo de manera eficiente.
+
+Es esencial realizar un estudio más profundo del código del proyecto, especialmente la página de inicio, para mejorar la eficiencia y la comprensión del mismo. También se necesita un mayor compromiso y dedicación para abordar dudas e inquietudes, lo que puede ser una barrera para resolver problemas de manera efectiva.
+
+En esta entrega, se desarollo principalmente el frontend, validándolo con los usuarios y obteniendo recomendaciones para mejorar y realizar correcciones. Además, se avanzó en el desarrollo del backend para mejorar la usabilidad de la lógica del sitio web, y se espera implementar la mayoría de las recomendaciones y cambios en la entrega final.
+
+El uso de herramientas como GitHub y otras colaborativas es fundamental para el desarrollo rápido del proyecto y para evitar errores en el código. También hemos logrado mejorar la velocidad y eficiencia de los programas desarrollados, implementando extracciones, herencias, extensiones y control de errores, entre otros.
