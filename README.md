@@ -186,6 +186,23 @@ Ciclo:
         - [7.2.1.6. Services Documentation Evidence for Sprint Review](#7216-services-documentation-evidence-for-sprint-review)
         - [7.2.1.7. Software Deployment Evidence for Sprint Review](#7217-software-deployment-evidence-for-sprint-review)
         - [7.2.1.8. Team Collaboration Insights during Sprint](#7218-team-collaboration-insights-during-sprint)
+      - [7.2.2. Sprint 1](#722-sprint-2)
+        - [7.2.2.1. Sprint Planning 1](#7221-sprint-planning-2)
+        - [7.2.2.2. Sprint Backlog 1](#7222-sprint-backlog-2)
+        - [7.2.2.3. Development Evidence for Sprint Review](#7223-development-evidence-for-sprint-review)
+        - [7.2.2.4. Testing Suite Evidence for Sprint Review](#7224-testing-suite-evidence-for-sprint-review)
+        - [7.2.2.5. Execution Evidence for Sprint Review](#7225-execution-evidence-for-sprint-review)
+        - [7.2.2.6. Services Documentation Evidence for Sprint Review](#7226-services-documentation-evidence-for-sprint-review)
+        - [7.2.2.7. Software Deployment Evidence for Sprint Review](#7227-software-deployment-evidence-for-sprint-review)
+        - [7.2.2.8. Team Collaboration Insights during Sprint](#7228-team-collaboration-insights-during-sprint)
+    - [7.3. Validation Interviews](#73-validation-interviews)
+      - [7.3.1. Diseño de Entrevistas](#731-diseño-de-entrevistas)
+      - [](#732-registro-de-entrevistas)
+      - [](#733-evaluaciones-segun-heuristicas)
+    - [](#74-video-about-the-product)
+  - [Conclusiones](#conclusiones)
+  - [Bibliografia](#bibliografia)
+  - [Anexos](#anexos)
 
 # Student Outcome
 
@@ -218,6 +235,16 @@ Ciclo:
 | Claudia Rozas | **Acciones:** Se desarrolló los mock-ups de la aplicación web **Conclusiones:** Es bueno trabajar en equipo para que se pueda llegar a una conclusión|  **Acciones:** Se diseñó la aplicación web **Conclusiones:** Con ayuda de un compañero, se pudo lograr el despliegue|  **Acciones:** Se buscó nueva información de cómo levantar la aplicación web **Conclusiones:** La investigación y el compañerismo es buen aliado |
 | Adrian Marquina | **Acciones:** Me encarge de elaborar el landing page, tambien de organizar al equipo durante el sprint. **Conclusiones:** Logramos como equipo establecer las ceremonias y participar en ellas. Asimismo, complete mi compromiso del sprint 1. |  **Acciones:** Me encarge de desplegar el landing page y habilitar los recursos para el web app en Azure. **Conclusiones:** Logre desplegar el landing page configurando un pipeline de Ci/CD con github actios, asimismo, se elaboro el primer appraco para el pipeline de CI/CD de web app. |  **Acciones:** Participe en las ceremonias establecidas con el equipo. **Conclusiones:** Logramos dejar un registro de nuestras ceremonias incluido la participacion y decisiones tomadas. |
 | Marco Mendoza Rodriguez | **Acciones:**  Me encargupe de desarrollar el prototipo VR, a su vez contribuí con ideas aprendidas en el curso para el desarrollo de Tasty Point. **Conclusiones:** Elaborar reuniones y una comunicación entre mis compañeros contribuyó a lograr grandes beneficios y buen desempeño en el equipo. |  **Acciones:** Con el prototipo buscamos comercializar productos y evitar el desperdicio, buscamos usar tecnologias emergentes con el afan de vender. **Conclusiones:** Aprender nuevas tecnologias emergentes benefica a gran media el sector industrial y comercial. |  **Acciones:** Nos comuniquemos por Discort y canales como WhatsApp y Google Meet. **Conclusiones:** La responsabilidad y el compromiso de todos fue evidente para obtener grandes beneficios. |
+
+- **TF**
+
+|  Criterio específico | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | Conocimientos de nuevos métodos de colaboración y comunicación |
+|-----------|-----------|-----------|-----------|
+| Andres Christian Reynoso | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** |
+| David Torres Vilchez | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** |
+| Claudia Rozas | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** |
+| Adrian Marquina | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** |
+| Marco Mendoza Rodriguez | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** |
 
 ## Capítulo I: Introducción
 
@@ -1827,6 +1854,162 @@ Deployment
 | Asistentes | Todo el equipo |
 | Resultados y Acuerdos | Revisamos el avance total del desarrollo, se encontraba en el 80% de lo comprometido |
 
+### 7.2.2. Sprint 2
+
+#### 7.2.2.1. Sprint Planning 2
+
+| Sprint Planning | 1 |
+|-----------------|---|
+| Fecha | 16/10/2023 - 08:00 |
+| Lugar | Remote - Discord |
+| Asistentes | Todo el equipo |
+| Resultados y Acuerdos | Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration y Spring Backlog 1 |
+
+#### 7.2.2.2. Sprint Backlog 2
+
+#### Sprint Backlog 2 Consumer
+
+| Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| |   |   |  |   |   |   |   |
+
+#### Sprint Backlog 2 Business
+
+| Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| |   |   |  |   |   |   |   |
+
+#### Sprint Backlog 2 Landing Page
+
+| Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| |   |   |  |   |   |   |   |
+
+#### 7.2.2.3. Development Evidence for Sprint Review
+
+#### Sprint Backlog 2 Development Evidence Web Application
+
+| Repositorio | Commit | Mensaje | Autor |
+|-------------|-------------|-------------|-------------|
+|   |   |   |   |
+
+#### Sprint Backlog   Development Evidence Mobile Application
+
+| Repositorio | Commit | Mensaje | Autor |
+|-------------|-------------|-------------|-------------|
+|   |   |   |   |
+
+#### Sprint Backlog 2 Development Evidence VR Application
+
+| Repositorio | Commit | Mensaje | Autor |
+|-------------|-------------|-------------|-------------|
+|   |   |   |   |
+
+#### Sprint Backlog 2 Development Evidence Landing Page
+
+| Repositorio | Commit | Mensaje | Autor |
+|-------------|-------------|-------------|-------------|
+|   |   |   |   |
+
+#### 7.2.2.4. Testing Suite Evidence for Sprint Review
+
+#### Sprint Backlog 2 Testing Suite Evidence Consumer
+
+| ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
+|--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
+| | | | | | | |
+
+#### Sprint Backlog 2 Testing Suite Evidence Business
+
+| ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
+|--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
+| | | | | | | |
+
+#### Sprint Backlog 2 Testing Suite Evidence Landing Page
+
+| ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
+|--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
+| | | | | | | |
+
+#### 7.2.2.5. Execution Evidence for Sprint Review
+
+#### Sprint Backlog 2 Execution Evidence Web Application
+
+![Web Execution]()
+
+Commits in Web Aplication Repository:
+
+![Web Commits]()
+
+#### Sprint Backlog 2 Execution Evidence Mobile Application
+
+![Mobile Execution](Images/sprint-2-mobile-execution-1.png)
+
+Commits in Mobile Aplication Repository:
+
+![Mobile Commits](images/sprint-2-mobile-commits-1.png)
+
+#### Sprint Backlog 2 Execution Evidence VR Application
+
+![VR Execution](Images/sprint-2-vr-execution-1.png)
+
+Commits in VR Aplication Repository:
+
+![VR Commits](Images/sprint-2-vr-commits-1.png)
+
+#### Sprint Backlog 2 Execution Evidence Landing Page
+
+![Landing Execution](Images/sprint-2-landing-execution-1.png)
+
+Commits in Landing Page Repository:
+
+![Landing Commits](Images/sprint-2-landing-commits-1.png)
+
+#### 7.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### Sprint Backlog 2 Documentation Evidence Consumer
+
+| ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
+|-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------------------|------------|
+| | | | | | | |
+
+#### Sprint Backlog 2 Documentation Evidence Business
+
+| ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
+|-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------------------|------------|
+| | | | | | | |
+
+#### Sprint Backlog 2 Documentation Evidence Landing Page
+
+| ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
+|-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------------------|------------|
+| | | | | | | |
+
+#### 7.2.2.7. Software Deployment Evidence for Sprint Review
+
+#### Sprint Backlog 2 Deployment Evidence Web Application
+
+#### Sprint Backlog 2 Deployment Evidence Mobile Application
+
+#### Sprint Backlog 2 Deployment Evidence VR Application
+
+#### Sprint Backlog 2 Deployment Evidence Landing Page
+
+#### 7.2.2.8. Team Collaboration Insights during Sprint
+
+| Sprint 2 Review | 1 |
+|-----------------|---|
+| Fecha | 20/10/2023 - 08:00 |
+| Lugar | Remote - Discord |
+| Asistentes | Todo el equipo |
+| Resultados y Acuerdos | Revisamos el avance total del desarrollo, se encontraba en el 40% de lo comprometido |
+
+| Sprint 2 Review | 2 |
+|-----------------|---|
+| Fecha | 27/10/2023 - 08:00 |
+| Lugar | Remote - Discord |
+| Asistentes | Todo el equipo |
+| Resultados y Acuerdos | Revisamos el avance total del desarrollo, se encontraba en el 80% de lo comprometido |
 
 ## 7.3. Validation Interviews
 
@@ -1893,7 +2076,6 @@ Análisis de los errores identificados:
  •	Descripción: Los botones deben seguir una estructura que se adapte a todos los elementos interactivos del diseño.
  •	Recomendación: Se debe mejorar el llamado a la acción (call to action) para lograr una navegación más fluida y un diseño interactivo más efectivo.
 
-
 ## 7.4. Video About the Product
 
 A continuacion se demostrara un video explicando el primer prototipo de nuestro producto
@@ -1904,7 +2086,7 @@ Mobile application:
 
 Enlace: <https://youtu.be/YOeIcXoFzvI?si=I4J_rd0ml0Z-C-ku>
 
-## Conclusiones y Recomendaciones
+## Conclusiones
 
 La startup Tasty Point se dedica a combatir el desperdicio de alimentos y venderlos a precios justos y más asequibles. Su idea está bien definida y cumple con los estándares del curso. Es importante destacar que el desarrollo del proyecto se inicia con una idea de negocio que tiene un impacto positivo a nivel global y se planean mejoras continuas para garantizar su éxito a largo plazo.
 
@@ -1915,3 +2097,7 @@ Es esencial realizar un estudio más profundo del código del proyecto, especial
 En esta entrega, se desarollo principalmente el frontend, validándolo con los usuarios y obteniendo recomendaciones para mejorar y realizar correcciones. Además, se avanzó en el desarrollo del backend para mejorar la usabilidad de la lógica del sitio web, y se espera implementar la mayoría de las recomendaciones y cambios en la entrega final.
 
 El uso de herramientas como GitHub y otras colaborativas es fundamental para el desarrollo rápido del proyecto y para evitar errores en el código. También hemos logrado mejorar la velocidad y eficiencia de los programas desarrollados, implementando extracciones, herencias, extensiones y control de errores, entre otros.
+
+## Bibliografia
+
+## Anexos
