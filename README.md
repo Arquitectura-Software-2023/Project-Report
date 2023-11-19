@@ -178,17 +178,17 @@ Ciclo:
       - [7.1.4. Software Deployment Configuration](#714-software-deployment-configuration)
     - [7.2. Solution Implementation](#72-solution-implementation)
       - [7.2.1. Sprint 1](#721-sprint-1)
-        - [7.2.1.1. Sprint Planning 1](#7211-sprint-planning-1)
-        - [7.2.1.2. Sprint Backlog 1](#7212-sprint-backlog-1)
+        - [7.2.1.1. Sprint 1 Planning](#7211-sprint-1-planning)
+        - [7.2.1.2. Sprint 1 Backlog](#7212-sprint-1-backlog)
         - [7.2.1.3. Development Evidence for Sprint Review](#7213-development-evidence-for-sprint-review)
         - [7.2.1.4. Testing Suite Evidence for Sprint Review](#7214-testing-suite-evidence-for-sprint-review)
         - [7.2.1.5. Execution Evidence for Sprint Review](#7215-execution-evidence-for-sprint-review)
         - [7.2.1.6. Services Documentation Evidence for Sprint Review](#7216-services-documentation-evidence-for-sprint-review)
         - [7.2.1.7. Software Deployment Evidence for Sprint Review](#7217-software-deployment-evidence-for-sprint-review)
         - [7.2.1.8. Team Collaboration Insights during Sprint](#7218-team-collaboration-insights-during-sprint)
-      - [7.2.2. Sprint 1](#722-sprint-2)
-        - [7.2.2.1. Sprint Planning 1](#7221-sprint-planning-2)
-        - [7.2.2.2. Sprint Backlog 1](#7222-sprint-backlog-2)
+      - [7.2.2. Sprint 2](#722-sprint-2)
+        - [7.2.2.1. Sprint 2 Planning](#7221-sprint-2-planning)
+        - [7.2.2.2. Sprint 2 Backlog](#7222-sprint-2-backlog)
         - [7.2.2.3. Development Evidence for Sprint Review](#7223-development-evidence-for-sprint-review)
         - [7.2.2.4. Testing Suite Evidence for Sprint Review](#7224-testing-suite-evidence-for-sprint-review)
         - [7.2.2.5. Execution Evidence for Sprint Review](#7225-execution-evidence-for-sprint-review)
@@ -1578,7 +1578,7 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 
 ### 7.2.1. Sprint 1
 
-#### 7.2.1.1. Sprint Planning 1
+#### 7.2.1.1. Sprint 1 Planning
 
 | Sprint Planning | 1 |
 |-----------------|---|
@@ -1587,7 +1587,7 @@ Nuestro deployment se dara con distinta herramientas dependiendo del producto. E
 | Asistentes | Todo el equipo |
 | Resultados y Acuerdos | Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration y Spring Backlog 1 |
 
-#### 7.2.1.2. Sprint Backlog 1
+#### 7.2.1.2. Sprint 1 Backlog
 
 #### Sprint Backlog 1 Consumer
 
@@ -1856,7 +1856,7 @@ Deployment
 
 ### 7.2.2. Sprint 2
 
-#### 7.2.2.1. Sprint Planning 2
+#### 7.2.2.1. Sprint 2 Planning
 
 | Sprint Planning | 1 |
 |-----------------|---|
@@ -1865,7 +1865,7 @@ Deployment
 | Asistentes | Todo el equipo |
 | Resultados y Acuerdos | Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration y Spring Backlog 1 |
 
-#### 7.2.2.2. Sprint Backlog 2
+#### 7.2.2.2. Sprint 2 Backlog
 
 #### Sprint Backlog 2 Consumer
 
