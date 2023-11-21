@@ -240,7 +240,7 @@ Ciclo:
 
 |  Criterio específico | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | Conocimientos de nuevos métodos de colaboración y comunicación |
 |-----------|-----------|-----------|-----------|
-| Andres Christian Reynoso | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** |
+| Andres Christian Reynoso |  **Acciones:** El desarrollo de correcciones nos ayudan a mejorar nuestra aplicacion en base a nuestro publico objetivo. **Conclusiones:** El objetivo de esto es mejorar nuestro aplicativo. |  **Acciones:** El desarrollo de las mejoras ayudan a darnos a entender como es que la aplicacion mejorara para nuestro segmento objetivo. **Conclusiones:** Gracias a esto, podemos desarrollar las conclusiones de nuestro proyecto. | **Acciones:** Los repositorios de github y las reuniones de equipo nos ayudaron a mejorar la comunicacion entre los miembros del equipo. **Conclusiones:** La comunicacion entre el equipo fue muy importante durante el desarrollo del trabajo. |
 | David Torres Vilchez | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** |
 | Claudia Rozas | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** |
 | Adrian Marquina | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** | **Acciones:** **Conclusiones:** |
@@ -1871,13 +1871,18 @@ Deployment
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| |   |   |  |   |   |   |   |
+| US01 | Registro de Consumidor | Como consumidor quiero crear una cuenta para acceder a la aplicación. | CA1: Dado que el consumidor se encuentra en la ventana de registro y completa todos los campos. Cuando presiona el botón registrarse. Entonces podrá acceder a la aplicación. CA2: Dado que el consumidor se encuentra en la ventana de registro y no completa todos los campos obligatorios. Cuando presiona el botón registrarse. Entonces esos campos se marcan de rojo Y se muestra el mensaje: “Complete los campos obligatorios”. CA3: Dado que el consumidor se encuentra en la ventana de registro y completa erróneamente los campos. Cuando presiona el botón registrarse. Entonces se muestra el siguiente mensaje: “Complete los campos correctamente”. | E1: El consumidor quiere registrarse en la aplicación. E2: El consumidor no completa los campos obligatorios. E3: El consumidor intenta registrarse, pero no completa con datos correctos los campos obligatorios. |Andres Reynoso| 3 | Done|
+| US02 | Monitorear el perfil | Como consumidor quiero ver el perfil de mi cuenta para corroborar que mis datos sean correctos. | Dado que el consumidor quiere ver su perfil. Cuando presiona el icono de perfil ubicado en la sección de menú. Entonces la aplicación muestra la información del perfil del consumidor. | El consumidor quiere ver su perfil. | Andres Reynoso| 3 | Done|
+| US03 | Cerrar sesión de consumidor | Como consumidor quiero cerrar sesión para salir de mi cuenta.| CA1: Dado que el consumidor se encuentra en la aplicación. Cuando presiona el icono de perfil ubicado en la sección de menú. Entonces se le mostrará un mensaje: ¿Está seguro de cerrar sesión? Y el consumidor selecciona la opción sí para cerrar la sesión. CA2: Dado que el consumidor se encuentra en la aplicación. Cuando presiona el botón de cerrar sesión. Entonces se le mostrará un mensaje: ¿Está seguro de cerrar sesión? Y el consumidor selecciona la opción no para mantener iniciada la sesión. | E1:  El consumidor quiere cerrar sesión en el sistema. E2: El consumidor presiona por error el botón de “Cerrar sesión “.| Claudia Rozas| 2 | Done|
+| US05 | Visualizar todas las notificaciones | Como consumidor, quiero visualizar las notificaciones para estar informado sobre las ofertas que ofrezcan los restaurantes. | Dado que el consumidor se encuentra en la aplicación, cuando ingresa a la sección de notificaciones, entonces le aparecen las notificaciones realizadas por los restaurantes registrados en la aplicación. |  Ver ofertas publicadas por restaurantes. | Andres Reynoso | 2 |Done|
 
 #### Sprint Backlog 2 Business
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| |   |   |  |   |   |   |   |
+| US11 | Registro de Cliente | Como cliente quiero crear una cuenta para acceder a la aplicación. |CA1:  Dado que el cliente se encuentra en la ventana de registro y completa todos los campos. Cuando presiona el botón registrarse. Entonces podrá acceder a la aplicación. CA2: Dado que el cliente se encuentra en la ventana de registro y no completa todos los campos obligatorios. Cuando presiona el botón registrarse. Entonces esos campos se marcan de rojo y se muestra el mensaje: “Complete los campos obligatorios”. CA3: Dado que el cliente se encuentra en la ventana de registro y completa erróneamente los campos. Cuando presiona el botón registrarse. Entonces se muestra el siguiente mensaje: “Complete los campos correctamente”.| E1: El cliente quiere registrarse en la aplicación. E2: El cliente no completa los campos obligatorios. E3: El cliente intenta registrarse, pero no completa con datos correctos los campos obligatorios.| Andres Reynoso| 3 | Done|
+| US15 | Medios de contacto | Como cliente quiero enlazar todos los medios de comunicación que poseo para permitir a mis consumidores contactarse directamente con nosotros. | Dado que el cliente se encuentra en la ventana “Perfil”, cuando selecciona “Agregar redes sociales” y los agrega, entonces la aplicación mostrará un mensaje “Se agregó con éxito”. | Añadir redes sociales | Andres Reynoso| 2 | Done|
+| US17 | Ver pedidos |Como cliente quiero ver la lista de pedidos solicitados en mi restaurante, para conocer la demanda a través de la App web. | Dado que el cliente ha iniciado sesión, se encuentra en la ventana principal de Tasty point y hace clic en la sección “Órdenes”, cuando el cliente se encuentre en dicha sección, entonces aparecerá una lista con los nombres de los consumidores que realizaron un pedido en específico con fecha, hora y cantidad ordenada. | El cliente ingresa al registro de pedidos. |Claudia Rozas| 3 | Done|
 
 #### Sprint Backlog 2 Landing Page
 
@@ -1891,7 +1896,12 @@ Deployment
 
 | Repositorio | Commit | Mensaje | Autor |
 |-------------|-------------|-------------|-------------|
-|   |   |   |   |
+|TastyPoint-FrontEnd-Web-Application |ede4361d9f255c6039cb4e6fba140dc981e40be7 |added social |Claudia Rozas |
+|TastyPoint-FrontEnd-Web-Application |e1594fb0bffeffaf5fb09af99adacb7f30c8f37e |Fixed Routes |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |e97b5f65586ad8fe94619aa01c078a90811d6775 |Fixed routes and uses fake API |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |419c5538e26b57224ce5abe97e12899c30be2cb0 |Fixed styles for security to match with mock ups |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |249a54f1e60911a7a79c96837c97221ee2327ad4 |Added styles for consumers to match with mock ups |Andres Reynoso |
+|TastyPoint-FrontEnd-Web-Application |96773931332614fea1c26f7d7c523f645b1500c2 |Fixed settings for business, also added new styles | Andres Reynoso|
 
 #### Sprint Backlog   Development Evidence Mobile Application
 
@@ -1917,13 +1927,24 @@ Deployment
 
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| | | | | | | |
+| T1 | US01 | Creacion de usuario, email y password  | 1. Navegar a la aplicacion. 2. Ir a la seccion de sign in | El usuario deberia de crearse una cuenta | Andres Reynoso | Done |
+| T2 | US02 | Visualizacion de pagina de perfil | 1. Registrarse en la aplicacion. 2. Ir a Settings | El usuario deberia de visualizar la seccion de modificar perfil | Andres Reynoso | Done |
+| T3 | US03 | Cerrar Sesion de usuario | 1. Ir a la seccion de Sign Out. 2. Aceptar el mensaje | El usuario deberia de poder cerrar sesion con normalidad | Claudia Rozas | Done |
+| T4 | US05 | Verificacion de Notificaciones | 1. Iniciar Sesion. 2. Ir a la seccion de Notifications | El usuario deberia de ver las notificaciones | Andres Reynoso | Done |
+| T5 | US06 | Marcar como favorito  | 1. Ir a la lista. 2. Darle click al corazon al lado del producto.| El usuario deberia de tener la opcion de marcar como favoritos | Claudia Rozas | Done |
+| T6 | US07 | Verificacion de Productos Publicados | 1. Iniciar Sesion. 2. Ir a la seccion de List| El usuario deberia de visualizar los productos que estan publicados | Claudia Rozas | Done |
+| T7 | US09 | Desarrollo de comentario| 1. El usuario va a la pagina de un restaurante. 2. Escribe su comentario debajo del perfil. | El usuario deberia de poder dejar su comentario en la pagina del restaurante | Claudia Rozas | Done |
 
 #### Sprint Backlog 2 Testing Suite Evidence Business
 
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| | | | | | | |
+| T8 | US11 |Creacion de username, email y password | 1. Ingresa a la app. 2. Ir a la seccion de Register | El usuario deberia crearse su cuenta | Andres Reynoso | Done |
+| T9 | US15 | El usuario agrega sus redes como facebook | 1. El usuario se registra. 2. Va a settings. | El usuario agrega sus redes sociales | Andres Reynoso | Done |
+| T10 | US17 | Vista de los pedidos que otros usuarios han ordenado | 1. El usuario va a "Ordenes". 2. Se visualizaran los pedidos realizados por los clientes. | El usuario ingresa al registro de pedidos | Claudia Rozas | Done |
+| T11  | US18 | Visualizacion el catalogo de platos que hay | 1. El usuario ingresa a la aplicacion. 2. El usuario va a la seccion "Catalogo" | El usuario ve el catalogo de platos | Claudia Rozas | Done |
+| T12  | US19 | Visualizacion de vista de consumidor | 1. El usuario va a la seccion de "Catalogo". 2. El usuario presiona "Vista de consumidor" | El usuario ve la vista de consumidor | Andres Reynoso | Done |
+| T13  | US22 | Visualizacion de comentarios | 1. El usuario ve el perfil de su restaurante 2. El usuario ve los comentarios publicados | El usuario lee los comentarios de los usuarios | Andres Reynoso | Done |
 
 #### Sprint Backlog 2 Testing Suite Evidence Landing Page
 
@@ -1935,11 +1956,11 @@ Deployment
 
 #### Sprint Backlog 2 Execution Evidence Web Application
 
-![Web Execution]()
+![Web Execution](https://media.discordapp.net/attachments/714193289888399362/1176665755085983815/image.png?ex=656fb261&is=655d3d61&hm=759b09ae516e272a4e17f9f7b2ae4c1c0123b357d9375d72a345a5881ad51a9b&=&width=1093&height=669)
 
 Commits in Web Aplication Repository:
 
-![Web Commits]()
+![Web Commits](https://media.discordapp.net/attachments/714193289888399362/1176665095821078608/image.png?ex=656fb1c4&is=655d3cc4&hm=4ac4bf6030e0960f8f8fd01813c18c9e34833d860d3f418392fdf59b9b47d4d4&=&width=1440&height=669)
 
 #### Sprint Backlog 2 Execution Evidence Mobile Application
 
