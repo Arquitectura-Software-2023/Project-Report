@@ -1970,14 +1970,32 @@ Commits in Landing Page Repository:
 #### Sprint Backlog 2 Documentation Evidence Consumer
 
 | ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
-|-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------------------|------------|
-| | | | | | | |
-
+|-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------|-------------------------------|
+| D1 | US01 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Sign In| Claudia Rozas |21/11/2023  | Done |
+| D2 | US02 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Settings| Andres Reynoso |21/11/2023 | Done |
+| D3 | US03 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Sign Out| Claudia Rozas |21/11/2023  | Done |
+| D4 | US05 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Notifications | Claudia Rozas |21/11/2023  |Done |
+| D8 | US01 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Sign In | Claudia Rozas |21/11/2023  | Done |
+| D9 | US02 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Settings | Andres Reynoso | 21/11/2023  | Done |
+| D10 | US03 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Sign Out  | Claudia Rozas |21/11/2023  | Done |
+| D11 | US05 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Notifications | Claudia Rozas | 21/11/2023  | Done |
+| D15 | US01 | Manual de Usuario | Documento que guía al usuario en cómo utilizar el Sign In | Claudia Rozas | 21/11/2023  | Done |
+| D16 | US02 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección Settings | Andres Reynoso | 21/11/2023  | Done |
+| D17 | US03 | Manual de Usuario | Documento que guía al usuario en cómo utilizar el Sign Out | Claudia Rozas | 21/11/2023  | Done |
+| D18 | US05 | Manual de Usuario | Documento que guía al usuario en cómo ver la sección Notifications | Claudia Rozas |  21/11/2023  | Done |
 #### Sprint Backlog 2 Documentation Evidence Business
 
 | ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
-|-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------------------|------------|
-| | | | | | | |
+|-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------|-------------------------------|
+| D22 | US11 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Sign In| Andres Reynoso |21/11/2023 | Done |
+| D23 | US15 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección de Settings| Claudia Rozas |21/11/2023  | Done |
+| D24 | US17 | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección Orders| Claudia Rozas |21/11/2023  | Done |
+| D28 | US11 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Sign In | Claudia Rozas | 21/11/2023  | Done |
+| D29 | US15 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Settings | Andres Reynoso |21/11/2023  | Done |
+| D30 | US17 | Diseño de Interfaz | Documento con los mockups y diseños de la sección Orders  | Andres Reynoso |21/11/2023  | Done |
+| D34 | US11 | Manual de Usuario | Documento que guía al usuario en cómo utilizar el Sign In | Claudia Rozas | 21/11/2023  | Done |
+| D35 | US15 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección Settings | Andres Reynoso | 21/11/2023  | Done |
+| D36 | US17 | Manual de Usuario | Documento que guía al usuario en cómo utilizar Orders | Claudia Rozas | 21/11/2023  | Done |
 
 #### Sprint Backlog 2 Documentation Evidence Landing Page
 
@@ -1988,6 +2006,12 @@ Commits in Landing Page Repository:
 #### 7.2.2.7. Software Deployment Evidence for Sprint Review
 
 #### Sprint Backlog 2 Deployment Evidence Web Application
+
+Para desarrollar el deployment del Web Application, se ha usado Netlify, debido a su facilidad de uso. Para el despliegue simplemente se vinculo el repositorio de GitHub con el programa y automaticamente te deja el enlace. A continuacion podemos observar que la aplicacion se ha desplegado de forma correcta:
+
+![image](https://media.discordapp.net/attachments/973358848159133696/1169814061693808670/image.png?ex=6556c53e&is=6544503e&hm=77a3b59e693ea73861b3ad39d7f68259ba4838c259b332c5a279bf09fa27bd13&=&width=1190&height=669)
+
+Enlace desplegado: [https://tastypoint.netlify.app](https://tastypoint.netlify.app/)
 
 #### Sprint Backlog 2 Deployment Evidence Mobile Application
 
