@@ -1991,6 +1991,11 @@ Commits in Landing Page Repository:
 
 #### Sprint Backlog 2 Deployment Evidence Mobile Application
 
+Despliegue de base de datos MySql para el aplicativo.
+
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/6fe9d80d-5101-45ad-8c2e-8237862fd81d)
+
+
 #### Sprint Backlog 2 Deployment Evidence VR Application
 
 #### Sprint Backlog 2 Deployment Evidence Landing Page
@@ -2052,11 +2057,20 @@ Buenos días, me presento, soy ( ) y pertenezco a la carrera de Ingeniería de S
 Entrevista Alejandro Rojas
 
 - Enlace: <https://youtu.be/d76nc7US9HE>
+  
 - Resumen: Alejandro nos ha comentado que le gusta la primera version de nuestro proyecto, nos indica que algunas secciones estan algo llenas de blanco pero que en general le agrada la paleta de colores y lo intuitiva que es la aplicacion. Por ultimo, nos menciona que no agregaria mas funcionalidades a las que ya se estaran implementando.
+
+Entrevista Diego Cabrera
+
+- Enlace: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010942_upc_edu_pe/EbDswuDPM4ZBpIpsYn3Q7HIB9dhb1evjRTgd5ChGFSPe4g?e=W46N4Q&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+  
+- Resumen: La entrevista a Diego Cabrera Zelada nos proporcionó una mejor visualización de la forma en la que el usuario navega por medio de las funciones de la aplicación móvil y cómo las características implementadas son recibidas. Diego menciono su agrado por la paleta de colores y como esta es cómoda a la vista, así también como las funcionalidades implementadas, el único punto que resalto fue la funcionalidad de la barra de navegación y si se pudieran implementar más pasarelas de pago.
 
 ### 7.3.3. Evaluaciones segun Heuristicas
 
 Análisis de los errores identificados:
+
+Web Application:
 
 •	Problema #1: La ubicación de las imágenes no es correcta, lo que provoca una falta de alineación entre las imágenes y el texto.
  •	Severidad: 4
@@ -2076,6 +2090,20 @@ Análisis de los errores identificados:
  •	Descripción: Los botones deben seguir una estructura que se adapte a todos los elementos interactivos del diseño.
  •	Recomendación: Se debe mejorar el llamado a la acción (call to action) para lograr una navegación más fluida y un diseño interactivo más efectivo.
 
+ Mobile Application:
+
+ •	Problema #1: Ausencia de una pantalla para confirmar el cierre de sesión.
+ •	Severidad: 2
+ •	Heurística infringida: Prevención de errores
+ •	Descripción: Al dar al botón de cerrar sesión no aparece ninguna pantalla de confirmación, por lo cual si el usuario lo presiona por casualidad tendría que volver a ingresar su correo y contraseña el cual sería un fastidio para el usuario.
+ •	Recomendación: Se aconseja añadir una notificación para confirmar el cierre de sesión.
+
+•	Problema #2: Incluye una barra de búsqueda, pero no cumple su función en su totalidad.
+ •	Severidad: 4
+ •	Heurística infringida: Information Architecture – Is it usable?
+ •	Descripción: Al momento de realizar la búsqueda de un plato de comida, no se muestran laos productos demostrando la falta de funcionamiento de la barra de búsqueda.
+ •	Recomendación: Se aconseja corregir la funcionalidad de búsqueda o eliminar la barra de navegación innecesaria.
+
 ## 7.4. Video About the Product
 
 A continuacion se demostrara un video explicando el primer prototipo de nuestro producto
@@ -2084,7 +2112,7 @@ Enlace: <https://youtu.be/xSLxkfcY4LA>
 
 Mobile application:
 
-Enlace: <https://youtu.be/YOeIcXoFzvI?si=I4J_rd0ml0Z-C-ku>
+Enlace: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010942_upc_edu_pe/EW30-rYh3NFFk4-N4g5TcWgBmBGIEfA8gIzpZQG46Gz-6Q?e=YwEbaA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
 ## Conclusiones
 
