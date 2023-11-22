@@ -1964,11 +1964,11 @@ Commits in Web Aplication Repository:
 
 #### Sprint Backlog 2 Execution Evidence Mobile Application
 
-![Mobile Execution](Images/sprint-2-mobile-execution-1.png)
+![Mobile Execution](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/f8f2a20c-bb42-44f7-a7df-d4286194e192)
 
 Commits in Mobile Aplication Repository:
 
-![Mobile Commits](images/sprint-2-mobile-commits-1.png)
+![Mobile Commits](https://github-production-user-asset-6210df.s3.amazonaws.com/89089640/284757497-47cb34ae-f02d-43a3-bf7b-66a8a812dec7.png)
 
 #### Sprint Backlog 2 Execution Evidence VR Application
 
