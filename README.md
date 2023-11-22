@@ -1719,7 +1719,7 @@ Commits in Web Aplication Repository:
 
 Commits in Mobile Aplication Repository:
 
-![Mobile Commits](images/sprint-1-mobile-commits-1.png)
+![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/eff28606-8e8a-4ecf-9911-9e1d19548e0c)
 
 #### Sprint Backlog 1 Execution Evidence VR Application
 
