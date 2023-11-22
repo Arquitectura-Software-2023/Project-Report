@@ -197,9 +197,9 @@ Ciclo:
         - [7.2.2.8. Team Collaboration Insights during Sprint](#7228-team-collaboration-insights-during-sprint)
     - [7.3. Validation Interviews](#73-validation-interviews)
       - [7.3.1. Diseño de Entrevistas](#731-diseño-de-entrevistas)
-      - [](#732-registro-de-entrevistas)
-      - [](#733-evaluaciones-segun-heuristicas)
-    - [](#74-video-about-the-product)
+      - [7.3.2. Registro de Entrevistas](#732-registro-de-entrevistas)
+      - [7.3.3. Evaluaciones segun Heuristicas](#733-evaluaciones-segun-heuristicas)
+    - [Video About the Product](#74-video-about-the-product)
   - [Conclusiones](#conclusiones)
   - [Bibliografia](#bibliografia)
   - [Anexos](#anexos)
@@ -1831,7 +1831,7 @@ Enlace desplegado: [https://tastypoint.netlify.app](https://tastypoint.netlify.a
 
 #### Sprint Backlog 1 Deployment Evidence Landing Page
 
-Se implemento el pipeline de despliegue continuo con azure. Acontinuacion, se adjunta la evidencia del despliegue del landing page: [Url](https://jolly-field-04c7e7710.4.azurestaticapps.net/)
+Se implemento el pipeline de despliegue continuo con azure. Acontinuacion, se adjunta la evidencia del despliegue del landing page: [Url](https://jolly-field-04c7e7710.4.azurestaticapps.net/) <https://jolly-field-04c7e7710.4.azurestaticapps.net/>
 
 Deployment
 ![Github Action detail](Images/sprint-1-landing-deployment-1.png)
@@ -1888,7 +1888,12 @@ Deployment
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Escenarios | Responsable | Puntos | Estado |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| |   |   |  |   |   |   |   |
+| US27 | Visualizar la sección home del landing page | Como usuario quiero ver la sección “home” para ver la información principal. | Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de home, entonces visualiza una breve descripción de la aplicación e información de sus segmentos. | Usuario se dirige a la sección “home” de la landing page.| Adrian Marquina | 5 | Done |
+| US28 | Visualizar la sección "about us" en landing page | Como usuario quiero ver la sección “about us” para saber porque TastyPoint es innovadora en el área de comida a domicilio. | Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de about us”, entonces visualizará la información de TastyPoint. | Usuario se dirige a la sección “about us” de la landing page. | Adrian Marquina | 5 | Done |
+| US29 |Visualizar la sección "segments" en landing page | Como usuario quiero ver la sección “segments” para conocer a quienes está dirigida la aplicación y sus beneficios.|Dado que el usuario se encuentra en el landing page, cuando se dirija a la sección de “segments”, entonces visualiza el público objetivo de TastyPoint y las características de la aplicación en cada uno.|Usuario se dirige a la sección “segments” de la landing page | Adrian Marquina | 5 | In Progress |
+| US23 | Botón call to action | Como usuario deseo que el landing page posea un botón call-to-action para poder acceder directamente hacia la aplicación | Dado que el usuario se encuentra en el landing page. Cuando el usuario seleccione el botón Call to action llamado Comenzar. Entonces el sistema redirigirá al usuario a la aplicación web. | Presión del botón CTA | Adrian Marquina | 5 | QA |
+| US25 | Visualización de planes de suscripción | Como usuario deseo poder visualizar los planes de suscripción en el landing page para poder informarme cuanto son las cantidades por pagar por el servicio. | CA1: Dado que el usuario se encuentra en el landing page. Cuando el usuario seleccione la opción Planes de suscripción. Entonces el landing page le mostrará los planes de suscripción. CA2: Dado que el usuario se encuentra en el landing page. Cuando el usuario deslice el landing page hacia abajo. Entonces la aplicación permitirá visualizar los planes de suscripción. | E1: Selección de opción para visualizar planes. E2:Desliza la pantalla para visualizar planes. | Adrian Marquina | 5 | To Do |
+| US26 | Visualización de redes sociales | Como usuario deseo poder acceder a las redes sociales del startup por medio del landing page para conocer más acerca de este. | Dado que el usuario se encuentra en el landing page. Cuando el usuario deslice la página hasta el final. Entonces la aplicación mostrará el footer en el cual se encontrarán las redes sociales y demás información. | Visualización de redes sociales en el Footer. | Adrian Marquina | 5 | In Progress |
 
 #### 7.2.2.3. Development Evidence for Sprint Review
 
@@ -1913,13 +1918,18 @@ Deployment
 
 | Repositorio | Commit | Mensaje | Autor |
 |-------------|-------------|-------------|-------------|
-|   |   |   |   |
+| TastyPoint_VR_Project | c883cfb7c35e20694e46291baa298cb74997dc02 | Create README.md | Marco Mendoza |
+| TastyPoint_VR_Project | d87758a3706c56e79dcc516bf7f7788ea97b7da9 | Add files via upload | Marco Mendoza |
+| TastyPoint_VR_Project | 1c032622a01ca38e3d0fcc7bff51cd44ff53f8b5 | Add files via upload | Marco Mendoza |
+| TastyPoint_VR_Project | 7663f72124133c2e1765619d0cfb2d4ea9063e93 | Add files via upload | Marco Mendoza |
 
 #### Sprint Backlog 2 Development Evidence Landing Page
 
 | Repositorio | Commit | Mensaje | Autor |
 |-------------|-------------|-------------|-------------|
-|   |   |   |   |
+| TastyPoint-landing-page | 6696eed14a2c0a4657a01d646f9ec323d180b2fe | Home | Adrian Marquina |
+| TastyPoint-landing-page | 58bb59d67d2f24de6f795b8705c48d0372a1de9e | About us | Adrian Marquina |
+| TastyPoint-landing-page | a920ad4f3d488e2f193eed3f837a0014798e6467 | Footer first approach | Adrian Marquina |
 
 #### 7.2.2.4. Testing Suite Evidence for Sprint Review
 
@@ -1950,7 +1960,9 @@ Deployment
 
 | ID de Prueba | Story ID | Descripción de la Prueba                                           | Pasos de Prueba                                                | Resultado Esperado                                                                                                   | Responsable de la Prueba | Estado de la Prueba |
 |--------------|----------|--------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
-| | | | | | | |
+| T1           | US27     | Verificar la visualización de la sección "home" en la landing page | 1. Navegar a la landing page<br>2. Hacer clic en la sección "home" o desplazarse hasta ella | El usuario debería ver una breve descripción de la aplicación e información de sus segmentos                          | Adrian Marquina         | Done           |
+| T2           | US28     | Verificar la visualización de la sección "about us" en landing page | 1. Navegar a la landing page<br>2. Hacer clic en la sección "about us" o desplazarse hasta ella | El usuario debería ver la información sobre por qué TastyPoint es innovadora en el área de comida a domicilio         | Adrian Marquina         | Done           |
+| T3           | US29     | Verificar la visualización de la sección "segments" en landing page | 1. Navegar a la landing page<br>2. Hacer clic en la sección "segments" o desplazarse hasta ella | El usuario debería ver información sobre el público objetivo de TastyPoint y las características de la aplicación     | Adrian Marquina         | Done           |
 
 #### 7.2.2.5. Execution Evidence for Sprint Review
 
@@ -1969,7 +1981,6 @@ Commits in Web Aplication Repository:
 Commits in Mobile Aplication Repository:
 
 ![Mobile Commits](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/5f529f93-2e8d-45ef-9e0c-0ffac613ff3e)
-
 
 #### Sprint Backlog 2 Execution Evidence VR Application
 
@@ -2005,6 +2016,7 @@ Commits in Landing Page Repository:
 | D16 | US02 | Manual de Usuario | Documento que guía al usuario en cómo utilizar la sección Settings | Andres Reynoso | 21/11/2023  | Done |
 | D17 | US03 | Manual de Usuario | Documento que guía al usuario en cómo utilizar el Sign Out | Claudia Rozas | 21/11/2023  | Done |
 | D18 | US05 | Manual de Usuario | Documento que guía al usuario en cómo ver la sección Notifications | Claudia Rozas |  21/11/2023  | Done |
+
 #### Sprint Backlog 2 Documentation Evidence Business
 
 | ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
@@ -2023,7 +2035,15 @@ Commits in Landing Page Repository:
 
 | ID de Documento | Story ID | Tipo de Documento           | Descripción                                                  | Responsable       | Fecha de Última Actualización | Estado     |
 |-----------------|----------|-----------------------------|--------------------------------------------------------------|----------------------------------|-------------------------------|------------|
-| | | | | | | |
+| D1              | US27     | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección "home" en la landing page. | Adrian Marquina   | 29/10/2023                    | Done   |
+| D2              | US28     | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección "about us" en la landing page. | Adrian Marquina   | 29/10/2023                    | Done   |
+| D3              | US29     | Especificación de Requisitos | Documento detallando los requisitos y funcionalidades de la sección "segments" en la landing page.| Adrian Marquina   | 29/10/2023                    | Done   |
+| D4              | US27     | Diseño de Interfaz           | Documento con los mockups y diseños de la sección "home" en la landing page.| Diseñador Gráfico | 29/10/2023                    | Done |
+| D5              | US28     | Diseño de Interfaz           | Documento con los mockups y diseños de la sección "about us" en la landing page. | Diseñador Gráfico | 29/10/2023                    | Done |
+| D6              | US29     | Diseño de Interfaz           | Documento con los mockups y diseños de la sección "segments" en la landing page. | Diseñador Gráfico | 29/10/2023                    | Done |
+| D7              | US27     | Manual de Usuario            | Documento que guía al usuario en cómo utilizar la sección "home" en la landing page. | Equipo de Soporte | 29/10/2023                    | Done   |
+| D8              | US28     | Manual de Usuario            | Documento que guía al usuario en cómo utilizar la sección "about us" en la landing page. | Equipo de Soporte | 29/10/2023                    | Done   |
+| D9              | US29     | Manual de Usuario            | Documento que guía al usuario en cómo utilizar la sección "segments" en la landing page. | Equipo de Soporte | 29/10/2023                    | Done   |
 
 #### 7.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -2031,7 +2051,7 @@ Commits in Landing Page Repository:
 
 Para desarrollar el deployment del Web Application, se ha usado Netlify, debido a su facilidad de uso. Para el despliegue simplemente se vinculo el repositorio de GitHub con el programa y automaticamente te deja el enlace. A continuacion podemos observar que la aplicacion se ha desplegado de forma correcta:
 
-![image](https://media.discordapp.net/attachments/973358848159133696/1169814061693808670/image.png?ex=6556c53e&is=6544503e&hm=77a3b59e693ea73861b3ad39d7f68259ba4838c259b332c5a279bf09fa27bd13&=&width=1190&height=669)
+![Sprint Backlog 2 Deployment Evidence Web Application](https://media.discordapp.net/attachments/973358848159133696/1169814061693808670/image.png?ex=6556c53e&is=6544503e&hm=77a3b59e693ea73861b3ad39d7f68259ba4838c259b332c5a279bf09fa27bd13&=&width=1190&height=669)
 
 Enlace desplegado: [https://tastypoint.netlify.app](https://tastypoint.netlify.app/)
 
@@ -2039,28 +2059,37 @@ Enlace desplegado: [https://tastypoint.netlify.app](https://tastypoint.netlify.a
 
 Despliegue de base de datos MySql para el aplicativo.
 
-![image](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/6fe9d80d-5101-45ad-8c2e-8237862fd81d)
-
+![Sprint Backlog 2 Deployment Evidence Mobile Application](https://github.com/Arquitectura-Software-2023/Project-Report/assets/89089640/6fe9d80d-5101-45ad-8c2e-8237862fd81d)
 
 #### Sprint Backlog 2 Deployment Evidence VR Application
 
+![Sprint Backlog 2 Deployment Evidence VR Application](Images/sprint-2-vr-deployment-1.png)
+
+![Sprint Backlog 2 Deployment Evidence VR Application](Images/sprint-2-vr-deployment-2.png)
+
+![Sprint Backlog 2 Deployment Evidence VR Application](Images/sprint-2-vr-deployment-3.png)
+
 #### Sprint Backlog 2 Deployment Evidence Landing Page
+
+![Landing Page](Images/sprint-2-landing-deployment-1.png)
+![Landing Page](Images/sprint-2-landing-deployment-2.png)
+![Landing Page](Images/sprint-2-landing-deployment-3.png)
 
 #### 7.2.2.8. Team Collaboration Insights during Sprint
 
 | Sprint 2 Review | 1 |
 |-----------------|---|
-| Fecha | 20/10/2023 - 08:00 |
+| Fecha | 10/11/2023 - 08:00 |
 | Lugar | Remote - Discord |
 | Asistentes | Todo el equipo |
-| Resultados y Acuerdos | Revisamos el avance total del desarrollo, se encontraba en el 40% de lo comprometido |
+| Resultados y Acuerdos | Revisamos el avance total del desarrollo, se encontraba en el 30% de lo comprometido |
 
 | Sprint 2 Review | 2 |
 |-----------------|---|
-| Fecha | 27/10/2023 - 08:00 |
+| Fecha | 17/10/2023 - 08:00 |
 | Lugar | Remote - Discord |
 | Asistentes | Todo el equipo |
-| Resultados y Acuerdos | Revisamos el avance total del desarrollo, se encontraba en el 80% de lo comprometido |
+| Resultados y Acuerdos | Revisamos el avance total del desarrollo, se encontraba en el 70% de lo comprometido |
 
 ## 7.3. Validation Interviews
 
@@ -2118,37 +2147,37 @@ Análisis de los errores identificados:
 
 Web Application:
 
-•	Problema #1: La ubicación de las imágenes no es correcta, lo que provoca una falta de alineación entre las imágenes y el texto.
- •	Severidad: 4
- •	Heurística infringida: Usabilidad: Visibilidad del sistema
- •	Descripción: Durante las entrevistas, se observó que los usuarios señalaron este aspecto como una área que necesita mejoras, ya que la alineación entre el texto y las imágenes no es la adecuada. Por lo tanto, es fundamental abordar esta cuestión.
- •	Recomendación: Se aconseja ajustar el texto de manera que esté en armonía con las imágenes y se adapte correctamente a la pantalla.
+•Problema #1: La ubicación de las imágenes no es correcta, lo que provoca una falta de alineación entre las imágenes y el texto.
+ •Severidad: 4
+ •Heurística infringida: Usabilidad: Visibilidad del sistema
+ •Descripción: Durante las entrevistas, se observó que los usuarios señalaron este aspecto como una área que necesita mejoras, ya que la alineación entre el texto y las imágenes no es la adecuada. Por lo tanto, es fundamental abordar esta cuestión.
+ •Recomendación: Se aconseja ajustar el texto de manera que esté en armonía con las imágenes y se adapte correctamente a la pantalla.
 
-•	Problema #2: Existe un exceso de espacio entre las imágenes y el texto.
- •	Severidad: 4
- •	Heurística infringida: Usabilidad: Visibilidad del sistema
- •	Descripción: El espacio que se encuentra dentro de este margen es esencial, ya que afecta la percepción de un diseño dinámico. En consecuencia, se requiere una alineación adecuada entre las imágenes y el texto.
- •	Recomendación: Es importante alinear las imágenes y aplicar un diseño que organice toda la información de forma ordenada.
+•Problema #2: Existe un exceso de espacio entre las imágenes y el texto.
+ •Severidad: 4
+ •Heurística infringida: Usabilidad: Visibilidad del sistema
+ •Descripción: El espacio que se encuentra dentro de este margen es esencial, ya que afecta la percepción de un diseño dinámico. En consecuencia, se requiere una alineación adecuada entre las imágenes y el texto.
+ •Recomendación: Es importante alinear las imágenes y aplicar un diseño que organice toda la información de forma ordenada.
 
-•	Problema #3: Los botones no están diseñados de acuerdo con el diseño general.
- •	Severidad: 4
- •	Heurística infringida: Usabilidad: Visibilidad del sistema
- •	Descripción: Los botones deben seguir una estructura que se adapte a todos los elementos interactivos del diseño.
- •	Recomendación: Se debe mejorar el llamado a la acción (call to action) para lograr una navegación más fluida y un diseño interactivo más efectivo.
+•Problema #3: Los botones no están diseñados de acuerdo con el diseño general.
+ •Severidad: 4
+ •Heurística infringida: Usabilidad: Visibilidad del sistema
+ •Descripción: Los botones deben seguir una estructura que se adapte a todos los elementos interactivos del diseño.
+ •Recomendación: Se debe mejorar el llamado a la acción (call to action) para lograr una navegación más fluida y un diseño interactivo más efectivo.
 
  Mobile Application:
 
- •	Problema #1: Ausencia de una pantalla para confirmar el cierre de sesión.
- •	Severidad: 2
- •	Heurística infringida: Prevención de errores
- •	Descripción: Al dar al botón de cerrar sesión no aparece ninguna pantalla de confirmación, por lo cual si el usuario lo presiona por casualidad tendría que volver a ingresar su correo y contraseña el cual sería un fastidio para el usuario.
- •	Recomendación: Se aconseja añadir una notificación para confirmar el cierre de sesión.
+ •Problema #1: Ausencia de una pantalla para confirmar el cierre de sesión.
+ •Severidad: 2
+ •Heurística infringida: Prevención de errores
+ •Descripción: Al dar al botón de cerrar sesión no aparece ninguna pantalla de confirmación, por lo cual si el usuario lo presiona por casualidad tendría que volver a ingresar su correo y contraseña el cual sería un fastidio para el usuario.
+ •Recomendación: Se aconseja añadir una notificación para confirmar el cierre de sesión.
 
-•	Problema #2: Incluye una barra de búsqueda, pero no cumple su función en su totalidad.
- •	Severidad: 4
- •	Heurística infringida: Information Architecture – Is it usable?
- •	Descripción: Al momento de realizar la búsqueda de un plato de comida, no se muestran laos productos demostrando la falta de funcionamiento de la barra de búsqueda.
- •	Recomendación: Se aconseja corregir la funcionalidad de búsqueda o eliminar la barra de navegación innecesaria.
+•Problema #2: Incluye una barra de búsqueda, pero no cumple su función en su totalidad.
+ •Severidad: 4
+ •Heurística infringida: Information Architecture – Is it usable?
+ •Descripción: Al momento de realizar la búsqueda de un plato de comida, no se muestran laos productos demostrando la falta de funcionamiento de la barra de búsqueda.
+ •Recomendación: Se aconseja corregir la funcionalidad de búsqueda o eliminar la barra de navegación innecesaria.
 
 ## 7.4. Video About the Product
 
@@ -2159,6 +2188,12 @@ Enlace: <https://youtu.be/xSLxkfcY4LA>
 Mobile application:
 
 Enlace: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010942_upc_edu_pe/EW30-rYh3NFFk4-N4g5TcWgBmBGIEfA8gIzpZQG46Gz-6Q?e=YwEbaA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+
+## 7.5. Video About the Team
+
+A continuacion se demostrara un video sobre el equipo de desarrollo:
+
+Enlace: <https://youtu.be/UhUfWYJhiXQ>
 
 ## Conclusiones
 
