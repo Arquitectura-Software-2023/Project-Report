@@ -1968,7 +1968,7 @@ Commits in Web Aplication Repository:
 
 Commits in Mobile Aplication Repository:
 
-![Mobile Commits](https://github-production-user-asset-6210df.s3.amazonaws.com/89089640/284757497-47cb34ae-f02d-43a3-bf7b-66a8a812dec7.png)
+![Mobile Commits](https://github-production-user-asset-6210df.s3.amazonaws.com/89089640/284757497-47cb34ae-f02d-43a3-bf7b-66a8a812dec7)
 
 #### Sprint Backlog 2 Execution Evidence VR Application
 
