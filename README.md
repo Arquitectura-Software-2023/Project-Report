@@ -1907,7 +1907,7 @@ Deployment
 
 | Repositorio | Commit | Mensaje | Autor |
 |-------------|-------------|-------------|-------------|
-|   |   |   |   |
+| Mbile-App  | 7135b0133fc470c78aa13e2c3e157ef16c6d3e78  | Fixed features: add quantity, delete, add product.  | David Torres |
 
 #### Sprint Backlog 2 Development Evidence VR Application
 
