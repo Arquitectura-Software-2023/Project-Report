@@ -1860,10 +1860,10 @@ Deployment
 
 | Sprint Planning | 1 |
 |-----------------|---|
-| Fecha | 16/10/2023 - 08:00 |
+| Fecha | 06/11/2023 - 08:00 |
 | Lugar | Remote - Discord |
 | Asistentes | Todo el equipo |
-| Resultados y Acuerdos | Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration y Spring Backlog 1 |
+| Resultados y Acuerdos | Spring Backlog 2 |
 
 #### 7.2.2.2. Sprint 2 Backlog
 
@@ -2209,4 +2209,18 @@ El uso de herramientas como GitHub y otras colaborativas es fundamental para el 
 
 ## Bibliografia
 
+Peña, C. y Luna, F (SF). Programador Web Full Stack. Desarrollo Web frontend y backend  PHP. Fox andina. <https://books.google.es/books?hl=es&lr=&id=SyBFDwAAQBAJ&oi=fnd&pg=PA1&dq=backend+de+una+pagina+web&ots=-cjv2Nu6kY&sig=dicgnbj4GXulGbtpqHMDC6XtVTQ#v=onepage&q=backend%20de%20una%20pagina%20web&f=false>
+
+Aranda, J. ()Fortalecimiento del frontend y el backend del sitio web <www.vendetucarroya.com> [Tesis de doctorado]. Universidad Distrital Francisco José De Caldas. <https://repository.udistrital.edu.co/bitstream/handle/11349/13876/FORTALECIMIENTO%20DEL%20FRONTEND%20Y%20BACKEND%20DEL%20SITIO%20WEB%20WWW.VENDETUCARROYA.COM.CO.pdf?sequence=1&isAllowed=y>
+
+Pierre, V.(2020). How to build a backend app with TypeScript, Node.js, and Express. JavaScript in Plain English. <https://javascript.plainenglish.io/typescript-node-js-express-js-create-a-backend-application-f5110dbe5c19>
+
+Pham, A(2020). Developing back-end of a web application with NestJS framework. [Tesis de licenciatura]. Lab University of Applied Science. <https://www.theseus.fi/bitstream/handle/10024/353200/Pham_Duc.pdf?isAllowed=y&sequence=2>
+
 ## Anexos
+
+Organizacion en Github: <https://github.com/Arquitectura-Software-2023>
+Landing Page desplegado: <https://jolly-field-04c7e7710.4.azurestaticapps.net/>
+Web app desplegado: <https://tastypoint.netlify.app/>
+Video about the team: <https://youtu.be/UhUfWYJhiXQ>
+Video about the product: <https://youtu.be/xSLxkfcY4LA>
